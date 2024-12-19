@@ -3381,3 +3381,13 @@
 2024-12-10 16:27:11,255 - root - INFO - *********Wait until Front office pop up is located*************
 2024-12-10 16:27:11,278 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
 2024-12-10 16:27:11,278 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2024-12-19 16:01:55,570 - root - INFO - *********URL is invoked in the Browser*************
+2024-12-19 16:01:55,570 - root - INFO - *********URL is invoked in the Browser*************
+2024-12-19 16:02:02,786 - root - INFO - *********Wait until Front office option is located*************
+2024-12-19 16:02:02,786 - root - INFO - *********Wait until Front office option is located*************
+2024-12-19 16:02:02,798 - root - INFO - *********Click the Front office option in His HomePage*************
+2024-12-19 16:02:02,798 - root - INFO - *********Click the Front office option in His HomePage*************
+2024-12-19 16:02:03,080 - root - INFO - *********Wait until Front office pop up is located*************
+2024-12-19 16:02:03,080 - root - INFO - *********Wait until Front office pop up is located*************
+2024-12-19 16:02:03,243 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2024-12-19 16:02:03,243 - root - INFO - *********Click Yes Button in the Front Office Pop up*************

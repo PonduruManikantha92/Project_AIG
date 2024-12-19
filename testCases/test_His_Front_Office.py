@@ -210,6 +210,6 @@ class TestHISFrontOffice(TestHISLoginPage):
                       "manikantha.ponduru@aighospitals.com", ]  # "gaurav.mojasia@aighospitals.com", "kinjal.saxena@aighospitals.com"
         subject = "Automation Test Email of HIS-UAT"
         body = "The Test Automation Team has executed the UAT HIS Test Automation, and this report details the outcomes."
-        attachment_path = r'C:\Users\manikanta\PycharmProjects\PythonTesting\HIS_POM_Pytest_Hybrid_framework\TestData\Patient_Registration.xlsx'
+        attachment_path = r'C:\Users\10013887\PycharmProjects\Testing_Repo\TestData\Patient_Registration.xlsx'
         # Test with attachment
         email_manager(recipients, subject, body, attachment_path=attachment_path)

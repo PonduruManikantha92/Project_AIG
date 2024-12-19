@@ -66,7 +66,7 @@ def pytest_metadata(metadata):
 @pytest.fixture(scope="class")
 def pandas_excel():
     def _load_data(sheet_name):
-        file_path = r'C:\Users\manikanta\PycharmProjects\PythonTesting\HIS_POM_Pytest_Hybrid_framework\TestData\HIS_DATA_WorkBook.xlsx'
+        file_path = r'C:\Users\10013887\PycharmProjects\Testing_Repo\TestData\HIS_DATA_WorkBook.xlsx'
         data = pd.read_excel(file_path, sheet_name=sheet_name)
         return data
 
