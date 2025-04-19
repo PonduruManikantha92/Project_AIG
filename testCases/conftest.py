@@ -87,16 +87,16 @@ def db_connection():
         "PWD=Aigh@123$;"
         "Encrypt=no;"
     )
+    conn = None  # initialize to avoid UnboundLocalError
     try:
         conn = pyodbc.connect(connection_string)
         print("Database connection established.")
-        yield conn  # Provide the connection object to the test
+        yield conn
     except Exception as e:
         pytest.fail(f"Database connection failed: {e}")
     finally:
         if conn:
             conn.close()
-            print("Database connection closed.")
 
 
 # Query executing Fixture

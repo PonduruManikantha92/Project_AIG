@@ -9,7 +9,7 @@ class His_Login_Page:
         self.xpath_for_his_LoginPage_UserName = "//input[@id='txtLoginName']"
         self.xpath_for_his_LoginPage_Password = "//input[@id='txtPassword']"
         self.xpath_for_his_LoginPage_SubmitButton = "//input[@value='Login']"
-        self.xpath_for_pop_up = "(//div[@id='popup650'])[3]"
+        self.xpath_for_pop_up = "(//div[@id='popup650'])[2]"
         self.xpath_for_yes_button_in_active_session_pop_up = "//a[@id='btnYesAlreadyLogedinPopup']"
 
     def Enter_His_LoginPage_UserName(self, username):
