@@ -11,8 +11,9 @@ from testCases.test_login_page_HIS import TestHIS_Login_Page
 
 
 class TestDirectReceipt(TestHIS_Login_Page):
-    logger = LogGen.loggen()
-    def test_direct_receipt(self, pandas_excel):
+    def test_direct_receipt(self):
+        option_name = 'Direct Receipt'
+
         self.direct_receipt = HIS_Direct_receipt(self.driver)
         wait = WebDriverWait(self.driver, 30)
 
@@ -25,12 +26,16 @@ class TestDirectReceipt(TestHIS_Login_Page):
         self.direct_receipt.click_inventory_option()
 
         ###################### Click the  dropdown option ###############################
-        self.logger.info("********* Click the  dropdown option in inventory pop up*************")
+        self.logger.info("********* Click the  dropdown option in inventory pop up and click yes button*************")
         self.direct_receipt.select_options_from_inventory_dropdown()
 
-        ###################### Click the  yes button in the inventory pop up ###############################
-        self.logger.info("********* Click the yes button in the inventory pop up *************")
+        ###################### Click the  search field and enter the option name ###############################
+        self.logger.info("********* Click the  search field and enter the option name *************")
+        self.direct_receipt.click_indent_items_option(option_name)
 
+        self.direct_receipt.click_direct_receipt_from_indent_items()
+
+        self.direct_receipt.wait_for_the_page_header_Direct_receipt()
         time.sleep(20)
 
 
