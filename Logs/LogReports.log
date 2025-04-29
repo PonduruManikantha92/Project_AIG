@@ -305,3 +305,917 @@
 2025-04-23 19:39:33,462 - root - INFO - ********* Click the  inventory option *************
 2025-04-23 19:39:33,589 - root - INFO - ********* Click the  dropdown option in inventory pop up and click yes button*************
 2025-04-23 19:39:36,414 - root - INFO - ********* Click the  search field and enter the option name *************
+2025-04-26 05:50:28,931 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 05:50:28,931 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 05:50:29,447 - root - INFO - *********Logging and saving username status*************
+2025-04-26 05:50:29,447 - root - INFO - *********Logging and saving username status*************
+2025-04-26 05:50:30,171 - root - INFO - *********Logging and saving password status*************
+2025-04-26 05:50:30,171 - root - INFO - *********Logging and saving password status*************
+2025-04-26 05:50:30,527 - root - INFO - *********Clicking submit button*************
+2025-04-26 05:50:30,527 - root - INFO - *********Clicking submit button*************
+2025-04-26 05:50:31,006 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 05:50:31,006 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 05:51:36,829 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 05:51:36,829 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 05:51:37,332 - root - INFO - *********Logging and saving username status*************
+2025-04-26 05:51:37,332 - root - INFO - *********Logging and saving username status*************
+2025-04-26 05:51:38,047 - root - INFO - *********Logging and saving password status*************
+2025-04-26 05:51:38,047 - root - INFO - *********Logging and saving password status*************
+2025-04-26 05:51:38,443 - root - INFO - *********Clicking submit button*************
+2025-04-26 05:51:38,443 - root - INFO - *********Clicking submit button*************
+2025-04-26 05:51:38,949 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 05:51:38,949 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 05:53:47,716 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 05:53:47,716 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 05:53:48,164 - root - INFO - *********Logging and saving username status*************
+2025-04-26 05:53:48,164 - root - INFO - *********Logging and saving username status*************
+2025-04-26 05:53:48,940 - root - INFO - *********Logging and saving password status*************
+2025-04-26 05:53:48,940 - root - INFO - *********Logging and saving password status*************
+2025-04-26 05:53:49,317 - root - INFO - *********Clicking submit button*************
+2025-04-26 05:53:49,317 - root - INFO - *********Clicking submit button*************
+2025-04-26 05:53:49,758 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 05:53:49,758 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 05:55:06,731 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 05:55:06,731 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 05:55:07,246 - root - INFO - *********Logging and saving username status*************
+2025-04-26 05:55:07,246 - root - INFO - *********Logging and saving username status*************
+2025-04-26 05:55:07,843 - root - INFO - *********Logging and saving password status*************
+2025-04-26 05:55:07,843 - root - INFO - *********Logging and saving password status*************
+2025-04-26 05:55:08,235 - root - INFO - *********Clicking submit button*************
+2025-04-26 05:55:08,235 - root - INFO - *********Clicking submit button*************
+2025-04-26 05:55:08,712 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 05:55:08,712 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 06:44:59,744 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 06:44:59,744 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 06:45:00,419 - root - INFO - *********Logging and saving username status*************
+2025-04-26 06:45:00,419 - root - INFO - *********Logging and saving username status*************
+2025-04-26 06:45:01,041 - root - INFO - *********Logging and saving password status*************
+2025-04-26 06:45:01,041 - root - INFO - *********Logging and saving password status*************
+2025-04-26 06:45:01,522 - root - INFO - *********Clicking submit button*************
+2025-04-26 06:45:01,522 - root - INFO - *********Clicking submit button*************
+2025-04-26 06:45:02,030 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 06:45:02,030 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 06:46:30,894 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 06:46:30,894 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 06:46:31,420 - root - INFO - *********Logging and saving username status*************
+2025-04-26 06:46:31,420 - root - INFO - *********Logging and saving username status*************
+2025-04-26 06:46:32,009 - root - INFO - *********Logging and saving password status*************
+2025-04-26 06:46:32,009 - root - INFO - *********Logging and saving password status*************
+2025-04-26 06:46:32,373 - root - INFO - *********Clicking submit button*************
+2025-04-26 06:46:32,373 - root - INFO - *********Clicking submit button*************
+2025-04-26 06:46:32,800 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 06:46:32,800 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 06:51:43,049 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 06:51:43,049 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 06:51:43,551 - root - INFO - *********Logging and saving username status*************
+2025-04-26 06:51:43,551 - root - INFO - *********Logging and saving username status*************
+2025-04-26 06:51:44,242 - root - INFO - *********Logging and saving password status*************
+2025-04-26 06:51:44,242 - root - INFO - *********Logging and saving password status*************
+2025-04-26 06:51:44,607 - root - INFO - *********Clicking submit button*************
+2025-04-26 06:51:44,607 - root - INFO - *********Clicking submit button*************
+2025-04-26 06:51:45,085 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 06:51:45,085 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 06:52:38,859 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 06:52:38,859 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 06:52:39,342 - root - INFO - *********Logging and saving username status*************
+2025-04-26 06:52:39,342 - root - INFO - *********Logging and saving username status*************
+2025-04-26 06:52:40,069 - root - INFO - *********Logging and saving password status*************
+2025-04-26 06:52:40,069 - root - INFO - *********Logging and saving password status*************
+2025-04-26 06:52:40,432 - root - INFO - *********Clicking submit button*************
+2025-04-26 06:52:40,432 - root - INFO - *********Clicking submit button*************
+2025-04-26 06:52:40,844 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 06:52:40,844 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 06:57:23,739 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 06:57:23,739 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 06:57:24,187 - root - INFO - *********Logging and saving username status*************
+2025-04-26 06:57:24,187 - root - INFO - *********Logging and saving username status*************
+2025-04-26 06:57:24,948 - root - INFO - *********Logging and saving password status*************
+2025-04-26 06:57:24,948 - root - INFO - *********Logging and saving password status*************
+2025-04-26 06:57:25,286 - root - INFO - *********Clicking submit button*************
+2025-04-26 06:57:25,286 - root - INFO - *********Clicking submit button*************
+2025-04-26 06:57:25,737 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 06:57:25,737 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 06:58:42,778 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 06:58:42,778 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 06:58:43,281 - root - INFO - *********Logging and saving username status*************
+2025-04-26 06:58:43,281 - root - INFO - *********Logging and saving username status*************
+2025-04-26 06:58:43,952 - root - INFO - *********Logging and saving password status*************
+2025-04-26 06:58:43,952 - root - INFO - *********Logging and saving password status*************
+2025-04-26 06:58:44,329 - root - INFO - *********Clicking submit button*************
+2025-04-26 06:58:44,329 - root - INFO - *********Clicking submit button*************
+2025-04-26 06:58:44,794 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 06:58:44,794 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 07:00:25,762 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 07:00:25,762 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 07:00:26,198 - root - INFO - *********Logging and saving username status*************
+2025-04-26 07:00:26,198 - root - INFO - *********Logging and saving username status*************
+2025-04-26 07:00:26,977 - root - INFO - *********Logging and saving password status*************
+2025-04-26 07:00:26,977 - root - INFO - *********Logging and saving password status*************
+2025-04-26 07:00:27,352 - root - INFO - *********Clicking submit button*************
+2025-04-26 07:00:27,352 - root - INFO - *********Clicking submit button*************
+2025-04-26 07:00:27,801 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 07:00:27,801 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 07:09:41,964 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 07:09:41,964 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 07:09:42,055 - root - INFO - *********Logging and saving username status*************
+2025-04-26 07:09:42,055 - root - INFO - *********Logging and saving username status*************
+2025-04-26 07:09:43,338 - root - INFO - *********Logging and saving password status*************
+2025-04-26 07:09:43,338 - root - INFO - *********Logging and saving password status*************
+2025-04-26 07:09:43,757 - root - INFO - *********Clicking submit button*************
+2025-04-26 07:09:43,757 - root - INFO - *********Clicking submit button*************
+2025-04-26 07:09:44,226 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 07:09:44,226 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 07:17:01,924 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 07:17:01,924 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 07:17:02,462 - root - INFO - *********Logging and saving username status*************
+2025-04-26 07:17:02,462 - root - INFO - *********Logging and saving username status*************
+2025-04-26 07:17:03,144 - root - INFO - *********Logging and saving password status*************
+2025-04-26 07:17:03,144 - root - INFO - *********Logging and saving password status*************
+2025-04-26 07:17:03,534 - root - INFO - *********Clicking submit button*************
+2025-04-26 07:17:03,534 - root - INFO - *********Clicking submit button*************
+2025-04-26 07:17:03,974 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 07:17:03,974 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 07:23:17,339 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 07:23:17,339 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 07:23:17,978 - root - INFO - *********Logging and saving username status*************
+2025-04-26 07:23:17,978 - root - INFO - *********Logging and saving username status*************
+2025-04-26 07:23:18,563 - root - INFO - *********Logging and saving password status*************
+2025-04-26 07:23:18,563 - root - INFO - *********Logging and saving password status*************
+2025-04-26 07:23:18,926 - root - INFO - *********Clicking submit button*************
+2025-04-26 07:23:18,926 - root - INFO - *********Clicking submit button*************
+2025-04-26 07:23:19,391 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 07:23:19,391 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 07:24:17,548 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 07:24:17,548 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 07:24:17,600 - root - INFO - *********Logging and saving username status*************
+2025-04-26 07:24:17,600 - root - INFO - *********Logging and saving username status*************
+2025-04-26 07:24:18,648 - root - INFO - *********Logging and saving password status*************
+2025-04-26 07:24:18,648 - root - INFO - *********Logging and saving password status*************
+2025-04-26 07:24:19,018 - root - INFO - *********Clicking submit button*************
+2025-04-26 07:24:19,018 - root - INFO - *********Clicking submit button*************
+2025-04-26 07:24:19,446 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 07:24:19,446 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 07:30:24,622 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 07:30:24,622 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 07:30:24,703 - root - INFO - *********Logging and saving username status*************
+2025-04-26 07:30:24,703 - root - INFO - *********Logging and saving username status*************
+2025-04-26 07:30:25,842 - root - INFO - *********Logging and saving password status*************
+2025-04-26 07:30:25,842 - root - INFO - *********Logging and saving password status*************
+2025-04-26 07:30:26,232 - root - INFO - *********Clicking submit button*************
+2025-04-26 07:30:26,232 - root - INFO - *********Clicking submit button*************
+2025-04-26 07:30:26,705 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 07:30:26,705 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 07:39:57,269 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 07:39:57,269 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 07:39:57,350 - root - INFO - *********Logging and saving username status*************
+2025-04-26 07:39:57,350 - root - INFO - *********Logging and saving username status*************
+2025-04-26 07:39:58,514 - root - INFO - *********Logging and saving password status*************
+2025-04-26 07:39:58,514 - root - INFO - *********Logging and saving password status*************
+2025-04-26 07:39:58,883 - root - INFO - *********Clicking submit button*************
+2025-04-26 07:39:58,883 - root - INFO - *********Clicking submit button*************
+2025-04-26 07:39:59,298 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 07:39:59,298 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 07:43:04,380 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 07:43:04,380 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 07:43:04,796 - root - INFO - *********Logging and saving username status*************
+2025-04-26 07:43:04,796 - root - INFO - *********Logging and saving username status*************
+2025-04-26 07:43:05,588 - root - INFO - *********Logging and saving password status*************
+2025-04-26 07:43:05,588 - root - INFO - *********Logging and saving password status*************
+2025-04-26 07:43:06,002 - root - INFO - *********Clicking submit button*************
+2025-04-26 07:43:06,002 - root - INFO - *********Clicking submit button*************
+2025-04-26 07:43:06,402 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 07:43:06,402 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 10:07:05,785 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 10:07:05,785 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 10:07:06,673 - root - INFO - *********Logging and saving username status*************
+2025-04-26 10:07:06,673 - root - INFO - *********Logging and saving username status*************
+2025-04-26 10:07:07,102 - root - INFO - *********Logging and saving password status*************
+2025-04-26 10:07:07,102 - root - INFO - *********Logging and saving password status*************
+2025-04-26 10:07:07,443 - root - INFO - *********Clicking submit button*************
+2025-04-26 10:07:07,443 - root - INFO - *********Clicking submit button*************
+2025-04-26 10:07:07,857 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 10:07:07,857 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 10:46:12,518 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 10:46:12,518 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 10:46:13,031 - root - INFO - *********Logging and saving username status*************
+2025-04-26 10:46:13,031 - root - INFO - *********Logging and saving username status*************
+2025-04-26 10:46:13,696 - root - INFO - *********Logging and saving password status*************
+2025-04-26 10:46:13,696 - root - INFO - *********Logging and saving password status*************
+2025-04-26 10:46:14,055 - root - INFO - *********Clicking submit button*************
+2025-04-26 10:46:14,055 - root - INFO - *********Clicking submit button*************
+2025-04-26 10:46:14,487 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 10:46:14,487 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 11:37:20,547 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 11:37:20,547 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 11:37:21,105 - root - INFO - *********Logging and saving username status*************
+2025-04-26 11:37:21,105 - root - INFO - *********Logging and saving username status*************
+2025-04-26 11:37:22,018 - root - INFO - *********Logging and saving password status*************
+2025-04-26 11:37:22,018 - root - INFO - *********Logging and saving password status*************
+2025-04-26 11:37:22,366 - root - INFO - *********Clicking submit button*************
+2025-04-26 11:37:22,366 - root - INFO - *********Clicking submit button*************
+2025-04-26 11:37:22,891 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 11:37:22,891 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 12:24:48,328 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 12:24:48,328 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 12:24:49,010 - root - INFO - *********Logging and saving username status*************
+2025-04-26 12:24:49,010 - root - INFO - *********Logging and saving username status*************
+2025-04-26 12:24:49,746 - root - INFO - *********Logging and saving password status*************
+2025-04-26 12:24:49,746 - root - INFO - *********Logging and saving password status*************
+2025-04-26 12:24:50,116 - root - INFO - *********Clicking submit button*************
+2025-04-26 12:24:50,116 - root - INFO - *********Clicking submit button*************
+2025-04-26 12:24:50,525 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 12:24:50,525 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 12:25:39,225 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 12:25:39,225 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 12:25:39,907 - root - INFO - *********Logging and saving username status*************
+2025-04-26 12:25:39,907 - root - INFO - *********Logging and saving username status*************
+2025-04-26 12:25:40,497 - root - INFO - *********Logging and saving password status*************
+2025-04-26 12:25:40,497 - root - INFO - *********Logging and saving password status*************
+2025-04-26 12:25:40,857 - root - INFO - *********Clicking submit button*************
+2025-04-26 12:25:40,857 - root - INFO - *********Clicking submit button*************
+2025-04-26 12:25:41,314 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 12:25:41,314 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 12:26:46,764 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 12:26:46,764 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 12:26:47,368 - root - INFO - *********Logging and saving username status*************
+2025-04-26 12:26:47,368 - root - INFO - *********Logging and saving username status*************
+2025-04-26 12:26:48,027 - root - INFO - *********Logging and saving password status*************
+2025-04-26 12:26:48,027 - root - INFO - *********Logging and saving password status*************
+2025-04-26 12:26:48,396 - root - INFO - *********Clicking submit button*************
+2025-04-26 12:26:48,396 - root - INFO - *********Clicking submit button*************
+2025-04-26 12:26:48,872 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 12:26:48,872 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 15:05:01,947 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 15:05:01,947 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 15:05:02,661 - root - INFO - *********Logging and saving username status*************
+2025-04-26 15:05:02,661 - root - INFO - *********Logging and saving username status*************
+2025-04-26 15:05:03,191 - root - INFO - *********Logging and saving password status*************
+2025-04-26 15:05:03,191 - root - INFO - *********Logging and saving password status*************
+2025-04-26 15:05:03,619 - root - INFO - *********Clicking submit button*************
+2025-04-26 15:05:03,619 - root - INFO - *********Clicking submit button*************
+2025-04-26 15:05:04,023 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 15:05:04,023 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 15:12:45,377 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 15:12:45,377 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 15:12:46,031 - root - INFO - *********Logging and saving username status*************
+2025-04-26 15:12:46,031 - root - INFO - *********Logging and saving username status*************
+2025-04-26 15:12:46,707 - root - INFO - *********Logging and saving password status*************
+2025-04-26 15:12:46,707 - root - INFO - *********Logging and saving password status*************
+2025-04-26 15:12:47,158 - root - INFO - *********Clicking submit button*************
+2025-04-26 15:12:47,158 - root - INFO - *********Clicking submit button*************
+2025-04-26 15:12:47,604 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 15:12:47,604 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 15:22:01,919 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 15:22:01,919 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 15:22:02,403 - root - INFO - *********Logging and saving username status*************
+2025-04-26 15:22:02,403 - root - INFO - *********Logging and saving username status*************
+2025-04-26 15:22:03,106 - root - INFO - *********Logging and saving password status*************
+2025-04-26 15:22:03,106 - root - INFO - *********Logging and saving password status*************
+2025-04-26 15:22:03,480 - root - INFO - *********Clicking submit button*************
+2025-04-26 15:22:03,480 - root - INFO - *********Clicking submit button*************
+2025-04-26 15:22:03,858 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 15:22:03,858 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 16:12:52,764 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 16:12:52,764 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 16:12:53,237 - root - INFO - *********Logging and saving username status*************
+2025-04-26 16:12:53,237 - root - INFO - *********Logging and saving username status*************
+2025-04-26 16:12:54,061 - root - INFO - *********Logging and saving password status*************
+2025-04-26 16:12:54,061 - root - INFO - *********Logging and saving password status*************
+2025-04-26 16:12:54,449 - root - INFO - *********Clicking submit button*************
+2025-04-26 16:12:54,449 - root - INFO - *********Clicking submit button*************
+2025-04-26 16:12:54,889 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 16:12:54,889 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 17:28:03,753 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 17:28:03,753 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 17:28:04,466 - root - INFO - *********Logging and saving username status*************
+2025-04-26 17:28:04,466 - root - INFO - *********Logging and saving username status*************
+2025-04-26 17:28:05,195 - root - INFO - *********Logging and saving password status*************
+2025-04-26 17:28:05,195 - root - INFO - *********Logging and saving password status*************
+2025-04-26 17:28:05,713 - root - INFO - *********Clicking submit button*************
+2025-04-26 17:28:05,713 - root - INFO - *********Clicking submit button*************
+2025-04-26 17:28:06,179 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 17:28:06,179 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 17:28:47,456 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 17:28:47,456 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 17:28:48,018 - root - INFO - *********Logging and saving username status*************
+2025-04-26 17:28:48,018 - root - INFO - *********Logging and saving username status*************
+2025-04-26 17:28:48,712 - root - INFO - *********Logging and saving password status*************
+2025-04-26 17:28:48,712 - root - INFO - *********Logging and saving password status*************
+2025-04-26 17:28:49,068 - root - INFO - *********Clicking submit button*************
+2025-04-26 17:28:49,068 - root - INFO - *********Clicking submit button*************
+2025-04-26 17:28:49,507 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 17:28:49,507 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 17:35:30,850 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 17:35:30,850 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 17:35:31,539 - root - INFO - *********Logging and saving username status*************
+2025-04-26 17:35:31,539 - root - INFO - *********Logging and saving username status*************
+2025-04-26 17:35:32,100 - root - INFO - *********Logging and saving password status*************
+2025-04-26 17:35:32,100 - root - INFO - *********Logging and saving password status*************
+2025-04-26 17:35:32,467 - root - INFO - *********Clicking submit button*************
+2025-04-26 17:35:32,467 - root - INFO - *********Clicking submit button*************
+2025-04-26 17:35:32,865 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 17:35:32,865 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 17:46:33,637 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 17:46:33,637 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 17:46:34,301 - root - INFO - *********Logging and saving username status*************
+2025-04-26 17:46:34,301 - root - INFO - *********Logging and saving username status*************
+2025-04-26 17:46:35,040 - root - INFO - *********Logging and saving password status*************
+2025-04-26 17:46:35,040 - root - INFO - *********Logging and saving password status*************
+2025-04-26 17:46:35,528 - root - INFO - *********Clicking submit button*************
+2025-04-26 17:46:35,528 - root - INFO - *********Clicking submit button*************
+2025-04-26 17:46:36,222 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 17:46:36,222 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 17:50:48,330 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 17:50:48,330 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 17:50:49,551 - root - INFO - *********Logging and saving username status*************
+2025-04-26 17:50:49,551 - root - INFO - *********Logging and saving username status*************
+2025-04-26 17:50:49,926 - root - INFO - *********Logging and saving password status*************
+2025-04-26 17:50:49,926 - root - INFO - *********Logging and saving password status*************
+2025-04-26 17:50:50,280 - root - INFO - *********Clicking submit button*************
+2025-04-26 17:50:50,280 - root - INFO - *********Clicking submit button*************
+2025-04-26 17:50:50,648 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 17:50:50,648 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 18:04:11,534 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 18:04:11,534 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 18:04:12,342 - root - INFO - *********Logging and saving username status*************
+2025-04-26 18:04:12,342 - root - INFO - *********Logging and saving username status*************
+2025-04-26 18:04:12,746 - root - INFO - *********Logging and saving password status*************
+2025-04-26 18:04:12,746 - root - INFO - *********Logging and saving password status*************
+2025-04-26 18:04:13,109 - root - INFO - *********Clicking submit button*************
+2025-04-26 18:04:13,109 - root - INFO - *********Clicking submit button*************
+2025-04-26 18:04:13,548 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 18:04:13,548 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 18:14:29,733 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 18:14:29,733 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 18:14:30,198 - root - INFO - *********Logging and saving username status*************
+2025-04-26 18:14:30,198 - root - INFO - *********Logging and saving username status*************
+2025-04-26 18:14:30,910 - root - INFO - *********Logging and saving password status*************
+2025-04-26 18:14:30,910 - root - INFO - *********Logging and saving password status*************
+2025-04-26 18:14:31,271 - root - INFO - *********Clicking submit button*************
+2025-04-26 18:14:31,271 - root - INFO - *********Clicking submit button*************
+2025-04-26 18:14:31,666 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 18:14:31,666 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 18:22:39,463 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 18:22:39,463 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 18:22:40,112 - root - INFO - *********Logging and saving username status*************
+2025-04-26 18:22:40,112 - root - INFO - *********Logging and saving username status*************
+2025-04-26 18:22:40,762 - root - INFO - *********Logging and saving password status*************
+2025-04-26 18:22:40,762 - root - INFO - *********Logging and saving password status*************
+2025-04-26 18:22:41,117 - root - INFO - *********Clicking submit button*************
+2025-04-26 18:22:41,117 - root - INFO - *********Clicking submit button*************
+2025-04-26 18:22:41,496 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 18:22:41,496 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 18:35:14,869 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 18:35:14,869 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-26 18:35:15,770 - root - INFO - *********Logging and saving username status*************
+2025-04-26 18:35:15,770 - root - INFO - *********Logging and saving username status*************
+2025-04-26 18:35:16,156 - root - INFO - *********Logging and saving password status*************
+2025-04-26 18:35:16,156 - root - INFO - *********Logging and saving password status*************
+2025-04-26 18:35:16,547 - root - INFO - *********Clicking submit button*************
+2025-04-26 18:35:16,547 - root - INFO - *********Clicking submit button*************
+2025-04-26 18:35:16,945 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-26 18:35:16,945 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 15:01:27,297 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 15:01:27,297 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 15:01:27,891 - root - INFO - *********Logging and saving username status*************
+2025-04-28 15:01:27,891 - root - INFO - *********Logging and saving username status*************
+2025-04-28 15:01:28,620 - root - INFO - *********Logging and saving password status*************
+2025-04-28 15:01:28,620 - root - INFO - *********Logging and saving password status*************
+2025-04-28 15:01:28,986 - root - INFO - *********Clicking submit button*************
+2025-04-28 15:01:28,986 - root - INFO - *********Clicking submit button*************
+2025-04-28 15:01:29,463 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 15:01:29,463 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 15:13:48,841 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 15:13:48,841 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 15:13:49,322 - root - INFO - *********Logging and saving username status*************
+2025-04-28 15:13:49,322 - root - INFO - *********Logging and saving username status*************
+2025-04-28 15:13:49,926 - root - INFO - *********Logging and saving password status*************
+2025-04-28 15:13:49,926 - root - INFO - *********Logging and saving password status*************
+2025-04-28 15:13:50,259 - root - INFO - *********Clicking submit button*************
+2025-04-28 15:13:50,259 - root - INFO - *********Clicking submit button*************
+2025-04-28 15:13:50,674 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 15:13:50,674 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 15:15:40,940 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 15:15:40,940 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 15:15:41,570 - root - INFO - *********Logging and saving username status*************
+2025-04-28 15:15:41,570 - root - INFO - *********Logging and saving username status*************
+2025-04-28 15:15:42,067 - root - INFO - *********Logging and saving password status*************
+2025-04-28 15:15:42,067 - root - INFO - *********Logging and saving password status*************
+2025-04-28 15:15:42,392 - root - INFO - *********Clicking submit button*************
+2025-04-28 15:15:42,392 - root - INFO - *********Clicking submit button*************
+2025-04-28 15:15:42,810 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 15:15:42,810 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 15:29:39,247 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 15:29:39,247 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 15:30:59,990 - root - INFO - *********Logging and saving username status*************
+2025-04-28 15:30:59,990 - root - INFO - *********Logging and saving username status*************
+2025-04-28 15:31:00,545 - root - INFO - *********Logging and saving password status*************
+2025-04-28 15:31:00,545 - root - INFO - *********Logging and saving password status*************
+2025-04-28 15:31:00,991 - root - INFO - *********Clicking submit button*************
+2025-04-28 15:31:00,991 - root - INFO - *********Clicking submit button*************
+2025-04-28 15:31:01,616 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 15:31:01,616 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 15:45:43,336 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 15:45:43,336 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 15:45:44,963 - root - INFO - *********Logging and saving username status*************
+2025-04-28 15:45:44,963 - root - INFO - *********Logging and saving username status*************
+2025-04-28 15:45:45,320 - root - INFO - *********Logging and saving password status*************
+2025-04-28 15:45:45,320 - root - INFO - *********Logging and saving password status*************
+2025-04-28 15:45:45,651 - root - INFO - *********Clicking submit button*************
+2025-04-28 15:45:45,651 - root - INFO - *********Clicking submit button*************
+2025-04-28 15:45:46,021 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 15:45:46,021 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 16:53:46,271 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 16:53:46,271 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 16:53:47,117 - root - INFO - *********Logging and saving username status*************
+2025-04-28 16:53:47,117 - root - INFO - *********Logging and saving username status*************
+2025-04-28 16:53:47,511 - root - INFO - *********Logging and saving password status*************
+2025-04-28 16:53:47,511 - root - INFO - *********Logging and saving password status*************
+2025-04-28 16:53:47,860 - root - INFO - *********Clicking submit button*************
+2025-04-28 16:53:47,860 - root - INFO - *********Clicking submit button*************
+2025-04-28 16:53:48,345 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 16:53:48,345 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 17:12:51,242 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 17:12:51,242 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 17:12:51,841 - root - INFO - *********Logging and saving username status*************
+2025-04-28 17:12:51,841 - root - INFO - *********Logging and saving username status*************
+2025-04-28 17:12:52,415 - root - INFO - *********Logging and saving password status*************
+2025-04-28 17:12:52,415 - root - INFO - *********Logging and saving password status*************
+2025-04-28 17:12:52,751 - root - INFO - *********Clicking submit button*************
+2025-04-28 17:12:52,751 - root - INFO - *********Clicking submit button*************
+2025-04-28 17:12:53,184 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 17:12:53,184 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 18:02:49,081 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 18:02:49,081 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 18:02:49,495 - root - INFO - *********Logging and saving username status*************
+2025-04-28 18:02:49,495 - root - INFO - *********Logging and saving username status*************
+2025-04-28 18:02:50,177 - root - INFO - *********Logging and saving password status*************
+2025-04-28 18:02:50,177 - root - INFO - *********Logging and saving password status*************
+2025-04-28 18:02:50,533 - root - INFO - *********Clicking submit button*************
+2025-04-28 18:02:50,533 - root - INFO - *********Clicking submit button*************
+2025-04-28 18:02:50,921 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 18:02:50,921 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 18:05:53,030 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 18:05:53,030 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 18:05:53,566 - root - INFO - *********Logging and saving username status*************
+2025-04-28 18:05:53,566 - root - INFO - *********Logging and saving username status*************
+2025-04-28 18:05:54,185 - root - INFO - *********Logging and saving password status*************
+2025-04-28 18:05:54,185 - root - INFO - *********Logging and saving password status*************
+2025-04-28 18:05:54,531 - root - INFO - *********Clicking submit button*************
+2025-04-28 18:05:54,531 - root - INFO - *********Clicking submit button*************
+2025-04-28 18:05:54,970 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 18:05:54,970 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 18:06:27,906 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 18:06:27,906 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 18:06:28,423 - root - INFO - *********Logging and saving username status*************
+2025-04-28 18:06:28,423 - root - INFO - *********Logging and saving username status*************
+2025-04-28 18:06:29,030 - root - INFO - *********Logging and saving password status*************
+2025-04-28 18:06:29,030 - root - INFO - *********Logging and saving password status*************
+2025-04-28 18:06:29,405 - root - INFO - *********Clicking submit button*************
+2025-04-28 18:06:29,405 - root - INFO - *********Clicking submit button*************
+2025-04-28 18:06:29,852 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 18:06:29,852 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 18:28:31,515 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 18:28:31,515 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 18:28:32,129 - root - INFO - *********Logging and saving username status*************
+2025-04-28 18:28:32,129 - root - INFO - *********Logging and saving username status*************
+2025-04-28 18:28:32,575 - root - INFO - *********Logging and saving password status*************
+2025-04-28 18:28:32,575 - root - INFO - *********Logging and saving password status*************
+2025-04-28 18:28:32,918 - root - INFO - *********Clicking submit button*************
+2025-04-28 18:28:32,918 - root - INFO - *********Clicking submit button*************
+2025-04-28 18:28:33,363 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 18:28:33,363 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 18:28:34,180 - root - INFO - ******************Select a Facility******************
+2025-04-28 18:28:34,180 - root - INFO - ******************Select a Facility******************
+2025-04-28 18:28:49,096 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 18:28:49,096 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 18:28:49,606 - root - INFO - *********Logging and saving username status*************
+2025-04-28 18:28:49,606 - root - INFO - *********Logging and saving username status*************
+2025-04-28 18:28:50,154 - root - INFO - *********Logging and saving password status*************
+2025-04-28 18:28:50,154 - root - INFO - *********Logging and saving password status*************
+2025-04-28 18:28:50,479 - root - INFO - *********Clicking submit button*************
+2025-04-28 18:28:50,479 - root - INFO - *********Clicking submit button*************
+2025-04-28 18:28:50,913 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 18:28:50,913 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 18:28:51,620 - root - INFO - ******************Select a Facility******************
+2025-04-28 18:28:51,620 - root - INFO - ******************Select a Facility******************
+2025-04-28 18:38:02,829 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 18:38:02,829 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 18:38:03,735 - root - INFO - *********Logging and saving username status*************
+2025-04-28 18:38:03,735 - root - INFO - *********Logging and saving username status*************
+2025-04-28 18:38:04,145 - root - INFO - *********Logging and saving password status*************
+2025-04-28 18:38:04,145 - root - INFO - *********Logging and saving password status*************
+2025-04-28 18:38:04,481 - root - INFO - *********Clicking submit button*************
+2025-04-28 18:38:04,481 - root - INFO - *********Clicking submit button*************
+2025-04-28 18:38:04,855 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 18:38:04,855 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 18:38:05,507 - root - INFO - ******************Select a Facility******************
+2025-04-28 18:38:05,507 - root - INFO - ******************Select a Facility******************
+2025-04-28 18:40:21,033 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 18:40:21,033 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 18:40:24,058 - root - INFO - *********Logging and saving username status*************
+2025-04-28 18:40:24,058 - root - INFO - *********Logging and saving username status*************
+2025-04-28 18:40:24,419 - root - INFO - *********Logging and saving password status*************
+2025-04-28 18:40:24,419 - root - INFO - *********Logging and saving password status*************
+2025-04-28 18:40:24,746 - root - INFO - *********Clicking submit button*************
+2025-04-28 18:40:24,746 - root - INFO - *********Clicking submit button*************
+2025-04-28 18:40:25,176 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 18:40:25,176 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 18:40:32,677 - root - INFO - ******************Select a Facility******************
+2025-04-28 18:40:32,677 - root - INFO - ******************Select a Facility******************
+2025-04-28 18:43:21,121 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 18:43:21,121 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 18:43:22,957 - root - INFO - *********Logging and saving username status*************
+2025-04-28 18:43:22,957 - root - INFO - *********Logging and saving username status*************
+2025-04-28 18:43:23,319 - root - INFO - *********Logging and saving password status*************
+2025-04-28 18:43:23,319 - root - INFO - *********Logging and saving password status*************
+2025-04-28 18:43:23,649 - root - INFO - *********Clicking submit button*************
+2025-04-28 18:43:23,649 - root - INFO - *********Clicking submit button*************
+2025-04-28 18:43:24,098 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 18:43:24,098 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 18:43:28,139 - root - INFO - ******************Select a Facility******************
+2025-04-28 18:43:28,139 - root - INFO - ******************Select a Facility******************
+2025-04-28 19:15:14,541 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 19:15:14,541 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 19:15:15,228 - root - INFO - *********Logging and saving username status*************
+2025-04-28 19:15:15,228 - root - INFO - *********Logging and saving username status*************
+2025-04-28 19:15:15,713 - root - INFO - *********Logging and saving password status*************
+2025-04-28 19:15:15,713 - root - INFO - *********Logging and saving password status*************
+2025-04-28 19:15:16,220 - root - INFO - *********Clicking submit button*************
+2025-04-28 19:15:16,220 - root - INFO - *********Clicking submit button*************
+2025-04-28 19:15:16,610 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 19:15:16,610 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 19:15:17,476 - root - INFO - ******************Select a Facility******************
+2025-04-28 19:15:17,476 - root - INFO - ******************Select a Facility******************
+2025-04-28 19:16:42,874 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 19:16:42,874 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-28 19:16:43,360 - root - INFO - *********Logging and saving username status*************
+2025-04-28 19:16:43,360 - root - INFO - *********Logging and saving username status*************
+2025-04-28 19:16:44,030 - root - INFO - *********Logging and saving password status*************
+2025-04-28 19:16:44,030 - root - INFO - *********Logging and saving password status*************
+2025-04-28 19:16:44,388 - root - INFO - *********Clicking submit button*************
+2025-04-28 19:16:44,388 - root - INFO - *********Clicking submit button*************
+2025-04-28 19:16:44,839 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 19:16:44,839 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-28 19:16:45,762 - root - INFO - ******************Select a Facility******************
+2025-04-28 19:16:45,762 - root - INFO - ******************Select a Facility******************
+2025-04-29 05:01:15,262 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 05:01:15,262 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 05:01:19,081 - root - INFO - *********Logging and saving username status*************
+2025-04-29 05:01:19,081 - root - INFO - *********Logging and saving username status*************
+2025-04-29 05:01:19,737 - root - INFO - *********Logging and saving password status*************
+2025-04-29 05:01:19,737 - root - INFO - *********Logging and saving password status*************
+2025-04-29 05:01:20,116 - root - INFO - *********Clicking submit button*************
+2025-04-29 05:01:20,116 - root - INFO - *********Clicking submit button*************
+2025-04-29 05:01:21,216 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 05:01:21,216 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 05:01:22,427 - root - INFO - ******************Select a Facility******************
+2025-04-29 05:01:22,427 - root - INFO - ******************Select a Facility******************
+2025-04-29 05:13:09,801 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 05:13:09,801 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 05:13:10,317 - root - INFO - *********Logging and saving username status*************
+2025-04-29 05:13:10,317 - root - INFO - *********Logging and saving username status*************
+2025-04-29 05:13:10,984 - root - INFO - *********Logging and saving password status*************
+2025-04-29 05:13:10,984 - root - INFO - *********Logging and saving password status*************
+2025-04-29 05:13:11,336 - root - INFO - *********Clicking submit button*************
+2025-04-29 05:13:11,336 - root - INFO - *********Clicking submit button*************
+2025-04-29 05:13:11,768 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 05:13:11,768 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 05:13:12,562 - root - INFO - ******************Select a Facility******************
+2025-04-29 05:13:12,562 - root - INFO - ******************Select a Facility******************
+2025-04-29 05:14:44,108 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 05:14:44,108 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 05:14:44,671 - root - INFO - *********Logging and saving username status*************
+2025-04-29 05:14:44,671 - root - INFO - *********Logging and saving username status*************
+2025-04-29 05:14:45,390 - root - INFO - *********Logging and saving password status*************
+2025-04-29 05:14:45,390 - root - INFO - *********Logging and saving password status*************
+2025-04-29 05:14:45,805 - root - INFO - *********Clicking submit button*************
+2025-04-29 05:14:45,805 - root - INFO - *********Clicking submit button*************
+2025-04-29 05:14:46,282 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 05:14:46,282 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 05:14:47,149 - root - INFO - ******************Select a Facility******************
+2025-04-29 05:14:47,149 - root - INFO - ******************Select a Facility******************
+2025-04-29 05:28:50,914 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 05:28:50,914 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 05:28:51,388 - root - INFO - *********Logging and saving username status*************
+2025-04-29 05:28:51,388 - root - INFO - *********Logging and saving username status*************
+2025-04-29 05:28:52,105 - root - INFO - *********Logging and saving password status*************
+2025-04-29 05:28:52,105 - root - INFO - *********Logging and saving password status*************
+2025-04-29 05:28:52,488 - root - INFO - *********Clicking submit button*************
+2025-04-29 05:28:52,488 - root - INFO - *********Clicking submit button*************
+2025-04-29 05:28:52,888 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 05:28:52,888 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 05:28:53,646 - root - INFO - ******************Select a Facility******************
+2025-04-29 05:28:53,646 - root - INFO - ******************Select a Facility******************
+2025-04-29 05:31:13,479 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 05:31:13,479 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 05:31:14,081 - root - INFO - *********Logging and saving username status*************
+2025-04-29 05:31:14,081 - root - INFO - *********Logging and saving username status*************
+2025-04-29 05:31:14,767 - root - INFO - *********Logging and saving password status*************
+2025-04-29 05:31:14,767 - root - INFO - *********Logging and saving password status*************
+2025-04-29 05:31:15,151 - root - INFO - *********Clicking submit button*************
+2025-04-29 05:31:15,151 - root - INFO - *********Clicking submit button*************
+2025-04-29 05:31:15,531 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 05:31:15,531 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 05:31:16,249 - root - INFO - ******************Select a Facility******************
+2025-04-29 05:31:16,249 - root - INFO - ******************Select a Facility******************
+2025-04-29 05:33:55,295 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 05:33:55,295 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 05:33:55,812 - root - INFO - *********Logging and saving username status*************
+2025-04-29 05:33:55,812 - root - INFO - *********Logging and saving username status*************
+2025-04-29 05:33:56,414 - root - INFO - *********Logging and saving password status*************
+2025-04-29 05:33:56,414 - root - INFO - *********Logging and saving password status*************
+2025-04-29 05:33:56,796 - root - INFO - *********Clicking submit button*************
+2025-04-29 05:33:56,796 - root - INFO - *********Clicking submit button*************
+2025-04-29 05:33:57,248 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 05:33:57,248 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 05:33:57,974 - root - INFO - ******************Select a Facility******************
+2025-04-29 05:33:57,974 - root - INFO - ******************Select a Facility******************
+2025-04-29 05:34:45,266 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 05:34:45,266 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 05:34:45,710 - root - INFO - *********Logging and saving username status*************
+2025-04-29 05:34:45,710 - root - INFO - *********Logging and saving username status*************
+2025-04-29 05:34:46,328 - root - INFO - *********Logging and saving password status*************
+2025-04-29 05:34:46,328 - root - INFO - *********Logging and saving password status*************
+2025-04-29 05:34:46,718 - root - INFO - *********Clicking submit button*************
+2025-04-29 05:34:46,718 - root - INFO - *********Clicking submit button*************
+2025-04-29 05:34:47,151 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 05:34:47,151 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 05:34:47,905 - root - INFO - ******************Select a Facility******************
+2025-04-29 05:34:47,905 - root - INFO - ******************Select a Facility******************
+2025-04-29 05:54:42,439 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 05:54:42,439 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 05:54:42,896 - root - INFO - *********Logging and saving username status*************
+2025-04-29 05:54:42,896 - root - INFO - *********Logging and saving username status*************
+2025-04-29 05:54:43,649 - root - INFO - *********Logging and saving password status*************
+2025-04-29 05:54:43,649 - root - INFO - *********Logging and saving password status*************
+2025-04-29 05:54:44,028 - root - INFO - *********Clicking submit button*************
+2025-04-29 05:54:44,028 - root - INFO - *********Clicking submit button*************
+2025-04-29 05:54:44,438 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 05:54:44,438 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 05:54:45,268 - root - INFO - ******************Select a Facility******************
+2025-04-29 05:54:45,268 - root - INFO - ******************Select a Facility******************
+2025-04-29 06:06:43,414 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 06:06:43,414 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 06:06:44,014 - root - INFO - *********Logging and saving username status*************
+2025-04-29 06:06:44,014 - root - INFO - *********Logging and saving username status*************
+2025-04-29 06:06:44,705 - root - INFO - *********Logging and saving password status*************
+2025-04-29 06:06:44,705 - root - INFO - *********Logging and saving password status*************
+2025-04-29 06:06:45,094 - root - INFO - *********Clicking submit button*************
+2025-04-29 06:06:45,094 - root - INFO - *********Clicking submit button*************
+2025-04-29 06:06:45,534 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 06:06:45,534 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 06:06:46,291 - root - INFO - ******************Select a Facility******************
+2025-04-29 06:06:46,291 - root - INFO - ******************Select a Facility******************
+2025-04-29 06:40:39,031 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 06:40:39,031 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 06:40:39,581 - root - INFO - *********Logging and saving username status*************
+2025-04-29 06:40:39,581 - root - INFO - *********Logging and saving username status*************
+2025-04-29 06:40:40,248 - root - INFO - *********Logging and saving password status*************
+2025-04-29 06:40:40,248 - root - INFO - *********Logging and saving password status*************
+2025-04-29 06:40:40,652 - root - INFO - *********Clicking submit button*************
+2025-04-29 06:40:40,652 - root - INFO - *********Clicking submit button*************
+2025-04-29 06:40:41,095 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 06:40:41,095 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 06:40:41,861 - root - INFO - ******************Select a Facility******************
+2025-04-29 06:40:41,861 - root - INFO - ******************Select a Facility******************
+2025-04-29 06:40:42,114 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 06:40:42,114 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 06:40:42,766 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 06:40:42,766 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 06:40:44,394 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 06:40:44,394 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 06:40:48,054 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 06:40:48,054 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 06:41:19,428 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 06:41:19,428 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 06:41:19,975 - root - INFO - *************** Referred By *********************
+2025-04-29 06:41:19,975 - root - INFO - *************** Referred By *********************
+2025-04-29 06:43:09,494 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 06:43:09,494 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 06:43:09,978 - root - INFO - *********Logging and saving username status*************
+2025-04-29 06:43:09,978 - root - INFO - *********Logging and saving username status*************
+2025-04-29 06:43:10,640 - root - INFO - *********Logging and saving password status*************
+2025-04-29 06:43:10,640 - root - INFO - *********Logging and saving password status*************
+2025-04-29 06:43:10,995 - root - INFO - *********Clicking submit button*************
+2025-04-29 06:43:10,995 - root - INFO - *********Clicking submit button*************
+2025-04-29 06:43:11,492 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 06:43:11,492 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 06:43:12,323 - root - INFO - ******************Select a Facility******************
+2025-04-29 06:43:12,323 - root - INFO - ******************Select a Facility******************
+2025-04-29 06:43:12,579 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 06:43:12,579 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 06:43:13,177 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 06:43:13,177 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 06:43:14,650 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 06:43:14,650 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 06:43:17,652 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 06:43:17,652 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 06:43:40,286 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 06:43:40,286 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 06:43:41,138 - root - INFO - *************** Referred By *********************
+2025-04-29 06:43:41,138 - root - INFO - *************** Referred By *********************
+2025-04-29 06:43:41,467 - root - INFO - *************** Clicking add to bill *********************
+2025-04-29 06:43:41,467 - root - INFO - *************** Clicking add to bill *********************
+2025-04-29 06:43:52,133 - root - INFO - *************** Close the deposit pop up *********************
+2025-04-29 06:43:52,133 - root - INFO - *************** Close the deposit pop up *********************
+2025-04-29 06:44:02,717 - root - INFO - *************** Click  yes button in discount pop up *********************
+2025-04-29 06:44:02,717 - root - INFO - *************** Click  yes button in discount pop up *********************
+2025-04-29 06:44:03,051 - root - INFO - *************** Process Discount *********************
+2025-04-29 06:44:03,051 - root - INFO - *************** Process Discount *********************
+2025-04-29 06:44:04,260 - root - INFO - *************** Clicking the billing option  *********************
+2025-04-29 06:44:04,260 - root - INFO - *************** Clicking the billing option  *********************
+2025-04-29 06:44:06,515 - root - INFO - *************** Generate Bill Pop up  *********************
+2025-04-29 06:44:06,515 - root - INFO - *************** Generate Bill Pop up  *********************
+2025-04-29 06:44:08,907 - root - INFO - *************** Process Payment  *********************
+2025-04-29 06:44:08,907 - root - INFO - *************** Process Payment  *********************
+2025-04-29 06:44:11,164 - root - INFO - *************** Print the Bill  *********************
+2025-04-29 06:44:11,164 - root - INFO - *************** Print the Bill  *********************
+2025-04-29 06:48:23,052 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 06:48:23,052 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 06:48:23,682 - root - INFO - *********Logging and saving username status*************
+2025-04-29 06:48:23,682 - root - INFO - *********Logging and saving username status*************
+2025-04-29 06:48:24,462 - root - INFO - *********Logging and saving password status*************
+2025-04-29 06:48:24,462 - root - INFO - *********Logging and saving password status*************
+2025-04-29 06:48:24,876 - root - INFO - *********Clicking submit button*************
+2025-04-29 06:48:24,876 - root - INFO - *********Clicking submit button*************
+2025-04-29 06:48:25,385 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 06:48:25,385 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 06:48:26,197 - root - INFO - ******************Select a Facility******************
+2025-04-29 06:48:26,197 - root - INFO - ******************Select a Facility******************
+2025-04-29 06:48:26,447 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 06:48:26,447 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 06:48:27,114 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 06:48:27,114 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 06:48:28,939 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 06:48:28,939 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 06:48:31,868 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 06:48:31,868 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 06:48:54,215 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 06:48:54,215 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 06:48:54,769 - root - INFO - *************** Referred By *********************
+2025-04-29 06:48:54,769 - root - INFO - *************** Referred By *********************
+2025-04-29 07:17:34,471 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 07:17:34,471 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 07:17:35,090 - root - INFO - *********Logging and saving username status*************
+2025-04-29 07:17:35,090 - root - INFO - *********Logging and saving username status*************
+2025-04-29 07:17:35,825 - root - INFO - *********Logging and saving password status*************
+2025-04-29 07:17:35,825 - root - INFO - *********Logging and saving password status*************
+2025-04-29 07:17:36,188 - root - INFO - *********Clicking submit button*************
+2025-04-29 07:17:36,188 - root - INFO - *********Clicking submit button*************
+2025-04-29 07:17:36,634 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 07:17:36,634 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 07:17:37,421 - root - INFO - ******************Select a Facility******************
+2025-04-29 07:17:37,421 - root - INFO - ******************Select a Facility******************
+2025-04-29 07:17:37,694 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 07:17:37,694 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 07:17:38,296 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 07:17:38,296 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 07:17:39,852 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 07:17:39,852 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 07:17:44,086 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 07:17:44,086 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 07:18:06,904 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 07:18:06,904 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 07:18:07,649 - root - INFO - *************** Referred By *********************
+2025-04-29 07:18:07,649 - root - INFO - *************** Referred By *********************
+2025-04-29 07:18:08,003 - root - INFO - *************** Clicking add to bill *********************
+2025-04-29 07:18:08,003 - root - INFO - *************** Clicking add to bill *********************
+2025-04-29 07:18:18,716 - root - INFO - *************** Close the deposit pop up *********************
+2025-04-29 07:18:18,716 - root - INFO - *************** Close the deposit pop up *********************
+2025-04-29 07:18:29,223 - root - INFO - *************** Click  yes button in discount pop up *********************
+2025-04-29 07:18:29,223 - root - INFO - *************** Click  yes button in discount pop up *********************
+2025-04-29 07:18:29,601 - root - INFO - *************** Process Discount *********************
+2025-04-29 07:18:29,601 - root - INFO - *************** Process Discount *********************
+2025-04-29 07:18:30,754 - root - INFO - *************** Clicking the billing option  *********************
+2025-04-29 07:18:30,754 - root - INFO - *************** Clicking the billing option  *********************
+2025-04-29 07:18:32,988 - root - INFO - *************** Generate Bill Pop up  *********************
+2025-04-29 07:18:32,988 - root - INFO - *************** Generate Bill Pop up  *********************
+2025-04-29 07:18:35,315 - root - INFO - *************** Process Payment  *********************
+2025-04-29 07:18:35,315 - root - INFO - *************** Process Payment  *********************
+2025-04-29 07:18:37,571 - root - INFO - *************** Print the Bill  *********************
+2025-04-29 07:18:37,571 - root - INFO - *************** Print the Bill  *********************
+2025-04-29 07:19:11,738 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 07:19:11,738 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 07:19:12,224 - root - INFO - *********Logging and saving username status*************
+2025-04-29 07:19:12,224 - root - INFO - *********Logging and saving username status*************
+2025-04-29 07:19:12,920 - root - INFO - *********Logging and saving password status*************
+2025-04-29 07:19:12,920 - root - INFO - *********Logging and saving password status*************
+2025-04-29 07:19:13,322 - root - INFO - *********Clicking submit button*************
+2025-04-29 07:19:13,322 - root - INFO - *********Clicking submit button*************
+2025-04-29 07:19:13,810 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 07:19:13,810 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 07:19:14,657 - root - INFO - ******************Select a Facility******************
+2025-04-29 07:19:14,657 - root - INFO - ******************Select a Facility******************
+2025-04-29 07:19:14,933 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 07:19:14,933 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 07:19:15,532 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 07:19:15,532 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 07:19:17,188 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 07:19:17,188 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 07:19:20,145 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 07:19:20,145 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 07:19:52,239 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 07:19:52,239 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 07:19:53,105 - root - INFO - *************** Referred By *********************
+2025-04-29 07:19:53,105 - root - INFO - *************** Referred By *********************
+2025-04-29 07:19:53,377 - root - INFO - *************** Clicking add to bill *********************
+2025-04-29 07:19:53,377 - root - INFO - *************** Clicking add to bill *********************
+2025-04-29 07:20:04,070 - root - INFO - *************** Close the deposit pop up *********************
+2025-04-29 07:20:04,070 - root - INFO - *************** Close the deposit pop up *********************
+2025-04-29 07:20:14,636 - root - INFO - *************** Click  yes button in discount pop up *********************
+2025-04-29 07:20:14,636 - root - INFO - *************** Click  yes button in discount pop up *********************
+2025-04-29 07:20:15,077 - root - INFO - *************** Process Discount *********************
+2025-04-29 07:20:15,077 - root - INFO - *************** Process Discount *********************
+2025-04-29 07:20:16,296 - root - INFO - *************** Clicking the billing option  *********************
+2025-04-29 07:20:16,296 - root - INFO - *************** Clicking the billing option  *********************
+2025-04-29 07:20:18,496 - root - INFO - *************** Generate Bill Pop up  *********************
+2025-04-29 07:20:18,496 - root - INFO - *************** Generate Bill Pop up  *********************
+2025-04-29 07:20:20,762 - root - INFO - *************** Process Payment  *********************
+2025-04-29 07:20:20,762 - root - INFO - *************** Process Payment  *********************
+2025-04-29 07:20:22,998 - root - INFO - *************** Print the Bill  *********************
+2025-04-29 07:20:22,998 - root - INFO - *************** Print the Bill  *********************
+2025-04-29 10:26:26,173 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 10:26:26,173 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 10:26:26,825 - root - INFO - *********Logging and saving username status*************
+2025-04-29 10:26:26,825 - root - INFO - *********Logging and saving username status*************
+2025-04-29 10:26:27,466 - root - INFO - *********Logging and saving password status*************
+2025-04-29 10:26:27,466 - root - INFO - *********Logging and saving password status*************
+2025-04-29 10:26:27,799 - root - INFO - *********Clicking submit button*************
+2025-04-29 10:26:27,799 - root - INFO - *********Clicking submit button*************
+2025-04-29 10:26:28,202 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 10:26:28,202 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 10:26:28,888 - root - INFO - ******************Select a Facility******************
+2025-04-29 10:26:28,888 - root - INFO - ******************Select a Facility******************
+2025-04-29 10:26:29,088 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 10:26:29,088 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 10:26:29,624 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 10:26:29,624 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 10:26:31,127 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 10:26:31,127 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 10:26:35,097 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 10:26:35,097 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 10:26:56,878 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 10:26:56,878 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 10:26:57,511 - root - INFO - *************** Referred By *********************
+2025-04-29 10:26:57,511 - root - INFO - *************** Referred By *********************
+2025-04-29 10:27:12,173 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 10:27:12,173 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 10:27:12,904 - root - INFO - *********Logging and saving username status*************
+2025-04-29 10:27:12,904 - root - INFO - *********Logging and saving username status*************
+2025-04-29 10:27:13,361 - root - INFO - *********Logging and saving password status*************
+2025-04-29 10:27:13,361 - root - INFO - *********Logging and saving password status*************
+2025-04-29 10:27:13,714 - root - INFO - *********Clicking submit button*************
+2025-04-29 10:27:13,714 - root - INFO - *********Clicking submit button*************
+2025-04-29 10:27:14,098 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 10:27:14,098 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 10:27:14,825 - root - INFO - ******************Select a Facility******************
+2025-04-29 10:27:14,825 - root - INFO - ******************Select a Facility******************
+2025-04-29 10:27:15,021 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 10:27:15,021 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 10:27:15,570 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 10:27:15,570 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 10:27:17,017 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 10:27:17,017 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 10:27:20,891 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 10:27:20,891 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 10:28:21,265 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 10:28:21,265 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 10:28:21,372 - root - INFO - *********Logging and saving username status*************
+2025-04-29 10:28:21,372 - root - INFO - *********Logging and saving username status*************
+2025-04-29 10:28:22,850 - root - INFO - *********Logging and saving password status*************
+2025-04-29 10:28:22,850 - root - INFO - *********Logging and saving password status*************
+2025-04-29 10:28:23,220 - root - INFO - *********Clicking submit button*************
+2025-04-29 10:28:23,220 - root - INFO - *********Clicking submit button*************
+2025-04-29 10:28:23,608 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 10:28:23,608 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 10:28:24,328 - root - INFO - ******************Select a Facility******************
+2025-04-29 10:28:24,328 - root - INFO - ******************Select a Facility******************
+2025-04-29 10:28:24,537 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 10:28:24,537 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 10:28:25,062 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 10:28:25,062 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 10:28:26,423 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 10:28:26,423 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 10:28:30,746 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 10:28:30,746 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 10:29:02,442 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 10:29:02,442 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 10:29:03,057 - root - INFO - *************** Referred By *********************
+2025-04-29 10:29:03,057 - root - INFO - *************** Referred By *********************
+2025-04-29 10:29:03,313 - root - INFO - *************** Clicking add to bill *********************
+2025-04-29 10:29:03,313 - root - INFO - *************** Clicking add to bill *********************
+2025-04-29 10:29:13,594 - root - INFO - *************** Close the deposit pop up *********************
+2025-04-29 10:29:13,594 - root - INFO - *************** Close the deposit pop up *********************
+2025-04-29 10:29:24,127 - root - INFO - *************** Click  yes button in discount pop up *********************
+2025-04-29 10:29:24,127 - root - INFO - *************** Click  yes button in discount pop up *********************
+2025-04-29 10:29:24,360 - root - INFO - *************** Process Discount *********************
+2025-04-29 10:29:24,360 - root - INFO - *************** Process Discount *********************
+2025-04-29 10:29:25,237 - root - INFO - *************** Clicking the billing option  *********************
+2025-04-29 10:29:25,237 - root - INFO - *************** Clicking the billing option  *********************
+2025-04-29 10:29:27,446 - root - INFO - *************** Generate Bill Pop up  *********************
+2025-04-29 10:29:27,446 - root - INFO - *************** Generate Bill Pop up  *********************
+2025-04-29 10:29:29,717 - root - INFO - *************** Process Payment  *********************
+2025-04-29 10:29:29,717 - root - INFO - *************** Process Payment  *********************
+2025-04-29 10:29:31,929 - root - INFO - *************** Print the Bill  *********************
+2025-04-29 10:29:31,929 - root - INFO - *************** Print the Bill  *********************

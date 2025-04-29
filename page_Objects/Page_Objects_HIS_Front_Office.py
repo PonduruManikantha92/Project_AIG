@@ -7,6 +7,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 class His_OutPatient_Registration:
     def __init__(self, driver):
         self.driver = driver
+        self.wait = WebDriverWait(driver, 30)
         self.xpath_for_facility_dropdown = "//select[@id='Facility']"
         self.xpath_for_facility_option = "//option[text()='AIG Hospitals, Gachibowli']"
         self.xpath_for_front_office = "//li[.//div/span[normalize-space(text())='Front Office']]"
@@ -46,25 +47,27 @@ class His_OutPatient_Registration:
 
 
     #################### Select a facility and select an option called Front Office from Home page ################
-    def select_facility(self, driver):
+    def select_facility(self):
         facility_dropdown = self.driver.find_element(By.XPATH, self.xpath_for_facility_dropdown)
         facility_option = self.driver.find_element(By.XPATH, self.xpath_for_facility_option)
-        wait = WebDriverWait(driver, 30)
-        wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_facility_dropdown)))
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_facility_dropdown)))
         facility_dropdown.click()
-        wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_facility_option)))
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_facility_option)))
         facility_option.click()
 
     def Select_Front_Office_from_HIS_Homepage(self):
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_front_office)))
         front_office = self.driver.find_element(By.XPATH, self.xpath_for_front_office)
         front_office.click()
 
     def Click_yes_button_in_front_office_pop_up(self):
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_yes_button_in_Front_Office_Pop_up)))
         yes_button = self.driver.find_element(By.XPATH, self.xpath_for_yes_button_in_Front_Office_Pop_up)
         yes_button.click()
 
     #################### Clicking the Add Patients option from the Front office page ################
     def click_the_Add_patient(self):
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_add_patient)))
         add_patient_option = self.driver.find_element(By.XPATH, self.xpath_for_add_patient)
         add_patient_option.click()
 
