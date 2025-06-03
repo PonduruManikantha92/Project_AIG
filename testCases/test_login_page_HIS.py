@@ -10,6 +10,7 @@ from page_Objects.Page_Objects_HIS_Login_Page import His_Login_Page
 class TestHIS_Login_Page:
     logger = LogGen.loggen()
     results = []
+
     @pytest.fixture(autouse = True)
     def test_his_login_page(self, pandas_excel, browser_setup):
         data = pandas_excel('LoginData')
@@ -63,9 +64,9 @@ class TestHIS_Login_Page:
             (By.XPATH, self.login_page_object.xpath_for_his_LoginPage_SubmitButton)))
         self.login_page_object.Click_His_LoginPage_Submit_button()
 
-        ###################### Clicking Yes button in Pop up###############################
-        self.logger.info("*************Click Yes Button in the POP UP*******************")
-        wait.until(expected_conditions.visibility_of_element_located(
-            (By.XPATH, self.login_page_object.xpath_for_pop_up)))
-        self.login_page_object.Click_yes_button_in_Pop_up()
+        # ###################### Clicking Yes button in Pop up###############################
+        # self.logger.info("*************Click Yes Button in the POP UP*******************")
+        # wait.until(expected_conditions.visibility_of_element_located(
+        #     (By.XPATH, self.login_page_object.xpath_for_pop_up)))
+        # self.login_page_object.Click_yes_button_in_Pop_up()
 

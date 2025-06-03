@@ -57,7 +57,7 @@ class Adjustments:
         xpath_for_his_LoginPage_UserName = "//input[@id='txtLoginName']"
         xpath_for_his_LoginPage_Password = "//input[@id='txtPassword']"
         xpath_for_his_LoginPage_SubmitButton = "//input[@value='Login']"
-        xpath_for_pop_up = "(//div[@id='popup650'])[3]"
+        xpath_for_pop_up = "(//div[@id='popup650'])[2]"
         xpath_for_yes_button_in_active_session_pop_up = "//a[@id='btnYesAlreadyLogedinPopup']"
         xpath_for_facility_option = "//select[@id='Facility']"
 
@@ -200,9 +200,9 @@ class Adjustments:
                         item.click()
 
         
-        # xpath_for_druglist = "//table[@id='tbldrugdtaillist']//tbody//tr//td[text()='1302059']"
-        # click_on_the_medicine = self.driver.find_element(By.XPATH, xpath_for_druglist)
-        # click_on_the_medicine.click()
+        xpath_for_druglist = "//table[@id='tbldrugdtaillist']//tbody//tr//td[text()='1302059']"
+        click_on_the_medicine = self.driver.find_element(By.XPATH, xpath_for_druglist)
+        click_on_the_medicine.click()
 
         time.sleep(15)
 

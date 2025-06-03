@@ -16,13 +16,13 @@ from testCases.test_login_page_HIS import TestHIS_Login_Page
 @pytest.mark.usefixtures("browser_setup")
 class TestHISFrontOffice(TestHIS_Login_Page):
     logger = LogGen.loggen()
-    uhid = 'AIGG.20727250'
+    uhid = 'AIGG.20727246'
     Doctor_name = 'Rakesh Kalapala'
     refer = 'aig'
     Discount_on_option = 'On Bill'
     Discount_head = 'Corporate Discount'
     Discount_reason = 'Corporate Discount'
-    Discount_percentage = '10'
+    Discount_percentage = '7.5'
     Authorized_By = 'CAPRI JALOTA'
 
     def test_his_op_billing_discount(self, browser_setup):
@@ -63,27 +63,27 @@ class TestHISFrontOffice(TestHIS_Login_Page):
         self.logger.info("*************** Referred By *********************")
         self.front_office_billing.refered_by(self.refer)
         self.driver.save_screenshot(".\\Screenshots\\Referred_By.png")
-
+        time.sleep(2)
         ######### Clicking add to bill#####################
         self.logger.info("*************** Clicking add to bill *********************")
         self.front_office_billing.click_add_to_bill()
         self.driver.save_screenshot(".\\Screenshots\\click_add_to_bill.png")
-
+        time.sleep(2)
         ######### Close the deposit pop up#####################
         self.logger.info("*************** Close the deposit pop up *********************")
         self.front_office_billing.close_the_deposit_pop_up()
         self.driver.save_screenshot(".\\Screenshots\\close_the_deposit_pop_up.png")
-
+        time.sleep(2)
         #########Click  yes button in discount pop up#####################
         self.logger.info("*************** Click  yes button in discount pop up *********************")
         self.front_office_billing.click_yes_button_in_discount_pop()
         self.driver.save_screenshot(".\\Screenshots\\click_yes_button_in_discount_pop_up.png")
-
+        time.sleep(2)
         ######### Process Discount #####################
         self.logger.info("*************** Process Discount *********************")
         self.front_office_billing.process_discount(self.Discount_on_option, self.Discount_head, self.Discount_reason, self.Discount_percentage, self.Authorized_By)
         self.driver.save_screenshot(".\\Screenshots\\click_yes_button_in_discount_pop_up.png")
-
+        time.sleep(2)
         ######### Clicking the billing option #####################
         self.logger.info("*************** Clicking the billing option  *********************")
         self.front_office_billing.click_the_billing_option()

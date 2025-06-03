@@ -1219,3 +1219,126 @@
 2025-04-29 10:29:29,717 - root - INFO - *************** Process Payment  *********************
 2025-04-29 10:29:31,929 - root - INFO - *************** Print the Bill  *********************
 2025-04-29 10:29:31,929 - root - INFO - *************** Print the Bill  *********************
+2025-04-29 11:25:58,945 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 11:25:58,945 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 11:25:59,989 - root - INFO - *********Logging and saving username status*************
+2025-04-29 11:25:59,989 - root - INFO - *********Logging and saving username status*************
+2025-04-29 11:26:00,438 - root - INFO - *********Logging and saving password status*************
+2025-04-29 11:26:00,438 - root - INFO - *********Logging and saving password status*************
+2025-04-29 11:26:00,775 - root - INFO - *********Clicking submit button*************
+2025-04-29 11:26:00,775 - root - INFO - *********Clicking submit button*************
+2025-04-29 11:26:01,154 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 11:26:01,154 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 11:26:01,868 - root - INFO - ******************Select a Facility******************
+2025-04-29 11:26:01,868 - root - INFO - ******************Select a Facility******************
+2025-04-29 11:26:02,079 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 11:26:02,079 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 11:26:02,544 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 11:26:02,544 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 11:26:04,029 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 11:26:04,029 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 11:26:07,928 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 11:26:07,928 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 11:26:37,786 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 11:26:37,786 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 11:26:38,400 - root - INFO - *********Logging and saving username status*************
+2025-04-29 11:26:38,400 - root - INFO - *********Logging and saving username status*************
+2025-04-29 11:26:39,007 - root - INFO - *********Logging and saving password status*************
+2025-04-29 11:26:39,007 - root - INFO - *********Logging and saving password status*************
+2025-04-29 11:26:39,345 - root - INFO - *********Clicking submit button*************
+2025-04-29 11:26:39,345 - root - INFO - *********Clicking submit button*************
+2025-04-29 11:26:39,758 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 11:26:39,758 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 11:26:40,433 - root - INFO - ******************Select a Facility******************
+2025-04-29 11:26:40,433 - root - INFO - ******************Select a Facility******************
+2025-04-29 11:26:40,613 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 11:26:40,613 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 11:26:41,108 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 11:26:41,108 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 11:26:42,437 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 11:26:42,437 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 11:26:45,486 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 11:26:45,486 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 11:26:57,856 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 11:26:57,856 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 11:26:58,634 - root - INFO - *************** Referred By *********************
+2025-04-29 11:26:58,634 - root - INFO - *************** Referred By *********************
+2025-04-29 11:26:58,973 - root - INFO - *************** Clicking add to bill *********************
+2025-04-29 11:26:58,973 - root - INFO - *************** Clicking add to bill *********************
+2025-04-29 11:26:59,348 - root - INFO - *************** Close the deposit pop up *********************
+2025-04-29 11:26:59,348 - root - INFO - *************** Close the deposit pop up *********************
+2025-04-29 11:27:09,481 - root - INFO - *************** Click  yes button in discount pop up *********************
+2025-04-29 11:27:09,481 - root - INFO - *************** Click  yes button in discount pop up *********************
+2025-04-29 11:27:09,743 - root - INFO - *************** Process Discount *********************
+2025-04-29 11:27:09,743 - root - INFO - *************** Process Discount *********************
+2025-04-29 11:27:10,803 - root - INFO - *************** Clicking the billing option  *********************
+2025-04-29 11:27:10,803 - root - INFO - *************** Clicking the billing option  *********************
+2025-04-29 11:27:13,021 - root - INFO - *************** Generate Bill Pop up  *********************
+2025-04-29 11:27:13,021 - root - INFO - *************** Generate Bill Pop up  *********************
+2025-04-29 11:27:15,325 - root - INFO - *************** Process Payment  *********************
+2025-04-29 11:27:15,325 - root - INFO - *************** Process Payment  *********************
+2025-04-29 11:27:17,547 - root - INFO - *************** Print the Bill  *********************
+2025-04-29 11:27:17,547 - root - INFO - *************** Print the Bill  *********************
+2025-04-29 11:28:38,620 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 11:28:38,620 - root - INFO - *********URL is invoked in the Browser*************
+2025-04-29 11:28:39,171 - root - INFO - *********Logging and saving username status*************
+2025-04-29 11:28:39,171 - root - INFO - *********Logging and saving username status*************
+2025-04-29 11:28:39,838 - root - INFO - *********Logging and saving password status*************
+2025-04-29 11:28:39,838 - root - INFO - *********Logging and saving password status*************
+2025-04-29 11:28:40,171 - root - INFO - *********Clicking submit button*************
+2025-04-29 11:28:40,171 - root - INFO - *********Clicking submit button*************
+2025-04-29 11:28:40,547 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 11:28:40,547 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-04-29 11:28:41,496 - root - INFO - ******************Select a Facility******************
+2025-04-29 11:28:41,496 - root - INFO - ******************Select a Facility******************
+2025-04-29 11:28:41,690 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 11:28:41,690 - root - INFO - ******************Select Front Office Option******************
+2025-04-29 11:28:42,221 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 11:28:42,221 - root - INFO - ***************Click_yes_button_in_front_office_pop_up*********************
+2025-04-29 11:28:44,186 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 11:28:44,186 - root - INFO - *************** Options_under_home_in_billing*********************
+2025-04-29 11:28:47,347 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 11:28:47,347 - root - INFO - *************** Enter the UHID *********************
+2025-04-29 11:29:18,659 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 11:29:18,659 - root - INFO - *************** Search for Doctors name *********************
+2025-04-29 11:29:19,282 - root - INFO - *************** Referred By *********************
+2025-04-29 11:29:19,282 - root - INFO - *************** Referred By *********************
+2025-04-29 11:29:21,547 - root - INFO - *************** Clicking add to bill *********************
+2025-04-29 11:29:21,547 - root - INFO - *************** Clicking add to bill *********************
+2025-04-29 11:29:33,826 - root - INFO - *************** Close the deposit pop up *********************
+2025-04-29 11:29:33,826 - root - INFO - *************** Close the deposit pop up *********************
+2025-04-29 11:29:46,052 - root - INFO - *************** Click  yes button in discount pop up *********************
+2025-04-29 11:29:46,052 - root - INFO - *************** Click  yes button in discount pop up *********************
+2025-04-29 11:29:48,326 - root - INFO - *************** Process Discount *********************
+2025-04-29 11:29:48,326 - root - INFO - *************** Process Discount *********************
+2025-04-29 11:29:51,230 - root - INFO - *************** Clicking the billing option  *********************
+2025-04-29 11:29:51,230 - root - INFO - *************** Clicking the billing option  *********************
+2025-04-29 11:29:53,437 - root - INFO - *************** Generate Bill Pop up  *********************
+2025-04-29 11:29:53,437 - root - INFO - *************** Generate Bill Pop up  *********************
+2025-04-29 11:29:55,841 - root - INFO - *************** Process Payment  *********************
+2025-04-29 11:29:55,841 - root - INFO - *************** Process Payment  *********************
+2025-04-29 11:29:58,037 - root - INFO - *************** Print the Bill  *********************
+2025-04-29 11:29:58,037 - root - INFO - *************** Print the Bill  *********************
+2025-05-27 17:28:23,950 - root - INFO - *********URL is invoked in the Browser*************
+2025-05-27 17:28:24,279 - root - INFO - *********Logging and saving username status*************
+2025-05-27 17:28:25,062 - root - INFO - *********Logging and saving password status*************
+2025-05-27 17:28:25,436 - root - INFO - *********Clicking submit button*************
+2025-05-27 17:28:25,887 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-05-27 17:28:26,341 - root - INFO - *********Select the Facility*************
+2025-05-27 17:28:30,689 - root - INFO - ********* Click the  inventory option *************
+2025-05-27 17:28:30,851 - root - INFO - ********* Click the  dropdown option in inventory pop up and click yes button*************
+2025-05-27 17:28:35,115 - root - INFO - ********* Click the  search field and enter the option name *************
+2025-05-27 17:36:33,450 - root - INFO - *********URL is invoked in the Browser*************
+2025-05-27 17:36:33,801 - root - INFO - *********Logging and saving username status*************
+2025-05-27 17:36:34,625 - root - INFO - *********Logging and saving password status*************
+2025-05-27 17:36:34,981 - root - INFO - *********Clicking submit button*************
+2025-05-27 17:36:35,385 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-05-27 17:36:35,747 - root - INFO - *********Select the Facility*************
+2025-05-27 17:36:36,857 - root - INFO - ********* Click the  inventory option *************
+2025-05-27 17:36:37,035 - root - INFO - ********* Click the  dropdown option in inventory pop up and click yes button*************
+2025-05-27 17:36:39,813 - root - INFO - ********* Click the  search field and enter the option name *************
+2025-05-27 18:10:38,735 - root - INFO - *********URL is invoked in the Browser*************
+2025-05-27 18:10:39,083 - root - INFO - *********Logging and saving username status*************
+2025-05-27 18:10:39,975 - root - INFO - *********Logging and saving password status*************
+2025-05-27 18:10:40,326 - root - INFO - *********Clicking submit button*************
+2025-05-27 18:10:40,769 - root - INFO - *********Select the Facility*************
