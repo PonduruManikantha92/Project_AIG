@@ -1342,3 +1342,1868 @@
 2025-05-27 18:10:39,975 - root - INFO - *********Logging and saving password status*************
 2025-05-27 18:10:40,326 - root - INFO - *********Clicking submit button*************
 2025-05-27 18:10:40,769 - root - INFO - *********Select the Facility*************
+2025-06-06 16:04:38,491 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:04:38,491 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:04:39,473 - root - INFO - *********Logging and saving username status*************
+2025-06-06 16:04:39,473 - root - INFO - *********Logging and saving username status*************
+2025-06-06 16:04:40,555 - root - INFO - *********Logging and saving password status*************
+2025-06-06 16:04:40,555 - root - INFO - *********Logging and saving password status*************
+2025-06-06 16:04:40,939 - root - INFO - *********Clicking submit button*************
+2025-06-06 16:04:40,939 - root - INFO - *********Clicking submit button*************
+2025-06-06 16:04:41,867 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:04:41,867 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:04:41,949 - root - INFO - *********Logging and saving username status*************
+2025-06-06 16:04:41,949 - root - INFO - *********Logging and saving username status*************
+2025-06-06 16:04:42,387 - root - INFO - *********Logging and saving password status*************
+2025-06-06 16:04:42,387 - root - INFO - *********Logging and saving password status*************
+2025-06-06 16:04:42,789 - root - INFO - *********Clicking submit button*************
+2025-06-06 16:04:42,789 - root - INFO - *********Clicking submit button*************
+2025-06-06 16:16:51,214 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:16:51,214 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:16:51,722 - root - INFO - *********Logging and saving username status*************
+2025-06-06 16:16:51,722 - root - INFO - *********Logging and saving username status*************
+2025-06-06 16:16:52,436 - root - INFO - *********Logging and saving password status*************
+2025-06-06 16:16:52,436 - root - INFO - *********Logging and saving password status*************
+2025-06-06 16:16:52,815 - root - INFO - *********Clicking submit button*************
+2025-06-06 16:16:52,815 - root - INFO - *********Clicking submit button*************
+2025-06-06 16:16:57,494 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:16:57,494 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:29:16,045 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:29:16,045 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:29:16,448 - root - INFO - *********Logging and saving username status*************
+2025-06-06 16:29:16,448 - root - INFO - *********Logging and saving username status*************
+2025-06-06 16:29:17,189 - root - INFO - *********Logging and saving password status*************
+2025-06-06 16:29:17,189 - root - INFO - *********Logging and saving password status*************
+2025-06-06 16:29:17,564 - root - INFO - *********Clicking submit button*************
+2025-06-06 16:29:17,564 - root - INFO - *********Clicking submit button*************
+2025-06-06 16:29:28,672 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:29:28,672 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:29:28,833 - root - INFO - *********Logging and saving username status*************
+2025-06-06 16:29:28,833 - root - INFO - *********Logging and saving username status*************
+2025-06-06 16:29:29,282 - root - INFO - *********Logging and saving password status*************
+2025-06-06 16:29:29,282 - root - INFO - *********Logging and saving password status*************
+2025-06-06 16:29:29,704 - root - INFO - *********Clicking submit button*************
+2025-06-06 16:29:29,704 - root - INFO - *********Clicking submit button*************
+2025-06-06 16:31:44,373 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:31:44,373 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:31:44,714 - root - INFO - *********Logging and saving username status*************
+2025-06-06 16:31:44,714 - root - INFO - *********Logging and saving username status*************
+2025-06-06 16:31:45,474 - root - INFO - *********Logging and saving password status*************
+2025-06-06 16:31:45,474 - root - INFO - *********Logging and saving password status*************
+2025-06-06 16:31:45,875 - root - INFO - *********Clicking submit button*************
+2025-06-06 16:31:45,875 - root - INFO - *********Clicking submit button*************
+2025-06-06 16:31:46,674 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 16:31:46,674 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 16:31:46,684 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 16:31:46,684 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 16:31:46,880 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 16:31:46,880 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 16:31:46,898 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 16:31:46,898 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 16:31:54,025 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:31:54,025 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:31:54,149 - root - INFO - *********Logging and saving username status*************
+2025-06-06 16:31:54,149 - root - INFO - *********Logging and saving username status*************
+2025-06-06 16:31:54,637 - root - INFO - *********Logging and saving password status*************
+2025-06-06 16:31:54,637 - root - INFO - *********Logging and saving password status*************
+2025-06-06 16:31:55,085 - root - INFO - *********Clicking submit button*************
+2025-06-06 16:31:55,085 - root - INFO - *********Clicking submit button*************
+2025-06-06 16:32:42,247 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:32:42,247 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 16:32:42,597 - root - INFO - *********Logging and saving username status*************
+2025-06-06 16:32:42,597 - root - INFO - *********Logging and saving username status*************
+2025-06-06 16:32:43,308 - root - INFO - *********Logging and saving password status*************
+2025-06-06 16:32:43,308 - root - INFO - *********Logging and saving password status*************
+2025-06-06 16:32:43,692 - root - INFO - *********Clicking submit button*************
+2025-06-06 16:32:43,692 - root - INFO - *********Clicking submit button*************
+2025-06-06 16:32:52,714 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 16:32:52,714 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 16:32:52,727 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 16:32:52,727 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 16:32:52,913 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 16:32:52,913 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 16:32:52,924 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 16:32:52,924 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 17:27:11,768 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:27:11,768 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:27:12,150 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:27:12,150 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:27:12,909 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:27:12,909 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:27:13,304 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:27:13,304 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:27:21,851 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:27:21,851 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:27:21,863 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:27:21,863 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:27:22,095 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 17:27:22,095 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 17:27:22,114 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 17:27:22,114 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 17:28:09,871 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:28:09,871 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:28:10,197 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:28:10,197 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:28:10,867 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:28:10,867 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:28:11,279 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:28:11,279 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:28:15,030 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:28:15,030 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:28:15,042 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:28:15,042 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:28:35,701 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:28:35,701 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:28:36,063 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:28:36,063 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:28:36,843 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:28:36,843 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:28:37,235 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:28:37,235 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:28:38,921 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:28:38,921 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:28:38,935 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:28:38,935 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:29:21,835 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:29:21,835 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:29:22,149 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:29:22,149 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:29:22,994 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:29:22,994 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:29:23,355 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:29:23,355 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:29:25,617 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:29:25,617 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:29:25,627 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:29:25,627 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:29:25,753 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 17:29:25,753 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 17:29:25,764 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 17:29:25,764 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 17:30:05,326 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:30:05,326 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:30:05,685 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:30:05,685 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:30:06,318 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:30:06,318 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:30:06,746 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:30:06,746 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:30:12,406 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:30:12,406 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:30:12,419 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:30:12,419 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:30:12,615 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 17:30:12,615 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 17:30:12,634 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 17:30:12,634 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 17:31:39,537 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:31:39,537 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:31:39,882 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:31:39,882 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:31:40,607 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:31:40,607 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:31:40,994 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:31:40,994 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:37:49,002 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:37:49,002 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:37:49,346 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:37:49,346 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:37:50,161 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:37:50,161 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:37:50,544 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:37:50,544 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:37:59,065 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:37:59,065 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:37:59,080 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:37:59,080 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:37:59,247 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 17:37:59,247 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 17:37:59,264 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 17:37:59,264 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 17:38:00,421 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-06 17:38:00,421 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-06 17:42:47,302 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:42:47,302 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:42:47,624 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:42:47,624 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:42:48,430 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:42:48,430 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:42:48,821 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:42:48,821 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:42:56,691 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:42:56,691 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:42:56,704 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:42:56,704 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:42:56,839 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 17:42:56,839 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 17:42:56,865 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 17:42:56,865 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 17:42:58,809 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-06 17:42:58,809 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-06 17:46:01,429 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:46:01,429 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:46:01,787 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:46:01,787 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:46:02,532 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:46:02,532 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:46:02,913 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:46:02,913 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:46:08,670 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:46:08,670 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:46:08,682 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:46:08,682 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:46:08,841 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 17:46:08,841 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 17:46:08,859 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 17:46:08,859 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 17:46:10,110 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-06 17:46:10,110 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-06 17:46:10,756 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-06 17:46:10,756 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-06 17:50:06,759 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:50:06,759 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:50:07,197 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:50:07,197 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:50:07,886 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:50:07,886 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:50:08,273 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:50:08,273 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:50:13,827 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:50:13,827 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:50:13,840 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:50:13,840 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:50:14,024 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 17:50:14,024 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 17:50:14,044 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 17:50:14,044 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 17:50:15,636 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-06 17:50:15,636 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-06 17:50:16,236 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-06 17:50:16,236 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-06 17:55:30,258 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:55:30,258 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-06 17:55:30,573 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:55:30,573 - root - INFO - *********Logging and saving username status*************
+2025-06-06 17:55:31,350 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:55:31,350 - root - INFO - *********Logging and saving password status*************
+2025-06-06 17:55:31,740 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:55:31,740 - root - INFO - *********Clicking submit button*************
+2025-06-06 17:55:38,395 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:55:38,395 - root - INFO - *********Wait until Front office option is located*************
+2025-06-06 17:55:38,407 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:55:38,407 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-06 17:55:38,561 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 17:55:38,561 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-06 17:55:38,586 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 17:55:38,586 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-06 17:55:39,940 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-06 17:55:39,940 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-06 17:55:40,126 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-06 17:55:40,126 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 10:41:38,150 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 10:41:38,150 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 10:41:38,680 - root - INFO - *********Logging and saving username status*************
+2025-06-07 10:41:38,680 - root - INFO - *********Logging and saving username status*************
+2025-06-07 10:41:39,469 - root - INFO - *********Logging and saving password status*************
+2025-06-07 10:41:39,469 - root - INFO - *********Logging and saving password status*************
+2025-06-07 10:41:39,885 - root - INFO - *********Clicking submit button*************
+2025-06-07 10:41:39,885 - root - INFO - *********Clicking submit button*************
+2025-06-07 10:42:18,768 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 10:42:18,768 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 10:42:19,133 - root - INFO - *********Logging and saving username status*************
+2025-06-07 10:42:19,133 - root - INFO - *********Logging and saving username status*************
+2025-06-07 10:42:19,925 - root - INFO - *********Logging and saving password status*************
+2025-06-07 10:42:19,925 - root - INFO - *********Logging and saving password status*************
+2025-06-07 10:42:20,293 - root - INFO - *********Clicking submit button*************
+2025-06-07 10:42:20,293 - root - INFO - *********Clicking submit button*************
+2025-06-07 10:42:22,557 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 10:42:22,557 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 10:42:22,570 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 10:42:22,570 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 10:42:22,715 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 10:42:22,715 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 10:42:22,741 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 10:42:22,741 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 10:42:24,880 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 10:42:24,880 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 10:42:25,487 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 10:42:25,487 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 10:57:40,253 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 10:57:40,253 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 10:57:40,702 - root - INFO - *********Logging and saving username status*************
+2025-06-07 10:57:40,702 - root - INFO - *********Logging and saving username status*************
+2025-06-07 10:57:41,442 - root - INFO - *********Logging and saving password status*************
+2025-06-07 10:57:41,442 - root - INFO - *********Logging and saving password status*************
+2025-06-07 10:57:41,827 - root - INFO - *********Clicking submit button*************
+2025-06-07 10:57:41,827 - root - INFO - *********Clicking submit button*************
+2025-06-07 10:57:42,268 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 10:57:42,268 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 10:57:43,065 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 10:57:43,065 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 10:57:43,075 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 10:57:43,075 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 10:57:43,222 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 10:57:43,222 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 10:57:43,240 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 10:57:43,240 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 10:57:44,586 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 10:57:44,586 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 10:57:45,166 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 10:57:45,166 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 12:07:03,320 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 12:07:03,320 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 12:07:03,901 - root - INFO - *********Logging and saving username status*************
+2025-06-07 12:07:03,901 - root - INFO - *********Logging and saving username status*************
+2025-06-07 12:07:04,633 - root - INFO - *********Logging and saving password status*************
+2025-06-07 12:07:04,633 - root - INFO - *********Logging and saving password status*************
+2025-06-07 12:07:05,016 - root - INFO - *********Clicking submit button*************
+2025-06-07 12:07:05,016 - root - INFO - *********Clicking submit button*************
+2025-06-07 12:07:05,467 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 12:07:05,467 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 12:07:06,527 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 12:07:06,527 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 12:07:06,538 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 12:07:06,538 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 12:07:06,678 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 12:07:06,678 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 12:07:06,702 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 12:07:06,702 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 12:07:08,262 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 12:07:08,262 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 12:07:08,369 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 12:07:08,369 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 12:07:30,265 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 12:07:30,265 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 12:07:30,713 - root - INFO - *********Logging and saving username status*************
+2025-06-07 12:07:30,713 - root - INFO - *********Logging and saving username status*************
+2025-06-07 12:07:31,358 - root - INFO - *********Logging and saving password status*************
+2025-06-07 12:07:31,358 - root - INFO - *********Logging and saving password status*************
+2025-06-07 12:07:31,734 - root - INFO - *********Clicking submit button*************
+2025-06-07 12:07:31,734 - root - INFO - *********Clicking submit button*************
+2025-06-07 12:07:32,171 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 12:07:32,171 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 12:07:32,989 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 12:07:32,989 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 12:07:33,000 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 12:07:33,000 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 12:07:33,143 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 12:07:33,143 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 12:07:33,157 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 12:07:33,157 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 12:07:34,774 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 12:07:34,774 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 12:07:34,869 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 12:07:34,869 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 12:54:02,630 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 12:54:02,630 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 12:54:03,047 - root - INFO - *********Logging and saving username status*************
+2025-06-07 12:54:03,047 - root - INFO - *********Logging and saving username status*************
+2025-06-07 12:54:03,780 - root - INFO - *********Logging and saving password status*************
+2025-06-07 12:54:03,780 - root - INFO - *********Logging and saving password status*************
+2025-06-07 12:54:04,159 - root - INFO - *********Clicking submit button*************
+2025-06-07 12:54:04,159 - root - INFO - *********Clicking submit button*************
+2025-06-07 12:54:04,620 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 12:54:04,620 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 12:54:05,401 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 12:54:05,401 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 12:54:05,411 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 12:54:05,411 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 12:54:05,543 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 12:54:05,543 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 12:54:05,559 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 12:54:05,559 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 12:54:06,985 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 12:54:06,985 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 12:54:07,563 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 12:54:07,563 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 12:57:53,283 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 12:57:53,283 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 12:57:53,624 - root - INFO - *********Logging and saving username status*************
+2025-06-07 12:57:53,624 - root - INFO - *********Logging and saving username status*************
+2025-06-07 12:57:54,453 - root - INFO - *********Logging and saving password status*************
+2025-06-07 12:57:54,453 - root - INFO - *********Logging and saving password status*************
+2025-06-07 12:57:54,840 - root - INFO - *********Clicking submit button*************
+2025-06-07 12:57:54,840 - root - INFO - *********Clicking submit button*************
+2025-06-07 12:57:55,306 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 12:57:55,306 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 12:57:56,163 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 12:57:56,163 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 12:57:56,180 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 12:57:56,180 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 12:57:56,377 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 12:57:56,377 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 12:57:56,396 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 12:57:56,396 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 12:57:57,925 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 12:57:57,925 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 12:57:58,516 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 12:57:58,516 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 13:02:49,119 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 13:02:49,119 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 13:02:49,537 - root - INFO - *********Logging and saving username status*************
+2025-06-07 13:02:49,537 - root - INFO - *********Logging and saving username status*************
+2025-06-07 13:02:50,250 - root - INFO - *********Logging and saving password status*************
+2025-06-07 13:02:50,250 - root - INFO - *********Logging and saving password status*************
+2025-06-07 13:02:50,648 - root - INFO - *********Clicking submit button*************
+2025-06-07 13:02:50,648 - root - INFO - *********Clicking submit button*************
+2025-06-07 13:02:51,088 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 13:02:51,088 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 13:02:52,045 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 13:02:52,045 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 13:02:52,056 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 13:02:52,056 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 13:02:52,217 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 13:02:52,217 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 13:02:52,241 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 13:02:52,241 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 13:02:53,687 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 13:02:53,687 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 13:02:53,786 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 13:02:53,786 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 13:06:55,845 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 13:06:55,845 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 13:06:56,320 - root - INFO - *********Logging and saving username status*************
+2025-06-07 13:06:56,320 - root - INFO - *********Logging and saving username status*************
+2025-06-07 13:06:57,120 - root - INFO - *********Logging and saving password status*************
+2025-06-07 13:06:57,120 - root - INFO - *********Logging and saving password status*************
+2025-06-07 13:06:57,502 - root - INFO - *********Clicking submit button*************
+2025-06-07 13:06:57,502 - root - INFO - *********Clicking submit button*************
+2025-06-07 13:06:57,949 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 13:06:57,949 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 13:06:58,756 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 13:06:58,756 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 13:06:58,768 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 13:06:58,768 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 13:06:58,931 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 13:06:58,931 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 13:06:58,946 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 13:06:58,946 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 13:07:00,687 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 13:07:00,687 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 13:07:00,764 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 13:07:00,764 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 13:09:06,841 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 13:09:06,841 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 13:09:07,307 - root - INFO - *********Logging and saving username status*************
+2025-06-07 13:09:07,307 - root - INFO - *********Logging and saving username status*************
+2025-06-07 13:09:08,182 - root - INFO - *********Logging and saving password status*************
+2025-06-07 13:09:08,182 - root - INFO - *********Logging and saving password status*************
+2025-06-07 13:09:08,561 - root - INFO - *********Clicking submit button*************
+2025-06-07 13:09:08,561 - root - INFO - *********Clicking submit button*************
+2025-06-07 13:09:09,001 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 13:09:09,001 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 13:09:09,832 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 13:09:09,832 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 13:09:09,841 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 13:09:09,841 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 13:09:10,004 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 13:09:10,004 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 13:09:10,020 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 13:09:10,020 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 13:09:11,262 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 13:09:11,262 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 13:09:11,840 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 13:09:11,840 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 13:10:04,997 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 13:10:04,997 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 13:10:05,450 - root - INFO - *********Logging and saving username status*************
+2025-06-07 13:10:05,450 - root - INFO - *********Logging and saving username status*************
+2025-06-07 13:10:06,188 - root - INFO - *********Logging and saving password status*************
+2025-06-07 13:10:06,188 - root - INFO - *********Logging and saving password status*************
+2025-06-07 13:10:06,573 - root - INFO - *********Clicking submit button*************
+2025-06-07 13:10:06,573 - root - INFO - *********Clicking submit button*************
+2025-06-07 13:10:07,005 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 13:10:07,005 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 13:10:07,818 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 13:10:07,818 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 13:10:07,827 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 13:10:07,827 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 13:10:08,005 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 13:10:08,005 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 13:10:08,022 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 13:10:08,022 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 13:10:09,568 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 13:10:09,568 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 13:10:09,659 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 13:10:09,659 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 15:02:25,982 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 15:02:25,982 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-07 15:02:26,416 - root - INFO - *********Logging and saving username status*************
+2025-06-07 15:02:26,416 - root - INFO - *********Logging and saving username status*************
+2025-06-07 15:02:27,223 - root - INFO - *********Logging and saving password status*************
+2025-06-07 15:02:27,223 - root - INFO - *********Logging and saving password status*************
+2025-06-07 15:02:27,589 - root - INFO - *********Clicking submit button*************
+2025-06-07 15:02:27,589 - root - INFO - *********Clicking submit button*************
+2025-06-07 15:02:28,045 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 15:02:28,045 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-07 15:02:28,961 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 15:02:28,961 - root - INFO - *********Wait until Front office option is located*************
+2025-06-07 15:02:28,973 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 15:02:28,973 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-07 15:02:29,094 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 15:02:29,094 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-07 15:02:29,111 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 15:02:29,111 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-07 15:02:30,384 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 15:02:30,384 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-07 15:02:30,957 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-07 15:02:30,957 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-08 06:27:11,707 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 06:27:11,707 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 06:27:12,186 - root - INFO - *********Logging and saving username status*************
+2025-06-08 06:27:12,186 - root - INFO - *********Logging and saving username status*************
+2025-06-08 06:27:13,145 - root - INFO - *********Logging and saving password status*************
+2025-06-08 06:27:13,145 - root - INFO - *********Logging and saving password status*************
+2025-06-08 06:27:13,569 - root - INFO - *********Clicking submit button*************
+2025-06-08 06:27:13,569 - root - INFO - *********Clicking submit button*************
+2025-06-08 06:27:14,094 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 06:27:14,094 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 06:27:15,405 - root - INFO - *********Wait until Front office option is located*************
+2025-06-08 06:27:15,405 - root - INFO - *********Wait until Front office option is located*************
+2025-06-08 06:27:15,416 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 06:27:15,416 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 06:27:15,560 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-08 06:27:15,560 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-08 06:27:15,583 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 06:27:15,583 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 06:27:17,129 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-08 06:27:17,129 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-08 06:27:17,773 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-08 06:27:17,773 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-08 06:29:44,193 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 06:29:44,193 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 06:29:44,582 - root - INFO - *********Logging and saving username status*************
+2025-06-08 06:29:44,582 - root - INFO - *********Logging and saving username status*************
+2025-06-08 06:29:45,364 - root - INFO - *********Logging and saving password status*************
+2025-06-08 06:29:45,364 - root - INFO - *********Logging and saving password status*************
+2025-06-08 06:29:45,743 - root - INFO - *********Clicking submit button*************
+2025-06-08 06:29:45,743 - root - INFO - *********Clicking submit button*************
+2025-06-08 06:29:46,195 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 06:29:46,195 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 06:29:47,011 - root - INFO - *********Wait until Front office option is located*************
+2025-06-08 06:29:47,011 - root - INFO - *********Wait until Front office option is located*************
+2025-06-08 06:29:47,026 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 06:29:47,026 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 06:29:47,193 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-08 06:29:47,193 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-08 06:29:47,212 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 06:29:47,212 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 06:29:48,392 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-08 06:29:48,392 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-08 06:29:48,503 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-08 06:29:48,503 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-08 06:31:42,198 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 06:31:42,198 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 06:31:42,642 - root - INFO - *********Logging and saving username status*************
+2025-06-08 06:31:42,642 - root - INFO - *********Logging and saving username status*************
+2025-06-08 06:31:43,368 - root - INFO - *********Logging and saving password status*************
+2025-06-08 06:31:43,368 - root - INFO - *********Logging and saving password status*************
+2025-06-08 06:31:43,767 - root - INFO - *********Clicking submit button*************
+2025-06-08 06:31:43,767 - root - INFO - *********Clicking submit button*************
+2025-06-08 06:31:44,266 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 06:31:44,266 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 06:31:45,256 - root - INFO - *********Wait until Front office option is located*************
+2025-06-08 06:31:45,256 - root - INFO - *********Wait until Front office option is located*************
+2025-06-08 06:31:45,266 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 06:31:45,266 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 06:31:45,427 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-08 06:31:45,427 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-08 06:31:45,444 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 06:31:45,444 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 06:31:46,907 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-08 06:31:46,907 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-08 06:31:47,502 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-08 06:31:47,502 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-08 06:46:51,058 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 06:46:51,058 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 06:46:51,556 - root - INFO - *********Logging and saving username status*************
+2025-06-08 06:46:51,556 - root - INFO - *********Logging and saving username status*************
+2025-06-08 06:46:52,370 - root - INFO - *********Logging and saving password status*************
+2025-06-08 06:46:52,370 - root - INFO - *********Logging and saving password status*************
+2025-06-08 06:46:52,770 - root - INFO - *********Clicking submit button*************
+2025-06-08 06:46:52,770 - root - INFO - *********Clicking submit button*************
+2025-06-08 06:46:53,270 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 06:46:53,270 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 06:46:54,185 - root - INFO - *********Wait until Front office option is located*************
+2025-06-08 06:46:54,185 - root - INFO - *********Wait until Front office option is located*************
+2025-06-08 06:46:54,197 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 06:46:54,197 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 06:46:54,331 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-08 06:46:54,331 - root - INFO - *********Wait until Front office pop up is located*************
+2025-06-08 06:46:54,351 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 06:46:54,351 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 06:46:56,898 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-08 06:46:56,898 - root - INFO - ********* Wait to identify the add patient locator and click the add patient option *************
+2025-06-08 06:46:57,022 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-08 06:46:57,022 - root - INFO - ********* Wait to identify and click any option under the add paitent option *************
+2025-06-08 07:13:59,420 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 07:13:59,420 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 07:14:00,175 - root - INFO - *********Logging and saving username status*************
+2025-06-08 07:14:00,175 - root - INFO - *********Logging and saving username status*************
+2025-06-08 07:14:00,760 - root - INFO - *********Logging and saving password status*************
+2025-06-08 07:14:00,760 - root - INFO - *********Logging and saving password status*************
+2025-06-08 07:14:01,163 - root - INFO - *********Clicking submit button*************
+2025-06-08 07:14:01,163 - root - INFO - *********Clicking submit button*************
+2025-06-08 07:14:01,642 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 07:14:01,642 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 07:14:02,397 - root - INFO - *********Select Facility*************
+2025-06-08 07:14:02,397 - root - INFO - *********Select Facility*************
+2025-06-08 07:14:02,523 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 07:14:02,523 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 07:14:02,681 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 07:14:02,681 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 07:14:04,063 - root - INFO - ********* Click the add patient option *************
+2025-06-08 07:14:04,063 - root - INFO - ********* Click the add patient option *************
+2025-06-08 07:14:04,638 - root - INFO - ********* Click any option under the add paitent option *************
+2025-06-08 07:14:04,638 - root - INFO - ********* Click any option under the add paitent option *************
+2025-06-08 07:14:09,610 - root - INFO - ********* Select a Title *************
+2025-06-08 07:14:09,610 - root - INFO - ********* Select a Title *************
+2025-06-08 07:14:29,985 - root - INFO - ********* Fill the firstname *************
+2025-06-08 07:14:29,985 - root - INFO - ********* Fill the firstname *************
+2025-06-08 07:14:30,073 - root - INFO - ********* Select a Gender *************
+2025-06-08 07:14:30,073 - root - INFO - ********* Select a Gender *************
+2025-06-08 07:14:30,166 - root - INFO - ********* Click the age *************
+2025-06-08 07:14:30,166 - root - INFO - ********* Click the age *************
+2025-06-08 07:14:30,310 - root - INFO - ********* Select status of Marriage *************
+2025-06-08 07:14:30,310 - root - INFO - ********* Select status of Marriage *************
+2025-06-08 07:14:30,402 - root - INFO - ********* Enter the mobile number *************
+2025-06-08 07:14:30,402 - root - INFO - ********* Enter the mobile number *************
+2025-06-08 07:14:30,489 - root - INFO - ********* Enter Address *************
+2025-06-08 07:14:30,489 - root - INFO - ********* Enter Address *************
+2025-06-08 07:14:30,606 - root - INFO - ********* Enter Locality *************
+2025-06-08 07:14:30,606 - root - INFO - ********* Enter Locality *************
+2025-06-08 07:19:58,784 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 07:19:58,784 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 07:19:59,178 - root - INFO - *********Logging and saving username status*************
+2025-06-08 07:19:59,178 - root - INFO - *********Logging and saving username status*************
+2025-06-08 07:20:00,000 - root - INFO - *********Logging and saving password status*************
+2025-06-08 07:20:00,000 - root - INFO - *********Logging and saving password status*************
+2025-06-08 07:20:00,418 - root - INFO - *********Clicking submit button*************
+2025-06-08 07:20:00,418 - root - INFO - *********Clicking submit button*************
+2025-06-08 07:20:00,906 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 07:20:00,906 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 07:20:01,685 - root - INFO - *********Select Facility*************
+2025-06-08 07:20:01,685 - root - INFO - *********Select Facility*************
+2025-06-08 07:20:01,809 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 07:20:01,809 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 07:20:01,951 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 07:20:01,951 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 07:20:03,495 - root - INFO - ********* Click the add patient option *************
+2025-06-08 07:20:03,495 - root - INFO - ********* Click the add patient option *************
+2025-06-08 07:20:04,065 - root - INFO - ********* Click any option under the add paitent option *************
+2025-06-08 07:20:04,065 - root - INFO - ********* Click any option under the add paitent option *************
+2025-06-08 07:20:08,119 - root - INFO - ********* Select a Title *************
+2025-06-08 07:20:08,119 - root - INFO - ********* Select a Title *************
+2025-06-08 07:20:28,467 - root - INFO - ********* Fill the firstname *************
+2025-06-08 07:20:28,467 - root - INFO - ********* Fill the firstname *************
+2025-06-08 07:20:28,559 - root - INFO - ********* Select a Gender *************
+2025-06-08 07:20:28,559 - root - INFO - ********* Select a Gender *************
+2025-06-08 07:20:28,656 - root - INFO - ********* Click the age *************
+2025-06-08 07:20:28,656 - root - INFO - ********* Click the age *************
+2025-06-08 07:20:28,799 - root - INFO - ********* Select status of Marriage *************
+2025-06-08 07:20:28,799 - root - INFO - ********* Select status of Marriage *************
+2025-06-08 07:20:28,888 - root - INFO - ********* Enter the mobile number *************
+2025-06-08 07:20:28,888 - root - INFO - ********* Enter the mobile number *************
+2025-06-08 07:20:28,980 - root - INFO - ********* Enter Address *************
+2025-06-08 07:20:28,980 - root - INFO - ********* Enter Address *************
+2025-06-08 07:20:29,108 - root - INFO - ********* Enter Locality *************
+2025-06-08 07:20:29,108 - root - INFO - ********* Enter Locality *************
+2025-06-08 07:20:29,184 - root - INFO - ********* Enter source option *************
+2025-06-08 07:20:29,184 - root - INFO - ********* Enter source option *************
+2025-06-08 07:20:29,438 - root - INFO - ********* Click register button *************
+2025-06-08 07:20:29,438 - root - INFO - ********* Click register button *************
+2025-06-08 07:20:30,033 - root - INFO - ********* Patient Details *************
+2025-06-08 07:20:30,033 - root - INFO - ********* Patient Details *************
+2025-06-08 07:21:16,112 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 07:21:16,112 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 07:21:17,356 - root - INFO - *********Logging and saving username status*************
+2025-06-08 07:21:17,356 - root - INFO - *********Logging and saving username status*************
+2025-06-08 07:21:18,193 - root - INFO - *********Logging and saving password status*************
+2025-06-08 07:21:18,193 - root - INFO - *********Logging and saving password status*************
+2025-06-08 07:21:18,602 - root - INFO - *********Clicking submit button*************
+2025-06-08 07:21:18,602 - root - INFO - *********Clicking submit button*************
+2025-06-08 07:21:19,420 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 07:21:19,420 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 07:21:20,472 - root - INFO - *********Select Facility*************
+2025-06-08 07:21:20,472 - root - INFO - *********Select Facility*************
+2025-06-08 07:21:20,611 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 07:21:20,611 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 07:21:20,767 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 07:21:20,767 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 07:21:22,571 - root - INFO - ********* Click the add patient option *************
+2025-06-08 07:21:22,571 - root - INFO - ********* Click the add patient option *************
+2025-06-08 07:21:22,792 - root - INFO - ********* Click any option under the add paitent option *************
+2025-06-08 07:21:22,792 - root - INFO - ********* Click any option under the add paitent option *************
+2025-06-08 07:21:27,793 - root - INFO - ********* Select a Title *************
+2025-06-08 07:21:27,793 - root - INFO - ********* Select a Title *************
+2025-06-08 07:21:28,181 - root - INFO - ********* Fill the firstname *************
+2025-06-08 07:21:28,181 - root - INFO - ********* Fill the firstname *************
+2025-06-08 07:21:28,295 - root - INFO - ********* Select a Gender *************
+2025-06-08 07:21:28,295 - root - INFO - ********* Select a Gender *************
+2025-06-08 07:21:28,432 - root - INFO - ********* Click the age *************
+2025-06-08 07:21:28,432 - root - INFO - ********* Click the age *************
+2025-06-08 07:21:28,613 - root - INFO - ********* Select status of Marriage *************
+2025-06-08 07:21:28,613 - root - INFO - ********* Select status of Marriage *************
+2025-06-08 07:21:28,711 - root - INFO - ********* Enter the mobile number *************
+2025-06-08 07:21:28,711 - root - INFO - ********* Enter the mobile number *************
+2025-06-08 07:21:28,826 - root - INFO - ********* Enter Address *************
+2025-06-08 07:21:28,826 - root - INFO - ********* Enter Address *************
+2025-06-08 07:21:28,942 - root - INFO - ********* Enter Locality *************
+2025-06-08 07:21:28,942 - root - INFO - ********* Enter Locality *************
+2025-06-08 07:21:29,033 - root - INFO - ********* Enter source option *************
+2025-06-08 07:21:29,033 - root - INFO - ********* Enter source option *************
+2025-06-08 07:21:29,318 - root - INFO - ********* Click register button *************
+2025-06-08 07:21:29,318 - root - INFO - ********* Click register button *************
+2025-06-08 07:21:29,418 - root - INFO - ********* Patient Details *************
+2025-06-08 07:21:29,418 - root - INFO - ********* Patient Details *************
+2025-06-08 07:39:07,093 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 07:39:07,093 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 07:39:07,470 - root - INFO - *********Logging and saving username status*************
+2025-06-08 07:39:07,470 - root - INFO - *********Logging and saving username status*************
+2025-06-08 07:39:08,432 - root - INFO - *********Logging and saving password status*************
+2025-06-08 07:39:08,432 - root - INFO - *********Logging and saving password status*************
+2025-06-08 07:39:08,834 - root - INFO - *********Clicking submit button*************
+2025-06-08 07:39:08,834 - root - INFO - *********Clicking submit button*************
+2025-06-08 07:39:09,296 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 07:39:09,296 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 07:39:10,011 - root - INFO - *********Select Facility*************
+2025-06-08 07:39:10,011 - root - INFO - *********Select Facility*************
+2025-06-08 07:39:10,126 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 07:39:10,126 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 07:39:10,288 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 07:39:10,288 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 07:39:11,565 - root - INFO - ********* Click the add patient option *************
+2025-06-08 07:39:11,565 - root - INFO - ********* Click the add patient option *************
+2025-06-08 07:39:12,165 - root - INFO - ********* Click any option under the add paitent option *************
+2025-06-08 07:39:12,165 - root - INFO - ********* Click any option under the add paitent option *************
+2025-06-08 07:39:16,687 - root - INFO - ********* Select a Title *************
+2025-06-08 07:39:16,687 - root - INFO - ********* Select a Title *************
+2025-06-08 07:39:17,136 - root - INFO - ********* Fill the firstname *************
+2025-06-08 07:39:17,136 - root - INFO - ********* Fill the firstname *************
+2025-06-08 07:39:17,226 - root - INFO - ********* Select a Gender *************
+2025-06-08 07:39:17,226 - root - INFO - ********* Select a Gender *************
+2025-06-08 07:39:17,354 - root - INFO - ********* Click the age *************
+2025-06-08 07:39:17,354 - root - INFO - ********* Click the age *************
+2025-06-08 07:39:17,538 - root - INFO - ********* Select status of Marriage *************
+2025-06-08 07:39:17,538 - root - INFO - ********* Select status of Marriage *************
+2025-06-08 07:39:17,646 - root - INFO - ********* Enter the mobile number *************
+2025-06-08 07:39:17,646 - root - INFO - ********* Enter the mobile number *************
+2025-06-08 07:39:17,759 - root - INFO - ********* Enter Address *************
+2025-06-08 07:39:17,759 - root - INFO - ********* Enter Address *************
+2025-06-08 07:39:17,909 - root - INFO - ********* Enter Locality *************
+2025-06-08 07:39:17,909 - root - INFO - ********* Enter Locality *************
+2025-06-08 07:39:18,023 - root - INFO - ********* Enter source option *************
+2025-06-08 07:39:18,023 - root - INFO - ********* Enter source option *************
+2025-06-08 07:39:18,346 - root - INFO - ********* Click register button *************
+2025-06-08 07:39:18,346 - root - INFO - ********* Click register button *************
+2025-06-08 07:39:18,955 - root - INFO - ********* Patient Details *************
+2025-06-08 07:39:18,955 - root - INFO - ********* Patient Details *************
+2025-06-08 12:03:21,562 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 12:03:21,562 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 12:03:21,944 - root - INFO - *********Logging and saving username status*************
+2025-06-08 12:03:21,944 - root - INFO - *********Logging and saving username status*************
+2025-06-08 12:03:22,894 - root - INFO - *********Logging and saving password status*************
+2025-06-08 12:03:22,894 - root - INFO - *********Logging and saving password status*************
+2025-06-08 12:03:23,337 - root - INFO - *********Clicking submit button*************
+2025-06-08 12:03:23,337 - root - INFO - *********Clicking submit button*************
+2025-06-08 12:03:23,816 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 12:03:23,816 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 12:03:24,610 - root - INFO - *********Select Facility*************
+2025-06-08 12:03:24,610 - root - INFO - *********Select Facility*************
+2025-06-08 12:03:24,763 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 12:03:24,763 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 12:03:24,935 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 12:03:24,935 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 12:03:26,380 - root - INFO - ********* Click the add patient option *************
+2025-06-08 12:03:26,380 - root - INFO - ********* Click the add patient option *************
+2025-06-08 12:03:26,956 - root - INFO - ********* Click any option under the add paitent option *************
+2025-06-08 12:03:26,956 - root - INFO - ********* Click any option under the add paitent option *************
+2025-06-08 12:03:31,531 - root - INFO - ********* Select a Title *************
+2025-06-08 12:03:31,531 - root - INFO - ********* Select a Title *************
+2025-06-08 12:03:31,974 - root - INFO - ********* Fill the firstname *************
+2025-06-08 12:03:31,974 - root - INFO - ********* Fill the firstname *************
+2025-06-08 12:03:32,073 - root - INFO - ********* Select a Gender *************
+2025-06-08 12:03:32,073 - root - INFO - ********* Select a Gender *************
+2025-06-08 12:03:32,179 - root - INFO - ********* Click the age *************
+2025-06-08 12:03:32,179 - root - INFO - ********* Click the age *************
+2025-06-08 12:03:32,354 - root - INFO - ********* Select status of Marriage *************
+2025-06-08 12:03:32,354 - root - INFO - ********* Select status of Marriage *************
+2025-06-08 12:03:32,480 - root - INFO - ********* Enter the mobile number *************
+2025-06-08 12:03:32,480 - root - INFO - ********* Enter the mobile number *************
+2025-06-08 12:03:32,596 - root - INFO - ********* Enter Address *************
+2025-06-08 12:03:32,596 - root - INFO - ********* Enter Address *************
+2025-06-08 12:03:32,765 - root - INFO - ********* Enter Locality *************
+2025-06-08 12:03:32,765 - root - INFO - ********* Enter Locality *************
+2025-06-08 12:03:32,888 - root - INFO - ********* Enter source option *************
+2025-06-08 12:03:32,888 - root - INFO - ********* Enter source option *************
+2025-06-08 12:03:33,140 - root - INFO - ********* Click register button *************
+2025-06-08 12:03:33,140 - root - INFO - ********* Click register button *************
+2025-06-08 12:03:33,245 - root - INFO - ********* Patient Details *************
+2025-06-08 12:03:33,245 - root - INFO - ********* Patient Details *************
+2025-06-08 12:03:33,298 - root - INFO - ********* Save Patient Details *************
+2025-06-08 12:03:33,298 - root - INFO - ********* Save Patient Details *************
+2025-06-08 12:03:34,582 - root - INFO - ********* Successful message *************
+2025-06-08 12:03:34,582 - root - INFO - ********* Successful message *************
+2025-06-08 12:03:34,602 - root - INFO - ********* Registration Successful Pop up *************
+2025-06-08 12:03:34,602 - root - INFO - ********* Registration Successful Pop up *************
+2025-06-08 12:20:03,465 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 12:20:03,465 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-08 12:20:03,889 - root - INFO - *********Logging and saving username status*************
+2025-06-08 12:20:03,889 - root - INFO - *********Logging and saving username status*************
+2025-06-08 12:20:04,829 - root - INFO - *********Logging and saving password status*************
+2025-06-08 12:20:04,829 - root - INFO - *********Logging and saving password status*************
+2025-06-08 12:20:05,239 - root - INFO - *********Clicking submit button*************
+2025-06-08 12:20:05,239 - root - INFO - *********Clicking submit button*************
+2025-06-08 12:20:05,689 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 12:20:05,689 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-08 12:20:06,415 - root - INFO - *********Select Facility*************
+2025-06-08 12:20:06,415 - root - INFO - *********Select Facility*************
+2025-06-08 12:20:06,542 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 12:20:06,542 - root - INFO - *********Click the Front office option in His HomePage*************
+2025-06-08 12:20:06,726 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 12:20:06,726 - root - INFO - *********Click Yes Button in the Front Office Pop up*************
+2025-06-08 12:20:08,106 - root - INFO - ********* Click the add patient option *************
+2025-06-08 12:20:08,106 - root - INFO - ********* Click the add patient option *************
+2025-06-08 12:20:08,184 - root - INFO - ********* Click any option under the add paitent option *************
+2025-06-08 12:20:08,184 - root - INFO - ********* Click any option under the add paitent option *************
+2025-06-08 12:20:12,288 - root - INFO - ********* Select a Title *************
+2025-06-08 12:20:12,288 - root - INFO - ********* Select a Title *************
+2025-06-08 12:20:12,699 - root - INFO - ********* Fill the firstname *************
+2025-06-08 12:20:12,699 - root - INFO - ********* Fill the firstname *************
+2025-06-08 12:20:12,804 - root - INFO - ********* Select a Gender *************
+2025-06-08 12:20:12,804 - root - INFO - ********* Select a Gender *************
+2025-06-08 12:20:12,912 - root - INFO - ********* Click the age *************
+2025-06-08 12:20:12,912 - root - INFO - ********* Click the age *************
+2025-06-08 12:20:13,091 - root - INFO - ********* Select status of Marriage *************
+2025-06-08 12:20:13,091 - root - INFO - ********* Select status of Marriage *************
+2025-06-08 12:20:13,199 - root - INFO - ********* Enter the mobile number *************
+2025-06-08 12:20:13,199 - root - INFO - ********* Enter the mobile number *************
+2025-06-08 12:20:13,339 - root - INFO - ********* Enter Address *************
+2025-06-08 12:20:13,339 - root - INFO - ********* Enter Address *************
+2025-06-08 12:20:13,516 - root - INFO - ********* Enter Locality *************
+2025-06-08 12:20:13,516 - root - INFO - ********* Enter Locality *************
+2025-06-08 12:20:13,626 - root - INFO - ********* Enter source option *************
+2025-06-08 12:20:13,626 - root - INFO - ********* Enter source option *************
+2025-06-08 12:20:13,882 - root - INFO - ********* Click register button *************
+2025-06-08 12:20:13,882 - root - INFO - ********* Click register button *************
+2025-06-08 12:20:14,494 - root - INFO - ********* Patient Details *************
+2025-06-08 12:20:14,494 - root - INFO - ********* Patient Details *************
+2025-06-08 12:20:14,540 - root - INFO - ********* Save Patient Details *************
+2025-06-08 12:20:14,540 - root - INFO - ********* Save Patient Details *************
+2025-06-08 12:20:14,890 - root - INFO - ********* Successful message *************
+2025-06-08 12:20:14,890 - root - INFO - ********* Successful message *************
+2025-06-08 12:20:14,932 - root - INFO - ********* Registration Successful Pop up *************
+2025-06-08 12:20:14,932 - root - INFO - ********* Registration Successful Pop up *************
+2025-06-16 16:42:15,092 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-06-16 16:42:17,494 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 16:42:17,854 - root - INFO - *********Logging and saving username status*************
+2025-06-16 16:42:18,567 - root - INFO - *********Logging and saving password status*************
+2025-06-16 16:42:18,937 - root - INFO - *********Clicking submit button*************
+2025-06-16 16:42:19,386 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 16:42:20,029 - root - INFO - *********Select the Facility*************
+2025-06-16 16:46:03,056 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 16:46:03,443 - root - INFO - *********Logging and saving username status*************
+2025-06-16 16:46:04,334 - root - INFO - *********Logging and saving password status*************
+2025-06-16 16:46:04,705 - root - INFO - *********Clicking submit button*************
+2025-06-16 16:46:05,147 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 16:46:05,751 - root - INFO - *********Select the Facility*************
+2025-06-16 16:50:29,907 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 16:50:30,333 - root - INFO - *********Logging and saving username status*************
+2025-06-16 16:50:31,168 - root - INFO - *********Logging and saving password status*************
+2025-06-16 16:50:31,552 - root - INFO - *********Clicking submit button*************
+2025-06-16 16:50:31,995 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 16:50:32,581 - root - INFO - *********Select the Facility*************
+2025-06-16 16:50:32,662 - root - INFO - *******Click Inventory Option********
+2025-06-16 16:50:32,792 - root - INFO - *******
+2025-06-16 16:51:06,250 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 16:51:06,560 - root - INFO - *********Logging and saving username status*************
+2025-06-16 16:51:07,421 - root - INFO - *********Logging and saving password status*************
+2025-06-16 16:51:07,792 - root - INFO - *********Clicking submit button*************
+2025-06-16 16:51:08,235 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 16:51:08,933 - root - INFO - *********Select the Facility*************
+2025-06-16 16:51:09,017 - root - INFO - *******Click Inventory Option********
+2025-06-16 16:51:09,152 - root - INFO - *******
+2025-06-16 16:54:23,750 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 16:54:24,180 - root - INFO - *********Logging and saving username status*************
+2025-06-16 16:54:25,088 - root - INFO - *********Logging and saving password status*************
+2025-06-16 16:54:25,461 - root - INFO - *********Clicking submit button*************
+2025-06-16 16:54:25,906 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 16:54:26,535 - root - INFO - *********Select the Facility*************
+2025-06-16 16:54:26,620 - root - INFO - *******Click Inventory Option********
+2025-06-16 16:54:26,761 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-16 17:00:50,245 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 17:00:50,613 - root - INFO - *********Logging and saving username status*************
+2025-06-16 17:00:51,510 - root - INFO - *********Logging and saving password status*************
+2025-06-16 17:00:51,888 - root - INFO - *********Clicking submit button*************
+2025-06-16 17:00:52,315 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 17:00:53,081 - root - INFO - *********Select the Facility*************
+2025-06-16 17:00:53,168 - root - INFO - *******Click Inventory Option********
+2025-06-16 17:00:53,363 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-16 17:00:56,091 - root - INFO - *******Indent_options_select*******
+2025-06-16 17:34:05,467 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 17:34:05,845 - root - INFO - *********Logging and saving username status*************
+2025-06-16 17:34:06,693 - root - INFO - *********Logging and saving password status*************
+2025-06-16 17:34:07,062 - root - INFO - *********Clicking submit button*************
+2025-06-16 17:34:07,508 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 17:34:08,121 - root - INFO - *********Select the Facility*************
+2025-06-16 17:34:08,212 - root - INFO - *******Click Inventory Option********
+2025-06-16 17:34:08,365 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-16 17:34:11,033 - root - INFO - *******Indent_options_select*******
+2025-06-16 17:34:35,535 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 17:34:35,920 - root - INFO - *********Logging and saving username status*************
+2025-06-16 17:34:36,706 - root - INFO - *********Logging and saving password status*************
+2025-06-16 17:34:37,090 - root - INFO - *********Clicking submit button*************
+2025-06-16 17:34:37,552 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 17:34:38,167 - root - INFO - *********Select the Facility*************
+2025-06-16 17:34:38,255 - root - INFO - *******Click Inventory Option********
+2025-06-16 17:34:38,391 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-16 17:34:41,168 - root - INFO - *******Indent_options_select*******
+2025-06-16 17:37:09,812 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 17:37:10,229 - root - INFO - *********Logging and saving username status*************
+2025-06-16 17:37:10,928 - root - INFO - *********Logging and saving password status*************
+2025-06-16 17:37:11,333 - root - INFO - *********Clicking submit button*************
+2025-06-16 17:37:11,773 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 17:37:12,375 - root - INFO - *********Select the Facility*************
+2025-06-16 17:37:12,469 - root - INFO - *******Click Inventory Option********
+2025-06-16 17:37:12,628 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-16 17:37:15,430 - root - INFO - *******Indent_options_select*******
+2025-06-16 17:37:44,397 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 17:37:44,819 - root - INFO - *********Logging and saving username status*************
+2025-06-16 17:37:45,599 - root - INFO - *********Logging and saving password status*************
+2025-06-16 17:37:45,994 - root - INFO - *********Clicking submit button*************
+2025-06-16 17:37:46,414 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 17:37:46,977 - root - INFO - *********Select the Facility*************
+2025-06-16 17:37:47,059 - root - INFO - *******Click Inventory Option********
+2025-06-16 17:37:47,205 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-16 17:37:50,925 - root - INFO - *******Indent_options_select*******
+2025-06-16 18:26:14,816 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-06-16 18:26:17,089 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 18:26:17,516 - root - INFO - *********Logging and saving username status*************
+2025-06-16 18:26:18,368 - root - INFO - *********Logging and saving password status*************
+2025-06-16 18:26:18,770 - root - INFO - *********Clicking submit button*************
+2025-06-16 18:26:19,235 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 18:26:19,882 - root - INFO - *********Select the Facility*************
+2025-06-16 18:26:19,987 - root - INFO - *******Click Inventory Option********
+2025-06-16 18:26:20,144 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-16 18:26:22,613 - root - INFO - *******Indent_options_select*******
+2025-06-16 18:30:44,003 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 18:30:44,496 - root - INFO - *********Logging and saving username status*************
+2025-06-16 18:30:45,346 - root - INFO - *********Logging and saving password status*************
+2025-06-16 18:30:45,734 - root - INFO - *********Clicking submit button*************
+2025-06-16 18:30:46,333 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 18:30:47,225 - root - INFO - *********Select the Facility*************
+2025-06-16 18:30:47,316 - root - INFO - *******Click Inventory Option********
+2025-06-16 18:30:47,490 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-16 18:30:50,008 - root - INFO - *******Indent_options_select*******
+2025-06-16 18:33:35,308 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 18:33:35,707 - root - INFO - *********Logging and saving username status*************
+2025-06-16 18:33:36,628 - root - INFO - *********Logging and saving password status*************
+2025-06-16 18:33:37,068 - root - INFO - *********Clicking submit button*************
+2025-06-16 18:33:37,522 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 18:33:38,177 - root - INFO - *********Select the Facility*************
+2025-06-16 18:33:38,287 - root - INFO - *******Click Inventory Option********
+2025-06-16 18:33:38,439 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-16 18:33:41,100 - root - INFO - *******Indent_options_select*******
+2025-06-16 19:00:42,017 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 19:00:42,543 - root - INFO - *********Logging and saving username status*************
+2025-06-16 19:00:43,395 - root - INFO - *********Logging and saving password status*************
+2025-06-16 19:00:43,803 - root - INFO - *********Clicking submit button*************
+2025-06-16 19:00:44,256 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 19:00:45,042 - root - INFO - *********Select the Facility*************
+2025-06-16 19:00:45,136 - root - INFO - *******Click Inventory Option********
+2025-06-16 19:00:45,309 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-16 19:00:48,254 - root - INFO - *******Indent_options_select*******
+2025-06-16 19:00:49,635 - root - INFO - *******select_facility_and_Department*******
+2025-06-16 19:04:03,509 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 19:04:03,858 - root - INFO - *********Logging and saving username status*************
+2025-06-16 19:04:04,548 - root - INFO - *********Logging and saving password status*************
+2025-06-16 19:04:04,926 - root - INFO - *********Clicking submit button*************
+2025-06-16 19:04:05,388 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 19:04:06,069 - root - INFO - *********Select the Facility*************
+2025-06-16 19:04:06,151 - root - INFO - *******Click Inventory Option********
+2025-06-16 19:04:06,322 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-16 19:04:09,006 - root - INFO - *******Indent_options_select*******
+2025-06-16 19:04:10,232 - root - INFO - *******select_facility_and_Department*******
+2025-06-16 19:05:59,635 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 19:06:00,020 - root - INFO - *********Logging and saving username status*************
+2025-06-16 19:06:00,854 - root - INFO - *********Logging and saving password status*************
+2025-06-16 19:06:01,256 - root - INFO - *********Clicking submit button*************
+2025-06-16 19:06:01,708 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 19:06:02,445 - root - INFO - *********Select the Facility*************
+2025-06-16 19:06:02,527 - root - INFO - *******Click Inventory Option********
+2025-06-16 19:06:02,728 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-16 19:06:05,267 - root - INFO - *******Indent_options_select*******
+2025-06-16 19:06:07,114 - root - INFO - *******select_facility_and_Department*******
+2025-06-16 19:10:27,312 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 19:10:27,836 - root - INFO - *********Logging and saving username status*************
+2025-06-16 19:10:28,557 - root - INFO - *********Logging and saving password status*************
+2025-06-16 19:10:28,921 - root - INFO - *********Clicking submit button*************
+2025-06-16 19:10:29,344 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 19:10:30,015 - root - INFO - *********Select the Facility*************
+2025-06-16 19:10:30,103 - root - INFO - *******Click Inventory Option********
+2025-06-16 19:10:30,262 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-16 19:10:33,189 - root - INFO - *******Indent_options_select*******
+2025-06-16 19:10:35,995 - root - INFO - *******select_facility_and_Department*******
+2025-06-16 19:11:37,713 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 19:11:38,167 - root - INFO - *********Logging and saving username status*************
+2025-06-16 19:11:39,031 - root - INFO - *********Logging and saving password status*************
+2025-06-16 19:11:39,430 - root - INFO - *********Clicking submit button*************
+2025-06-16 19:11:39,946 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 19:11:40,606 - root - INFO - *********Select the Facility*************
+2025-06-16 19:11:40,699 - root - INFO - *******Click Inventory Option********
+2025-06-16 19:11:40,881 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-16 19:11:43,977 - root - INFO - *******Indent_options_select*******
+2025-06-16 19:11:44,803 - root - INFO - *******select_facility_and_Department*******
+2025-06-16 19:33:08,163 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-06-16 19:33:10,153 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 19:33:10,534 - root - INFO - *********Logging and saving username status*************
+2025-06-16 19:33:11,438 - root - INFO - *********Logging and saving password status*************
+2025-06-16 19:33:11,860 - root - INFO - *********Clicking submit button*************
+2025-06-16 19:33:12,299 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 19:33:12,958 - root - INFO - *********Select the Facility*************
+2025-06-16 19:33:13,066 - root - INFO - *******Click Inventory Option********
+2025-06-16 19:33:13,228 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-16 19:33:15,739 - root - INFO - *******Indent_options_select*******
+2025-06-16 19:33:17,430 - root - INFO - *******select_facility_and_Department*******
+2025-06-16 19:33:17,555 - root - INFO - ********search_and_click_indent_items********
+2025-06-16 19:37:07,912 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 19:37:08,251 - root - INFO - *********Logging and saving username status*************
+2025-06-16 19:37:09,135 - root - INFO - *********Logging and saving password status*************
+2025-06-16 19:37:09,519 - root - INFO - *********Clicking submit button*************
+2025-06-16 19:37:09,980 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 19:37:10,678 - root - INFO - *********Select the Facility*************
+2025-06-16 19:37:10,770 - root - INFO - *******Click Inventory Option********
+2025-06-16 19:37:10,977 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-16 19:37:13,598 - root - INFO - *******Indent_options_select*******
+2025-06-16 19:37:14,918 - root - INFO - *******select_facility_and_Department*******
+2025-06-16 19:37:15,047 - root - INFO - ********search_and_click_indent_items********
+2025-06-16 19:38:39,390 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-16 19:38:39,767 - root - INFO - *********Logging and saving username status*************
+2025-06-16 19:38:40,588 - root - INFO - *********Logging and saving password status*************
+2025-06-16 19:38:40,978 - root - INFO - *********Clicking submit button*************
+2025-06-16 19:38:41,427 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-16 19:38:42,083 - root - INFO - *********Select the Facility*************
+2025-06-16 19:38:42,162 - root - INFO - *******Click Inventory Option********
+2025-06-16 19:38:42,334 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-16 19:38:45,090 - root - INFO - *******Indent_options_select*******
+2025-06-16 19:38:49,822 - root - INFO - *******select_facility_and_Department*******
+2025-06-16 19:38:50,428 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 13:01:07,038 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 13:01:07,583 - root - INFO - *********Logging and saving username status*************
+2025-06-17 13:01:08,353 - root - INFO - *********Logging and saving password status*************
+2025-06-17 13:01:08,750 - root - INFO - *********Clicking submit button*************
+2025-06-17 13:01:09,193 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 13:01:09,897 - root - INFO - *********Select the Facility*************
+2025-06-17 13:01:09,995 - root - INFO - *******Click Inventory Option********
+2025-06-17 13:01:10,162 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 13:01:13,960 - root - INFO - *******Indent_options_select*******
+2025-06-17 13:01:22,904 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 13:01:23,862 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 13:43:45,672 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 13:43:46,243 - root - INFO - *********Logging and saving username status*************
+2025-06-17 13:43:46,906 - root - INFO - *********Logging and saving password status*************
+2025-06-17 13:43:47,320 - root - INFO - *********Clicking submit button*************
+2025-06-17 13:43:47,789 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 13:43:48,635 - root - INFO - *********Select the Facility*************
+2025-06-17 13:43:48,729 - root - INFO - *******Click Inventory Option********
+2025-06-17 13:43:48,863 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 13:43:52,208 - root - INFO - *******Indent_options_select*******
+2025-06-17 13:43:57,192 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 13:43:57,756 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 13:45:50,756 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 13:45:51,177 - root - INFO - *********Logging and saving username status*************
+2025-06-17 13:45:51,864 - root - INFO - *********Logging and saving password status*************
+2025-06-17 13:45:52,256 - root - INFO - *********Clicking submit button*************
+2025-06-17 13:45:52,686 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 13:45:53,300 - root - INFO - *********Select the Facility*************
+2025-06-17 13:45:53,389 - root - INFO - *******Click Inventory Option********
+2025-06-17 13:45:53,543 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 13:45:56,104 - root - INFO - *******Indent_options_select*******
+2025-06-17 13:45:59,711 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 13:48:00,488 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 13:48:00,850 - root - INFO - *********Logging and saving username status*************
+2025-06-17 13:48:01,714 - root - INFO - *********Logging and saving password status*************
+2025-06-17 13:48:02,095 - root - INFO - *********Clicking submit button*************
+2025-06-17 13:48:02,560 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 13:48:03,149 - root - INFO - *********Select the Facility*************
+2025-06-17 13:48:03,286 - root - INFO - *******Click Inventory Option********
+2025-06-17 13:48:03,446 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 13:48:07,320 - root - INFO - *******Indent_options_select*******
+2025-06-17 13:48:11,591 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 13:48:12,461 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 13:52:50,351 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 13:52:50,779 - root - INFO - *********Logging and saving username status*************
+2025-06-17 13:52:51,613 - root - INFO - *********Logging and saving password status*************
+2025-06-17 13:52:51,996 - root - INFO - *********Clicking submit button*************
+2025-06-17 13:52:52,418 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 13:52:53,061 - root - INFO - *********Select the Facility*************
+2025-06-17 13:52:53,148 - root - INFO - *******Click Inventory Option********
+2025-06-17 13:52:53,316 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 13:52:56,043 - root - INFO - *******Indent_options_select*******
+2025-06-17 13:52:57,599 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 13:52:57,731 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 14:11:42,452 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 14:11:42,798 - root - INFO - *********Logging and saving username status*************
+2025-06-17 14:11:43,726 - root - INFO - *********Logging and saving password status*************
+2025-06-17 14:11:44,119 - root - INFO - *********Clicking submit button*************
+2025-06-17 14:11:44,569 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 14:11:45,155 - root - INFO - *********Select the Facility*************
+2025-06-17 14:11:45,249 - root - INFO - *******Click Inventory Option********
+2025-06-17 14:11:45,399 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 14:11:48,536 - root - INFO - *******Indent_options_select*******
+2025-06-17 14:11:49,961 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 14:11:50,356 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 14:14:22,802 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 14:14:23,252 - root - INFO - *********Logging and saving username status*************
+2025-06-17 14:14:23,963 - root - INFO - *********Logging and saving password status*************
+2025-06-17 14:14:24,367 - root - INFO - *********Clicking submit button*************
+2025-06-17 14:14:24,805 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 14:14:25,459 - root - INFO - *********Select the Facility*************
+2025-06-17 14:14:25,551 - root - INFO - *******Click Inventory Option********
+2025-06-17 14:14:25,706 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 14:14:28,400 - root - INFO - *******Indent_options_select*******
+2025-06-17 14:14:30,037 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 14:14:30,166 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 16:19:18,907 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-06-17 16:19:21,430 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 16:19:21,818 - root - INFO - *********Logging and saving username status*************
+2025-06-17 16:19:22,812 - root - INFO - *********Logging and saving password status*************
+2025-06-17 16:19:23,277 - root - INFO - *********Clicking submit button*************
+2025-06-17 16:19:23,750 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 16:19:24,834 - root - INFO - *********Select the Facility*************
+2025-06-17 16:19:24,940 - root - INFO - *******Click Inventory Option********
+2025-06-17 16:19:25,090 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 16:19:27,501 - root - INFO - *******Indent_options_select*******
+2025-06-17 16:19:31,245 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 16:19:31,711 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 18:35:05,300 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 18:35:05,676 - root - INFO - *********Logging and saving username status*************
+2025-06-17 18:35:06,565 - root - INFO - *********Logging and saving password status*************
+2025-06-17 18:35:06,965 - root - INFO - *********Clicking submit button*************
+2025-06-17 18:35:07,411 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 18:35:08,080 - root - INFO - *********Select the Facility*************
+2025-06-17 18:35:08,188 - root - INFO - *******Click Inventory Option********
+2025-06-17 18:35:08,344 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 18:35:11,107 - root - INFO - *******Indent_options_select*******
+2025-06-17 18:35:13,397 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 18:35:13,537 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 18:36:01,584 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 18:36:01,905 - root - INFO - *********Logging and saving username status*************
+2025-06-17 18:36:02,904 - root - INFO - *********Logging and saving password status*************
+2025-06-17 18:36:03,282 - root - INFO - *********Clicking submit button*************
+2025-06-17 18:36:03,719 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 18:36:04,392 - root - INFO - *********Select the Facility*************
+2025-06-17 18:36:04,481 - root - INFO - *******Click Inventory Option********
+2025-06-17 18:36:04,671 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 18:36:07,573 - root - INFO - *******Indent_options_select*******
+2025-06-17 18:36:08,911 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 18:36:09,065 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 18:37:35,441 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 18:37:35,831 - root - INFO - *********Logging and saving username status*************
+2025-06-17 18:37:36,590 - root - INFO - *********Logging and saving password status*************
+2025-06-17 18:37:36,981 - root - INFO - *********Clicking submit button*************
+2025-06-17 18:37:37,418 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 18:37:38,030 - root - INFO - *********Select the Facility*************
+2025-06-17 18:37:38,118 - root - INFO - *******Click Inventory Option********
+2025-06-17 18:37:38,284 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 18:37:40,952 - root - INFO - *******Indent_options_select*******
+2025-06-17 18:37:42,187 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 18:39:20,768 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 18:39:21,359 - root - INFO - *********Logging and saving username status*************
+2025-06-17 18:39:22,322 - root - INFO - *********Logging and saving password status*************
+2025-06-17 18:39:22,706 - root - INFO - *********Clicking submit button*************
+2025-06-17 18:39:23,150 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 18:39:23,711 - root - INFO - *********Select the Facility*************
+2025-06-17 18:39:23,803 - root - INFO - *******Click Inventory Option********
+2025-06-17 18:39:23,952 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 18:39:26,916 - root - INFO - *******Indent_options_select*******
+2025-06-17 18:39:28,631 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 18:39:28,743 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 18:41:12,348 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 18:41:12,776 - root - INFO - *********Logging and saving username status*************
+2025-06-17 18:41:13,553 - root - INFO - *********Logging and saving password status*************
+2025-06-17 18:41:13,965 - root - INFO - *********Clicking submit button*************
+2025-06-17 18:41:14,448 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 18:41:15,090 - root - INFO - *********Select the Facility*************
+2025-06-17 18:41:15,183 - root - INFO - *******Click Inventory Option********
+2025-06-17 18:41:15,335 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 18:41:18,370 - root - INFO - *******Indent_options_select*******
+2025-06-17 18:41:22,248 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 18:41:22,893 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 18:42:12,858 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 18:42:13,491 - root - INFO - *********Logging and saving username status*************
+2025-06-17 18:42:14,418 - root - INFO - *********Logging and saving password status*************
+2025-06-17 18:42:14,819 - root - INFO - *********Clicking submit button*************
+2025-06-17 18:42:15,275 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 18:42:15,934 - root - INFO - *********Select the Facility*************
+2025-06-17 18:42:16,032 - root - INFO - *******Click Inventory Option********
+2025-06-17 18:42:16,160 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 18:42:19,015 - root - INFO - *******Indent_options_select*******
+2025-06-17 18:42:20,251 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 18:42:21,394 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 18:45:32,211 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 18:45:32,543 - root - INFO - *********Logging and saving username status*************
+2025-06-17 18:45:33,309 - root - INFO - *********Logging and saving password status*************
+2025-06-17 18:45:33,691 - root - INFO - *********Clicking submit button*************
+2025-06-17 18:45:34,135 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 18:45:34,948 - root - INFO - *********Select the Facility*************
+2025-06-17 18:45:35,044 - root - INFO - *******Click Inventory Option********
+2025-06-17 18:45:35,209 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 18:45:37,828 - root - INFO - *******Indent_options_select*******
+2025-06-17 18:45:42,109 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 18:46:19,605 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 18:46:20,019 - root - INFO - *********Logging and saving username status*************
+2025-06-17 18:46:20,897 - root - INFO - *********Logging and saving password status*************
+2025-06-17 18:46:21,289 - root - INFO - *********Clicking submit button*************
+2025-06-17 18:46:21,758 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 18:46:22,568 - root - INFO - *********Select the Facility*************
+2025-06-17 18:46:22,662 - root - INFO - *******Click Inventory Option********
+2025-06-17 18:46:22,851 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 18:46:25,662 - root - INFO - *******Indent_options_select*******
+2025-06-17 18:46:28,908 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 18:46:29,387 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 18:48:46,402 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 18:48:46,770 - root - INFO - *********Logging and saving username status*************
+2025-06-17 18:48:47,554 - root - INFO - *********Logging and saving password status*************
+2025-06-17 18:48:47,947 - root - INFO - *********Clicking submit button*************
+2025-06-17 18:48:48,407 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 18:48:49,043 - root - INFO - *********Select the Facility*************
+2025-06-17 18:48:49,144 - root - INFO - *******Click Inventory Option********
+2025-06-17 18:48:49,307 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 18:48:51,914 - root - INFO - *******Indent_options_select*******
+2025-06-17 18:48:55,902 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 18:48:56,358 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 18:53:56,308 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 18:53:56,663 - root - INFO - *********Logging and saving username status*************
+2025-06-17 18:53:57,919 - root - INFO - *********Logging and saving password status*************
+2025-06-17 18:53:58,316 - root - INFO - *********Clicking submit button*************
+2025-06-17 18:53:58,745 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 18:53:59,425 - root - INFO - *********Select the Facility*************
+2025-06-17 18:53:59,539 - root - INFO - *******Click Inventory Option********
+2025-06-17 18:53:59,657 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 18:54:02,535 - root - INFO - *******Indent_options_select*******
+2025-06-17 18:54:06,399 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 18:54:07,085 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 18:59:11,211 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 18:59:11,615 - root - INFO - *********Logging and saving username status*************
+2025-06-17 18:59:12,467 - root - INFO - *********Logging and saving password status*************
+2025-06-17 18:59:12,874 - root - INFO - *********Clicking submit button*************
+2025-06-17 18:59:13,359 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 18:59:14,019 - root - INFO - *********Select the Facility*************
+2025-06-17 18:59:14,106 - root - INFO - *******Click Inventory Option********
+2025-06-17 18:59:14,261 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 18:59:16,923 - root - INFO - *******Indent_options_select*******
+2025-06-17 18:59:21,190 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 18:59:21,645 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 19:56:11,780 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-06-17 19:56:14,239 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 19:56:14,648 - root - INFO - *********Logging and saving username status*************
+2025-06-17 19:56:15,555 - root - INFO - *********Logging and saving password status*************
+2025-06-17 19:56:15,944 - root - INFO - *********Clicking submit button*************
+2025-06-17 19:56:16,423 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 19:56:17,058 - root - INFO - *********Select the Facility*************
+2025-06-17 19:56:17,186 - root - INFO - *******Click Inventory Option********
+2025-06-17 19:56:17,329 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 19:56:19,858 - root - INFO - *******Indent_options_select*******
+2025-06-17 19:56:21,160 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 19:56:21,504 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 20:20:30,598 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 20:20:30,971 - root - INFO - *********Logging and saving username status*************
+2025-06-17 20:20:31,801 - root - INFO - *********Logging and saving password status*************
+2025-06-17 20:20:32,223 - root - INFO - *********Clicking submit button*************
+2025-06-17 20:20:32,662 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 20:20:33,314 - root - INFO - *********Select the Facility*************
+2025-06-17 20:20:33,429 - root - INFO - *******Click Inventory Option********
+2025-06-17 20:20:33,582 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 20:20:36,156 - root - INFO - *******Indent_options_select*******
+2025-06-17 20:20:37,828 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 20:20:37,980 - root - INFO - ********search_and_click_indent_items********
+2025-06-17 20:22:41,284 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-17 20:22:41,666 - root - INFO - *********Logging and saving username status*************
+2025-06-17 20:22:42,575 - root - INFO - *********Logging and saving password status*************
+2025-06-17 20:22:42,965 - root - INFO - *********Clicking submit button*************
+2025-06-17 20:22:43,416 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-17 20:22:44,037 - root - INFO - *********Select the Facility*************
+2025-06-17 20:22:44,124 - root - INFO - *******Click Inventory Option********
+2025-06-17 20:22:44,264 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-17 20:22:46,934 - root - INFO - *******Indent_options_select*******
+2025-06-17 20:22:48,176 - root - INFO - *******select_facility_and_Department*******
+2025-06-17 20:22:48,302 - root - INFO - ********search_and_click_indent_items********
+2025-06-18 00:03:53,999 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-18 00:03:54,501 - root - INFO - *********Logging and saving username status*************
+2025-06-18 00:03:56,583 - root - INFO - *********Logging and saving password status*************
+2025-06-18 00:03:57,043 - root - INFO - *********Clicking submit button*************
+2025-06-18 00:03:57,570 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-18 00:03:58,445 - root - INFO - *********Select the Facility*************
+2025-06-18 00:03:58,592 - root - INFO - *******Click Inventory Option********
+2025-06-18 00:03:58,751 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-18 00:04:02,967 - root - INFO - *******Indent_options_select*******
+2025-06-18 00:04:07,524 - root - INFO - *******select_facility_and_Department*******
+2025-06-18 00:04:08,395 - root - INFO - ********search_and_click_indent_items********
+2025-06-20 23:49:46,611 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-20 23:49:47,217 - root - INFO - *********Logging and saving username status*************
+2025-06-20 23:49:48,091 - root - INFO - *********Logging and saving password status*************
+2025-06-20 23:49:48,583 - root - INFO - *********Clicking submit button*************
+2025-06-20 23:49:49,095 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-20 23:49:49,869 - root - INFO - *********Select the Facility*************
+2025-06-20 23:49:50,135 - root - INFO - *******Click Inventory Option********
+2025-06-20 23:49:50,341 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-20 23:49:54,666 - root - INFO - *******Indent_options_select*******
+2025-06-20 23:49:58,515 - root - INFO - *******select_facility_and_Department*******
+2025-06-20 23:49:59,395 - root - INFO - ********search_and_click_indent_items********
+2025-06-20 23:50:23,822 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-20 23:50:24,320 - root - INFO - *********Logging and saving username status*************
+2025-06-20 23:50:25,223 - root - INFO - *********Logging and saving password status*************
+2025-06-20 23:50:25,687 - root - INFO - *********Clicking submit button*************
+2025-06-20 23:50:26,162 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-20 23:50:26,856 - root - INFO - *********Select the Facility*************
+2025-06-20 23:50:26,998 - root - INFO - *******Click Inventory Option********
+2025-06-20 23:50:27,171 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-20 23:50:30,883 - root - INFO - *******Indent_options_select*******
+2025-06-20 23:50:32,808 - root - INFO - *******select_facility_and_Department*******
+2025-06-20 23:50:33,225 - root - INFO - ********search_and_click_indent_items********
+2025-06-20 23:54:30,739 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-20 23:54:31,173 - root - INFO - *********Logging and saving username status*************
+2025-06-20 23:54:32,044 - root - INFO - *********Logging and saving password status*************
+2025-06-20 23:54:32,488 - root - INFO - *********Clicking submit button*************
+2025-06-20 23:54:33,084 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-20 23:54:33,837 - root - INFO - *********Select the Facility*************
+2025-06-20 23:54:33,997 - root - INFO - *******Click Inventory Option********
+2025-06-20 23:54:34,182 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-20 23:54:37,250 - root - INFO - *******Indent_options_select*******
+2025-06-20 23:54:38,524 - root - INFO - *******select_facility_and_Department*******
+2025-06-20 23:54:38,680 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 00:11:07,279 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 00:11:07,764 - root - INFO - *********Logging and saving username status*************
+2025-06-21 00:11:08,704 - root - INFO - *********Logging and saving password status*************
+2025-06-21 00:11:09,183 - root - INFO - *********Clicking submit button*************
+2025-06-21 00:11:09,763 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 00:11:10,534 - root - INFO - *********Select the Facility*************
+2025-06-21 00:11:10,695 - root - INFO - *******Click Inventory Option********
+2025-06-21 00:11:10,902 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 00:11:14,919 - root - INFO - *******Indent_options_select*******
+2025-06-21 00:11:17,815 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 00:11:18,756 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 09:13:03,936 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 09:13:04,287 - root - INFO - *********Logging and saving username status*************
+2025-06-21 09:13:05,167 - root - INFO - *********Logging and saving password status*************
+2025-06-21 09:13:05,565 - root - INFO - *********Clicking submit button*************
+2025-06-21 09:13:06,020 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 09:13:06,697 - root - INFO - *********Select the Facility*************
+2025-06-21 09:13:06,832 - root - INFO - *******Click Inventory Option********
+2025-06-21 09:13:06,995 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 09:13:10,137 - root - INFO - *******Indent_options_select*******
+2025-06-21 09:13:15,306 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 09:18:18,673 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 09:18:19,004 - root - INFO - *********Logging and saving username status*************
+2025-06-21 09:18:19,824 - root - INFO - *********Logging and saving password status*************
+2025-06-21 09:18:20,220 - root - INFO - *********Clicking submit button*************
+2025-06-21 09:18:20,643 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 09:18:21,297 - root - INFO - *********Select the Facility*************
+2025-06-21 09:18:21,387 - root - INFO - *******Click Inventory Option********
+2025-06-21 09:18:21,551 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 09:18:23,983 - root - INFO - *******Indent_options_select*******
+2025-06-21 09:18:25,840 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 09:18:25,958 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 09:27:43,117 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 09:27:43,496 - root - INFO - *********Logging and saving username status*************
+2025-06-21 09:27:44,231 - root - INFO - *********Logging and saving password status*************
+2025-06-21 09:27:44,616 - root - INFO - *********Clicking submit button*************
+2025-06-21 09:27:45,053 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 09:27:45,689 - root - INFO - *********Select the Facility*************
+2025-06-21 09:27:45,773 - root - INFO - *******Click Inventory Option********
+2025-06-21 09:27:45,946 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 09:27:48,382 - root - INFO - *******Indent_options_select*******
+2025-06-21 09:27:52,597 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 09:27:53,041 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 09:29:58,519 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 09:29:59,019 - root - INFO - *********Logging and saving username status*************
+2025-06-21 09:29:59,578 - root - INFO - *********Logging and saving password status*************
+2025-06-21 09:29:59,983 - root - INFO - *********Clicking submit button*************
+2025-06-21 09:30:00,420 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 09:30:01,209 - root - INFO - *********Select the Facility*************
+2025-06-21 09:30:01,284 - root - INFO - *******Click Inventory Option********
+2025-06-21 09:30:01,437 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 09:30:04,053 - root - INFO - *******Indent_options_select*******
+2025-06-21 09:30:07,246 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 09:30:07,688 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 09:41:52,423 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 09:41:52,928 - root - INFO - *********Logging and saving username status*************
+2025-06-21 09:41:53,684 - root - INFO - *********Logging and saving password status*************
+2025-06-21 09:41:54,095 - root - INFO - *********Clicking submit button*************
+2025-06-21 09:41:54,531 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 09:41:55,197 - root - INFO - *********Select the Facility*************
+2025-06-21 09:41:55,294 - root - INFO - *******Click Inventory Option********
+2025-06-21 09:41:55,455 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 09:41:58,144 - root - INFO - *******Indent_options_select*******
+2025-06-21 09:41:59,608 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 09:41:59,725 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 09:42:56,938 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 09:42:57,369 - root - INFO - *********Logging and saving username status*************
+2025-06-21 09:42:58,169 - root - INFO - *********Logging and saving password status*************
+2025-06-21 09:42:58,579 - root - INFO - *********Clicking submit button*************
+2025-06-21 09:42:59,031 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 09:43:00,035 - root - INFO - *********Select the Facility*************
+2025-06-21 09:43:00,127 - root - INFO - *******Click Inventory Option********
+2025-06-21 09:43:00,282 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 09:43:02,958 - root - INFO - *******Indent_options_select*******
+2025-06-21 09:43:07,150 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 09:43:07,579 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 09:43:50,130 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 09:43:50,506 - root - INFO - *********Logging and saving username status*************
+2025-06-21 09:43:51,255 - root - INFO - *********Logging and saving password status*************
+2025-06-21 09:43:51,640 - root - INFO - *********Clicking submit button*************
+2025-06-21 09:43:52,085 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 09:43:52,629 - root - INFO - *********Select the Facility*************
+2025-06-21 09:43:52,707 - root - INFO - *******Click Inventory Option********
+2025-06-21 09:43:52,874 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 09:43:55,214 - root - INFO - *******Indent_options_select*******
+2025-06-21 09:43:56,365 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 09:43:56,470 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 09:44:09,869 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 09:44:10,140 - root - INFO - *********Logging and saving username status*************
+2025-06-21 09:44:10,866 - root - INFO - *********Logging and saving password status*************
+2025-06-21 09:44:11,268 - root - INFO - *********Clicking submit button*************
+2025-06-21 09:44:11,689 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 09:44:12,258 - root - INFO - *********Select the Facility*************
+2025-06-21 09:44:12,330 - root - INFO - *******Click Inventory Option********
+2025-06-21 09:44:12,508 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 09:44:14,760 - root - INFO - *******Indent_options_select*******
+2025-06-21 09:44:17,882 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 09:44:18,299 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 09:44:49,815 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 09:44:50,088 - root - INFO - *********Logging and saving username status*************
+2025-06-21 09:44:51,029 - root - INFO - *********Logging and saving password status*************
+2025-06-21 09:44:51,435 - root - INFO - *********Clicking submit button*************
+2025-06-21 09:44:51,881 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 09:44:52,417 - root - INFO - *********Select the Facility*************
+2025-06-21 09:44:52,491 - root - INFO - *******Click Inventory Option********
+2025-06-21 09:44:52,647 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 09:44:55,116 - root - INFO - *******Indent_options_select*******
+2025-06-21 09:44:58,982 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 09:44:59,414 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 09:51:09,812 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 09:51:10,212 - root - INFO - *********Logging and saving username status*************
+2025-06-21 09:51:11,029 - root - INFO - *********Logging and saving password status*************
+2025-06-21 09:51:11,407 - root - INFO - *********Clicking submit button*************
+2025-06-21 09:51:11,849 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 09:51:12,453 - root - INFO - *********Select the Facility*************
+2025-06-21 09:51:12,562 - root - INFO - *******Click Inventory Option********
+2025-06-21 09:51:12,709 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 09:51:15,344 - root - INFO - *******Indent_options_select*******
+2025-06-21 09:51:17,133 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 09:51:17,285 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 09:52:31,728 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 09:52:32,151 - root - INFO - *********Logging and saving username status*************
+2025-06-21 09:52:32,961 - root - INFO - *********Logging and saving password status*************
+2025-06-21 09:52:33,354 - root - INFO - *********Clicking submit button*************
+2025-06-21 09:52:33,800 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 09:52:34,485 - root - INFO - *********Select the Facility*************
+2025-06-21 09:52:34,563 - root - INFO - *******Click Inventory Option********
+2025-06-21 09:52:34,733 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 09:52:37,399 - root - INFO - *******Indent_options_select*******
+2025-06-21 09:52:39,851 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 09:52:39,963 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 09:53:22,711 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 09:53:23,037 - root - INFO - *********Logging and saving username status*************
+2025-06-21 09:53:23,854 - root - INFO - *********Logging and saving password status*************
+2025-06-21 09:53:24,230 - root - INFO - *********Clicking submit button*************
+2025-06-21 09:53:24,655 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 09:53:25,221 - root - INFO - *********Select the Facility*************
+2025-06-21 09:53:25,300 - root - INFO - *******Click Inventory Option********
+2025-06-21 09:53:25,462 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 09:53:27,849 - root - INFO - *******Indent_options_select*******
+2025-06-21 09:53:29,569 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 09:53:32,981 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 10:03:00,627 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 10:03:01,034 - root - INFO - *********Logging and saving username status*************
+2025-06-21 10:03:01,746 - root - INFO - *********Logging and saving password status*************
+2025-06-21 10:03:02,148 - root - INFO - *********Clicking submit button*************
+2025-06-21 10:03:02,581 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 10:03:03,354 - root - INFO - *********Select the Facility*************
+2025-06-21 10:03:03,433 - root - INFO - *******Click Inventory Option********
+2025-06-21 10:03:03,598 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 10:03:06,465 - root - INFO - *******Indent_options_select*******
+2025-06-21 10:03:09,648 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 10:03:11,366 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 10:08:18,580 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 10:08:19,276 - root - INFO - *********Logging and saving username status*************
+2025-06-21 10:08:20,051 - root - INFO - *********Logging and saving password status*************
+2025-06-21 10:08:20,444 - root - INFO - *********Clicking submit button*************
+2025-06-21 10:08:20,894 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 10:08:21,622 - root - INFO - *********Select the Facility*************
+2025-06-21 10:08:21,703 - root - INFO - *******Click Inventory Option********
+2025-06-21 10:08:21,864 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 10:08:24,554 - root - INFO - *******Indent_options_select*******
+2025-06-21 10:08:25,801 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 10:08:29,302 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 10:18:07,141 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 10:18:07,547 - root - INFO - *********Logging and saving username status*************
+2025-06-21 10:18:08,300 - root - INFO - *********Logging and saving password status*************
+2025-06-21 10:18:08,663 - root - INFO - *********Clicking submit button*************
+2025-06-21 10:18:09,108 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 10:18:09,745 - root - INFO - *********Select the Facility*************
+2025-06-21 10:18:09,832 - root - INFO - *******Click Inventory Option********
+2025-06-21 10:18:09,995 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 10:18:12,657 - root - INFO - *******Indent_options_select*******
+2025-06-21 10:18:15,116 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 10:18:18,046 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 10:57:22,947 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 10:57:23,283 - root - INFO - *********Logging and saving username status*************
+2025-06-21 10:57:24,215 - root - INFO - *********Logging and saving password status*************
+2025-06-21 10:57:24,576 - root - INFO - *********Clicking submit button*************
+2025-06-21 10:57:25,026 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 10:57:25,651 - root - INFO - *********Select the Facility*************
+2025-06-21 10:57:25,727 - root - INFO - *******Click Inventory Option********
+2025-06-21 10:57:25,883 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 10:57:28,865 - root - INFO - *******Indent_options_select*******
+2025-06-21 10:57:30,130 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 10:57:33,582 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 11:03:20,522 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 11:03:20,927 - root - INFO - *********Logging and saving username status*************
+2025-06-21 11:03:21,751 - root - INFO - *********Logging and saving password status*************
+2025-06-21 11:03:22,217 - root - INFO - *********Clicking submit button*************
+2025-06-21 11:03:22,713 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 11:03:23,335 - root - INFO - *********Select the Facility*************
+2025-06-21 11:03:23,421 - root - INFO - *******Click Inventory Option********
+2025-06-21 11:03:23,553 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 11:03:25,946 - root - INFO - *******Indent_options_select*******
+2025-06-21 11:03:26,702 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 11:03:30,072 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 11:25:45,185 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 11:25:45,495 - root - INFO - *********Logging and saving username status*************
+2025-06-21 11:25:46,435 - root - INFO - *********Logging and saving password status*************
+2025-06-21 11:25:46,824 - root - INFO - *********Clicking submit button*************
+2025-06-21 11:25:47,252 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 11:25:47,951 - root - INFO - *********Select the Facility*************
+2025-06-21 11:25:48,037 - root - INFO - *******Click Inventory Option********
+2025-06-21 11:25:48,192 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 11:25:51,079 - root - INFO - *******Indent_options_select*******
+2025-06-21 11:25:52,348 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 11:25:56,809 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 11:40:33,803 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 11:40:34,197 - root - INFO - *********Logging and saving username status*************
+2025-06-21 11:40:35,029 - root - INFO - *********Logging and saving password status*************
+2025-06-21 11:40:35,443 - root - INFO - *********Clicking submit button*************
+2025-06-21 11:40:35,868 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 11:40:36,529 - root - INFO - *********Select the Facility*************
+2025-06-21 11:40:36,605 - root - INFO - *******Click Inventory Option********
+2025-06-21 11:40:36,760 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 11:40:39,212 - root - INFO - *******Indent_options_select*******
+2025-06-21 11:40:40,923 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 11:40:44,410 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 11:52:31,549 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 11:52:31,941 - root - INFO - *********Logging and saving username status*************
+2025-06-21 11:52:32,780 - root - INFO - *********Logging and saving password status*************
+2025-06-21 11:52:33,142 - root - INFO - *********Clicking submit button*************
+2025-06-21 11:52:33,594 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 11:52:34,233 - root - INFO - *********Select the Facility*************
+2025-06-21 11:52:34,311 - root - INFO - *******Click Inventory Option********
+2025-06-21 11:52:34,477 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 11:52:37,284 - root - INFO - *******Indent_options_select*******
+2025-06-21 11:52:38,834 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 11:52:43,031 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 11:53:15,120 - root - INFO - ********select_items_from_table2********
+2025-06-21 13:16:36,430 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 13:16:36,836 - root - INFO - *********Logging and saving username status*************
+2025-06-21 13:16:37,732 - root - INFO - *********Logging and saving password status*************
+2025-06-21 13:16:38,144 - root - INFO - *********Clicking submit button*************
+2025-06-21 13:16:38,575 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 13:16:39,211 - root - INFO - *********Select the Facility*************
+2025-06-21 13:16:39,290 - root - INFO - *******Click Inventory Option********
+2025-06-21 13:16:39,428 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 13:16:42,106 - root - INFO - *******Indent_options_select*******
+2025-06-21 13:16:43,944 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 13:16:46,979 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 13:17:19,071 - root - INFO - ********select_items_from_table2********
+2025-06-21 13:18:27,038 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 13:18:27,435 - root - INFO - *********Logging and saving username status*************
+2025-06-21 13:18:28,278 - root - INFO - *********Logging and saving password status*************
+2025-06-21 13:18:28,657 - root - INFO - *********Clicking submit button*************
+2025-06-21 13:18:29,109 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 13:18:29,727 - root - INFO - *********Select the Facility*************
+2025-06-21 13:18:29,806 - root - INFO - *******Click Inventory Option********
+2025-06-21 13:18:29,961 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 13:18:32,745 - root - INFO - *******Indent_options_select*******
+2025-06-21 13:18:34,022 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 13:18:37,926 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 13:19:09,983 - root - INFO - ********select_items_from_table2********
+2025-06-21 13:22:45,874 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 13:22:46,223 - root - INFO - *********Logging and saving username status*************
+2025-06-21 13:22:47,001 - root - INFO - *********Logging and saving password status*************
+2025-06-21 13:22:47,401 - root - INFO - *********Clicking submit button*************
+2025-06-21 13:22:47,827 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 13:22:48,452 - root - INFO - *********Select the Facility*************
+2025-06-21 13:22:48,529 - root - INFO - *******Click Inventory Option********
+2025-06-21 13:22:48,693 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 13:22:51,138 - root - INFO - *******Indent_options_select*******
+2025-06-21 13:22:55,526 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 13:22:56,841 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 13:23:28,874 - root - INFO - ********select_items_from_table2********
+2025-06-21 13:24:54,879 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 13:24:55,496 - root - INFO - *********Logging and saving username status*************
+2025-06-21 13:24:56,160 - root - INFO - *********Logging and saving password status*************
+2025-06-21 13:24:56,561 - root - INFO - *********Clicking submit button*************
+2025-06-21 13:24:56,999 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 13:24:57,613 - root - INFO - *********Select the Facility*************
+2025-06-21 13:24:57,738 - root - INFO - *******Click Inventory Option********
+2025-06-21 13:24:57,903 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 13:25:00,419 - root - INFO - *******Indent_options_select*******
+2025-06-21 13:25:01,756 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 13:25:04,729 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 13:25:36,829 - root - INFO - ********select_items_from_table2********
+2025-06-21 14:37:17,548 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 14:37:17,909 - root - INFO - *********Logging and saving username status*************
+2025-06-21 14:37:18,828 - root - INFO - *********Logging and saving password status*************
+2025-06-21 14:37:19,240 - root - INFO - *********Clicking submit button*************
+2025-06-21 14:37:19,695 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 14:37:20,391 - root - INFO - *********Select the Facility*************
+2025-06-21 14:37:20,478 - root - INFO - *******Click Inventory Option********
+2025-06-21 14:37:20,653 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 14:37:23,046 - root - INFO - *******Indent_options_select*******
+2025-06-21 14:37:24,238 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 14:37:27,970 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 14:43:10,326 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 14:43:10,770 - root - INFO - *********Logging and saving username status*************
+2025-06-21 14:43:11,550 - root - INFO - *********Logging and saving password status*************
+2025-06-21 14:43:11,960 - root - INFO - *********Clicking submit button*************
+2025-06-21 14:43:12,487 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 14:43:13,122 - root - INFO - *********Select the Facility*************
+2025-06-21 14:43:13,207 - root - INFO - *******Click Inventory Option********
+2025-06-21 14:43:13,367 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 14:43:15,852 - root - INFO - *******Indent_options_select*******
+2025-06-21 14:43:17,511 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 14:43:20,979 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 14:45:27,021 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 14:45:27,356 - root - INFO - *********Logging and saving username status*************
+2025-06-21 14:45:28,341 - root - INFO - *********Logging and saving password status*************
+2025-06-21 14:45:28,719 - root - INFO - *********Clicking submit button*************
+2025-06-21 14:45:29,146 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 14:45:29,767 - root - INFO - *********Select the Facility*************
+2025-06-21 14:45:29,844 - root - INFO - *******Click Inventory Option********
+2025-06-21 14:45:29,972 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 14:45:32,651 - root - INFO - *******Indent_options_select*******
+2025-06-21 14:45:36,850 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 14:45:37,453 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 14:59:28,250 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 14:59:28,607 - root - INFO - *********Logging and saving username status*************
+2025-06-21 14:59:29,437 - root - INFO - *********Logging and saving password status*************
+2025-06-21 14:59:29,797 - root - INFO - *********Clicking submit button*************
+2025-06-21 14:59:30,262 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 14:59:31,412 - root - INFO - *********Select the Facility*************
+2025-06-21 14:59:31,487 - root - INFO - *******Click Inventory Option********
+2025-06-21 14:59:31,655 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 14:59:34,324 - root - INFO - *******Indent_options_select*******
+2025-06-21 14:59:37,639 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 14:59:39,285 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 15:05:20,724 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 15:05:20,979 - root - INFO - *********Logging and saving username status*************
+2025-06-21 15:05:21,870 - root - INFO - *********Logging and saving password status*************
+2025-06-21 15:05:22,242 - root - INFO - *********Clicking submit button*************
+2025-06-21 15:05:22,738 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 15:05:23,315 - root - INFO - *********Select the Facility*************
+2025-06-21 15:05:23,396 - root - INFO - *******Click Inventory Option********
+2025-06-21 15:05:23,522 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 15:05:26,045 - root - INFO - *******Indent_options_select*******
+2025-06-21 15:05:27,190 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 15:05:31,129 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 15:06:04,466 - root - INFO - ********select_items_from_table2********
+2025-06-21 15:06:38,537 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 15:06:38,923 - root - INFO - *********Logging and saving username status*************
+2025-06-21 15:06:39,783 - root - INFO - *********Logging and saving password status*************
+2025-06-21 15:06:40,161 - root - INFO - *********Clicking submit button*************
+2025-06-21 15:06:40,593 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 15:06:41,261 - root - INFO - *********Select the Facility*************
+2025-06-21 15:06:41,341 - root - INFO - *******Click Inventory Option********
+2025-06-21 15:06:41,445 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 15:06:44,073 - root - INFO - *******Indent_options_select*******
+2025-06-21 15:06:47,812 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 15:06:49,167 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 15:07:22,640 - root - INFO - ********select_items_from_table2********
+2025-06-21 15:25:33,386 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 15:25:33,844 - root - INFO - *********Logging and saving username status*************
+2025-06-21 15:25:34,548 - root - INFO - *********Logging and saving password status*************
+2025-06-21 15:25:34,935 - root - INFO - *********Clicking submit button*************
+2025-06-21 15:25:35,376 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 15:25:36,106 - root - INFO - *********Select the Facility*************
+2025-06-21 15:25:36,185 - root - INFO - *******Click Inventory Option********
+2025-06-21 15:25:36,324 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 15:25:38,787 - root - INFO - *******Indent_options_select*******
+2025-06-21 15:25:39,977 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 15:25:43,655 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 15:26:17,149 - root - INFO - ********select_items_from_table2********
+2025-06-21 15:47:17,287 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 15:47:17,668 - root - INFO - *********Logging and saving username status*************
+2025-06-21 15:47:18,474 - root - INFO - *********Logging and saving password status*************
+2025-06-21 15:47:18,849 - root - INFO - *********Clicking submit button*************
+2025-06-21 15:47:19,318 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 15:47:20,060 - root - INFO - *********Select the Facility*************
+2025-06-21 15:47:20,172 - root - INFO - *******Click Inventory Option********
+2025-06-21 15:47:20,399 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 15:47:22,950 - root - INFO - *******Indent_options_select*******
+2025-06-21 15:47:26,264 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 15:47:27,935 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 15:48:01,292 - root - INFO - ********select_items_from_table2********
+2025-06-21 15:51:03,121 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-21 15:51:03,559 - root - INFO - *********Logging and saving username status*************
+2025-06-21 15:51:04,353 - root - INFO - *********Logging and saving password status*************
+2025-06-21 15:51:04,736 - root - INFO - *********Clicking submit button*************
+2025-06-21 15:51:05,162 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-21 15:51:05,825 - root - INFO - *********Select the Facility*************
+2025-06-21 15:51:05,910 - root - INFO - *******Click Inventory Option********
+2025-06-21 15:51:06,081 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-21 15:51:08,628 - root - INFO - *******Indent_options_select*******
+2025-06-21 15:51:10,324 - root - INFO - *******select_facility_and_Department*******
+2025-06-21 15:51:14,412 - root - INFO - ********search_and_click_indent_items********
+2025-06-21 15:51:47,876 - root - INFO - ********select_items_from_table2********
+2025-06-27 18:08:43,109 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-27 18:08:43,479 - root - INFO - *********Logging and saving username status*************
+2025-06-27 18:08:44,429 - root - INFO - *********Logging and saving password status*************
+2025-06-27 18:08:44,853 - root - INFO - *********Clicking submit button*************
+2025-06-27 18:08:45,337 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-27 18:08:45,743 - root - INFO - *********Select the Facility*************
+2025-06-27 18:08:54,302 - root - INFO - *******Click Inventory Option********
+2025-06-27 18:08:54,417 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-27 18:08:57,566 - root - INFO - *******Indent_options_select*******
+2025-06-27 18:08:59,129 - root - INFO - *******select_facility_and_Department*******
+2025-06-27 18:09:03,355 - root - INFO - ********search_and_click_indent_items********
+2025-06-27 18:09:36,846 - root - INFO - ********select_items_from_table2********
+2025-06-27 18:09:37,078 - root - INFO - ******save_indent_items******
+2025-06-27 19:48:31,171 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-27 19:48:31,552 - root - INFO - *********Logging and saving username status*************
+2025-06-27 19:48:32,472 - root - INFO - *********Logging and saving password status*************
+2025-06-27 19:48:32,851 - root - INFO - *********Clicking submit button*************
+2025-06-27 19:48:33,271 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-27 19:48:33,686 - root - INFO - *********Select the Facility*************
+2025-06-27 19:48:35,688 - root - INFO - *******Click Inventory Option********
+2025-06-27 19:48:35,886 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-27 19:48:38,596 - root - INFO - *******Indent_options_select*******
+2025-06-27 19:48:40,343 - root - INFO - *******select_facility_and_Department*******
+2025-06-27 19:48:43,759 - root - INFO - ********search_and_click_indent_items********
+2025-06-27 19:49:17,250 - root - INFO - ********select_items_from_table2********
+2025-06-27 19:49:17,439 - root - INFO - ******save_indent_items******
+2025-06-30 20:16:59,570 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-06-30 20:17:03,411 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-30 20:17:03,922 - root - INFO - *********Logging and saving username status*************
+2025-06-30 20:17:04,991 - root - INFO - *********Logging and saving password status*************
+2025-06-30 20:17:05,371 - root - INFO - *********Clicking submit button*************
+2025-06-30 20:17:05,819 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-30 20:17:36,287 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-30 20:17:36,438 - root - INFO - *********Logging and saving username status*************
+2025-06-30 20:17:36,914 - root - INFO - *********Logging and saving password status*************
+2025-06-30 20:17:37,398 - root - INFO - *********Clicking submit button*************
+2025-06-30 20:17:37,963 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-30 20:25:36,096 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-30 20:25:36,452 - root - INFO - *********Logging and saving username status*************
+2025-06-30 20:25:37,416 - root - INFO - *********Logging and saving password status*************
+2025-06-30 20:25:37,796 - root - INFO - *********Clicking submit button*************
+2025-06-30 20:25:38,284 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-30 20:26:14,774 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-30 20:26:15,117 - root - INFO - *********Logging and saving username status*************
+2025-06-30 20:26:16,003 - root - INFO - *********Logging and saving password status*************
+2025-06-30 20:26:16,404 - root - INFO - *********Clicking submit button*************
+2025-06-30 20:26:16,840 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-30 20:26:17,569 - root - INFO - *********Select the Facility*************
+2025-06-30 20:26:17,672 - root - INFO - *******Click Inventory Option********
+2025-06-30 20:26:17,842 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-30 20:26:20,534 - root - INFO - *******Indent_options_select*******
+2025-06-30 20:26:22,768 - root - INFO - *******select_facility_and_Department*******
+2025-06-30 20:26:26,209 - root - INFO - ********search_and_click_indent_items********
+2025-06-30 20:26:59,749 - root - INFO - ********select_items_from_table2********
+2025-06-30 20:26:59,972 - root - INFO - ******save_indent_items******
+2025-06-30 20:27:10,241 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-30 20:27:10,400 - root - INFO - *********Logging and saving username status*************
+2025-06-30 20:27:10,991 - root - INFO - *********Logging and saving password status*************
+2025-06-30 20:27:11,395 - root - INFO - *********Clicking submit button*************
+2025-06-30 20:27:11,836 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-30 20:35:42,060 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-30 20:35:42,620 - root - INFO - *********Logging and saving username status*************
+2025-06-30 20:35:43,483 - root - INFO - *********Logging and saving password status*************
+2025-06-30 20:35:43,861 - root - INFO - *********Clicking submit button*************
+2025-06-30 20:35:44,361 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-30 20:35:44,988 - root - INFO - *********Select the Facility*************
+2025-06-30 20:35:45,107 - root - INFO - *******Click Inventory Option********
+2025-06-30 20:35:45,286 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-30 20:35:48,218 - root - INFO - *******Indent_options_select*******
+2025-06-30 20:35:51,510 - root - INFO - *******select_facility_and_Department*******
+2025-06-30 20:35:53,282 - root - INFO - ********search_and_click_indent_items********
+2025-06-30 20:36:26,867 - root - INFO - ********select_items_from_table2********
+2025-06-30 20:36:27,170 - root - INFO - ******save_indent_items******
+2025-06-30 20:36:37,355 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-30 20:36:37,499 - root - INFO - *********Logging and saving username status*************
+2025-06-30 20:36:37,981 - root - INFO - *********Logging and saving password status*************
+2025-06-30 20:36:38,403 - root - INFO - *********Clicking submit button*************
+2025-06-30 20:36:38,853 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-30 20:45:35,626 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-30 20:45:35,993 - root - INFO - *********Logging and saving username status*************
+2025-06-30 20:45:36,914 - root - INFO - *********Logging and saving password status*************
+2025-06-30 20:45:37,330 - root - INFO - *********Clicking submit button*************
+2025-06-30 20:45:37,794 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-30 20:45:42,468 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-30 20:45:42,884 - root - INFO - *********Logging and saving username status*************
+2025-06-30 20:45:43,655 - root - INFO - *********Logging and saving password status*************
+2025-06-30 20:45:44,038 - root - INFO - *********Clicking submit button*************
+2025-06-30 20:45:44,516 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-30 20:47:43,898 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-30 20:47:44,287 - root - INFO - *********Logging and saving username status*************
+2025-06-30 20:47:45,036 - root - INFO - *********Logging and saving password status*************
+2025-06-30 20:47:45,422 - root - INFO - *********Clicking submit button*************
+2025-06-30 20:47:45,865 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-30 20:47:50,513 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-30 20:47:50,888 - root - INFO - *********Logging and saving username status*************
+2025-06-30 20:47:51,637 - root - INFO - *********Logging and saving password status*************
+2025-06-30 20:47:52,034 - root - INFO - *********Clicking submit button*************
+2025-06-30 20:47:52,490 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-30 20:49:51,631 - root - INFO - *********URL is invoked in the Browser*************
+2025-06-30 20:49:52,284 - root - INFO - *********Logging and saving username status*************
+2025-06-30 20:49:53,111 - root - INFO - *********Logging and saving password status*************
+2025-06-30 20:49:53,515 - root - INFO - *********Clicking submit button*************
+2025-06-30 20:49:53,951 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-06-30 20:49:54,612 - root - INFO - *********Select the Facility*************
+2025-06-30 20:49:54,710 - root - INFO - *******Click Inventory Option********
+2025-06-30 20:49:54,891 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-06-30 20:49:57,826 - root - INFO - *******Indent_options_select*******
+2025-06-30 20:49:59,758 - root - INFO - *******select_facility_and_Department*******
+2025-06-30 20:50:03,355 - root - INFO - ********search_and_click_indent_items********
+2025-06-30 20:50:36,784 - root - INFO - ********select_items_from_table2********
+2025-06-30 20:50:36,950 - root - INFO - ******save_indent_items******
+2025-07-01 09:53:32,506 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-07-01 09:53:38,788 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-01 09:53:39,576 - root - INFO - *********Logging and saving username status*************
+2025-07-01 09:53:40,393 - root - INFO - *********Logging and saving password status*************
+2025-07-01 09:53:40,785 - root - INFO - *********Clicking submit button*************
+2025-07-01 09:53:41,203 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-01 09:53:41,855 - root - INFO - *********Select the Facility*************
+2025-07-01 09:53:41,947 - root - INFO - *******Click Inventory Option********
+2025-07-01 09:53:42,088 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-01 09:53:44,787 - root - INFO - *******Indent_options_select*******
+2025-07-01 09:53:47,009 - root - INFO - *******select_facility_and_Department*******
+2025-07-01 09:53:50,519 - root - INFO - ********search_and_click_indent_items********
+2025-07-01 09:54:23,558 - root - INFO - ********select_items_from_table2********
+2025-07-01 09:54:23,889 - root - INFO - ******save_indent_items******
+2025-07-01 09:58:41,068 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-01 09:58:41,480 - root - INFO - *********Logging and saving username status*************
+2025-07-01 09:58:42,424 - root - INFO - *********Logging and saving password status*************
+2025-07-01 09:58:42,803 - root - INFO - *********Clicking submit button*************
+2025-07-01 09:58:43,279 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-01 09:58:44,106 - root - INFO - *********Select the Facility*************
+2025-07-01 09:58:44,205 - root - INFO - *******Click Inventory Option********
+2025-07-01 09:58:44,345 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-01 09:58:46,990 - root - INFO - *******Indent_options_select*******
+2025-07-01 09:58:48,737 - root - INFO - *******select_facility_and_Department*******
+2025-07-01 09:58:52,482 - root - INFO - ********search_and_click_indent_items********
+2025-07-01 09:59:26,072 - root - INFO - ********select_items_from_table2********
+2025-07-01 09:59:26,388 - root - INFO - ******save_indent_items******
+2025-07-01 10:04:13,564 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-01 10:04:14,019 - root - INFO - *********Logging and saving username status*************
+2025-07-01 10:04:14,828 - root - INFO - *********Logging and saving password status*************
+2025-07-01 10:04:15,245 - root - INFO - *********Clicking submit button*************
+2025-07-01 10:04:15,721 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-01 10:04:16,473 - root - INFO - *********Select the Facility*************
+2025-07-01 10:04:16,574 - root - INFO - *******Click Inventory Option********
+2025-07-01 10:04:16,752 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-01 10:04:19,493 - root - INFO - *******Indent_options_select*******
+2025-07-01 10:04:22,687 - root - INFO - *******select_facility_and_Department*******
+2025-07-01 10:04:24,901 - root - INFO - ********search_and_click_indent_items********
+2025-07-01 10:04:58,338 - root - INFO - ********select_items_from_table2********
+2025-07-01 10:04:58,622 - root - INFO - ******save_indent_items******

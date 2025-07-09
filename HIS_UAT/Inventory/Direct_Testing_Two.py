@@ -32,6 +32,8 @@ class Receipt_Direct:
         item_quantity = data_two['Quantity']
         batch_list = data_two['Batch_numbers']
         expiry_date = data_two['Expiry_Date']
+        search_field_option_indent = data_three['Inputs'].iloc[0]
+
 
         table2_quantity = []
         for items in item_quantity:
@@ -45,7 +47,8 @@ class Receipt_Direct:
         for expiry_dates in expiry_date:
             expiry_date_list.append(expiry_dates)
 
-        return url, username, password, main_menu_option, drop_down_option, footer_option, search_field_option, medicines, table2_quantity, batch_numbers, expiry_date_list, facility_option
+
+        return url, username, password, main_menu_option, drop_down_option, footer_option, search_field_option, medicines, table2_quantity, batch_numbers, expiry_date_list, facility_option, search_field_option_indent
 
     def login_page(self, url, username, password, facility_option):
         self.driver = webdriver.Chrome()
@@ -361,10 +364,15 @@ class Receipt_Direct:
         self.driver.quit()
 
 
-    # def indent_items(self):
+    # def indent_items(self, search_field_option_indent):
+    #     self.search_option_for_indent_items = search_field_option_indent
+    #     create = self.search_option_for_indent_items
+
+
 
 batch_modifier = Receipt_Direct()
-url, username, password, main_menu_option, drop_down_option, footer_option, search_field_option, medicines, table2_quantity, batch_numbers, expiry_date_list, facility_option  = batch_modifier.read_an_excel_file()
+url, username, password, main_menu_option, drop_down_option, footer_option, search_field_option, medicines, table2_quantity, batch_numbers, expiry_date_list, facility_option, search_field_option_indent  = batch_modifier.read_an_excel_file()
 batch_modifier.login_page(url, username, password, facility_option)
 batch_modifier.direct_update(main_menu_option, drop_down_option, footer_option, search_field_option, medicines,
                                      table2_quantity, batch_numbers, expiry_date_list)
+# batch_modifier.indent_items(search_field_option_indent)

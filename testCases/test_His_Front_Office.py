@@ -7,11 +7,12 @@ from selenium.webdriver.support.wait import WebDriverWait
 from Utilities.customLogger import LogGen
 from page_Objects.Page_Objects_HIS_Login_Page import (His_Login_Page)
 from page_Objects.Page_Objects_HIS_Front_Office import His_OutPatient_Registration
-from testCases.test_His_Login_page import TestHISLoginPage
+from testCases.test_login_page_HIS import TestHIS_Login_Page
+
 
 
 @pytest.mark.usefixtures("browser_setup")
-class TestHISFrontOffice(TestHISLoginPage):
+class TestHISFrontOffice(TestHIS_Login_Page):
     logger = LogGen.loggen()
 
     ################# Add Patient ##############
@@ -19,10 +20,10 @@ class TestHISFrontOffice(TestHISLoginPage):
         self.driver = browser_setup
         data = pandas_excel('Front_Office')
         results = test_his_login_page
-        print(results)
 
         ####### data driving from the excel sheet #################
         desired_option_Add_Patient = data['Add_Patient_Options'].iloc[0]
+        title = "Mr."
         firstname = data['Inputs'].iloc[0]
         Gender = data['Inputs'].iloc[1]
         age = str(data['Inputs'].iloc[2])
@@ -38,178 +39,124 @@ class TestHISFrontOffice(TestHISLoginPage):
         ######### storing the pageobject class name inside a variable ############
         self.his_home_object = His_OutPatient_Registration(self.driver)
 
-        ######### Initializing the wait ##########################################
-        wait = WebDriverWait(self.driver, 30)
-        ############ Selecting the facility option in home page ##################
-        self.his_home_object.select_facility(self.driver)
-        ###################### Wait until Front office option is located #########################
-        self.logger.info("*********Wait until Front office option is located*************")
-        wait.until(
-            expected_conditions.visibility_of_element_located((By.XPATH, self.his_home_object.xpath_for_front_office)))
+        self.logger.info("*********Select Facility*************")
+        self.his_home_object.select_facility()
 
-        ###################### Clicking Front option in His HomePage ###############################
         self.logger.info("*********Click the Front office option in His HomePage*************")
         self.his_home_object.Select_Front_Office_from_HIS_Homepage()
 
-        ###################### Wait until Front office pop up is located  ###############################
-        self.logger.info("*********Wait until Front office pop up is located*************")
-        wait.until(expected_conditions.visibility_of_element_located(
-            (By.XPATH, self.his_home_object.xpath_for_front_office_pop_up)))
-
-        ###################### Click Yes Button in the Front Office Pop up  ###############################
         self.logger.info("*********Click Yes Button in the Front Office Pop up*************")
         self.his_home_object.Click_yes_button_in_front_office_pop_up()
 
-        ################## Wait to identify the add patient locator and click the add paitent option ############
-        wait.until(expected_conditions.visibility_of_element_located(
-            (By.XPATH, self.his_home_object.xpath_for_add_patient)))
+        self.logger.info("********* Click the add patient option *************")
         self.his_home_object.click_the_Add_patient()
 
-        ################## Wait to identify and click any option under the add paitent option ############
-        wait.until(expected_conditions.visibility_of_element_located(
-            (By.XPATH, self.his_home_object.xpath_for_all_options_under_Add_Patient)))
+        self.logger.info("********* Click any option under the add paitent option *************")
         self.his_home_object.select_an_option_from_add_patient(desired_option_Add_Patient)
 
-        # for index, row in data.iterrows(index=False):
-        ################## Wait to identify and fill the first name ##################################
-        wait.until(
-            expected_conditions.visibility_of_element_located(
-                (By.XPATH, self.his_home_object.xpath_for_First_name)))
+        self.logger.info("********* Select a Title *************")
+        self.his_home_object.enter_title(title)
+        if title:
+            title_entered = "title entered successfully"
+        else:
+            title_entered = "failed to enter title"
+        output_data.append(f'Title:{title_entered}')
+
+        self.logger.info("********* Fill the firstname *************")
         self.his_home_object.enter_first_name(firstname)
-
         if firstname:
-            first_name_update = "firstname entered successfully"
+            first_name_entered = "firstname entered successfully"
         else:
-            first_name_update = "failed to enter firstname"
+            first_name_entered = "failed to enter firstname"
+        output_data.append(f'First_name:{first_name_entered}')
 
-        output_data.append(f'Expected Response:{first_name_update}')
-        # results.append(f'{firstname} is captured')
-
-        ################## Wait to identify and select the gender name ##################################
-        wait.until(
-            expected_conditions.visibility_of_element_located((By.XPATH, self.his_home_object.xpath_for_Gender)))
+        self.logger.info("********* Select a Gender *************")
         self.his_home_object.select_a_gender(Gender)
-
         if Gender:
-            Gender_update = "Gender entered successfully"
+            gender_update = "Gender entered successfully"
         else:
-            Gender_update = "failed to enter Gender"
+            gender_update = "failed to enter Gender"
+        output_data.append(f'Gender:{gender_update}')
 
-        output_data.append(f'Expected Response:{Gender_update}')
-
-        ################## Wait to identify and click the DOB ##################################
-        wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.his_home_object.xpath_for_age)))
+        self.logger.info("********* Click the age *************")
         self.his_home_object.click_age(age)
-
         if age:
-            output_data.append(f'Expected Response:{age}')
+            age_entered = "Age entered Successfully"
         else:
-            output_data.append(f'Expected Response:{age}')
+            age_entered = "Failed to enter age"
+        output_data.append(f'age:{age_entered}')
 
-        ################## Wait to identify and click the marital status ##################################
-        wait.until(expected_conditions.visibility_of_element_located(
-            (By.XPATH, self.his_home_object.xpath_for_marital_status)))
+        self.logger.info("********* Select status of Marriage *************")
         self.his_home_object.select_marital_status(status_of_marriage)
         if status_of_marriage:
             marriage_status = "Marriage status selected"
         else:
             marriage_status = "Unable to record the marital status"
-        output_data.append(f'Expected Response:{marriage_status}')
+        output_data.append(f'marriage_Status:{marriage_status}')
 
-        # output_data.append(results)
-        for option in results:
-            output_data.append(option)
-
-        ################## Wait to identify and enter the mobile number ##################################
-        wait.until(
-            expected_conditions.visibility_of_element_located((By.XPATH, self.his_home_object.xpath_for_mobile_number)))
+        self.logger.info("********* Enter the mobile number *************")
         self.his_home_object.enter_mobile_number(mobile_number)
         if mobile_number:
-            output_data.append(f'Expected Response:{mobile_number}')
+            mobile_number_entered = "Mobile entered Successfully"
         else:
-            output_data.append(f'Expected Response:{mobile_number}')
+            mobile_number_entered = "Failed to enter mobile number"
+        output_data.append(f'mobile_number:{mobile_number_entered}')
 
-        ################## Wait to identify and enter the House address ##################################
-        wait.until(
-            expected_conditions.visibility_of_element_located((By.XPATH, self.his_home_object.xpath_for_House_address)))
+        self.logger.info("********* Enter Address *************")
         self.his_home_object.enter_house_number(house_number)
         if house_number:
-            output_data.append(f'Expected Response:{house_number}')
+            house_number_entered = "Entered house successfully"
         else:
-            output_data.append(f'Expected Response:{house_number}')
+            house_number_entered = "Failed to enter house address"
+        output_data.append(f'house_number: {house_number_entered}')
 
-        ################## Wait to identify and enter the Locality ##################################
-        wait.until(
-            expected_conditions.visibility_of_element_located(
-                (By.XPATH, self.his_home_object.xpath_for_Locality)))
+        self.logger.info("********* Enter Locality *************")
         self.his_home_object.enter_locality(locality)
         if locality:
-            output_data.append(f'Expected Response:{locality}')
+            locality_entered = "Entered locality success"
         else:
-            output_data.append(f'Failed to enter {locality}')
+            locality_entered = "Entered locality success"
+        output_data.append(f'locality: {locality_entered}')
 
-        ################## Wait to identify and enter the source ##################################
-        wait.until(
-            expected_conditions.visibility_of_element_located(
-                (By.XPATH, self.his_home_object.xpath_for_source)))
+        self.logger.info("********* Enter source option *************")
         self.his_home_object.enter_source(source_option)
         if source_option:
-            output_data.append(f'Expected Response:{source_option}')
+            source_option_entered = "Source Option Entered Successfully"
         else:
-            output_data.append(f'Failed to enter {source_option}')
+            source_option_entered = "Failed to enter Source Option"
+        output_data.append(f'source_option: {source_option_entered}')
 
-        ################## Wait to identify and click the register button ##################################
-        wait.until(
-            expected_conditions.visibility_of_element_located(
-                (By.XPATH, self.his_home_object.xpath_for_source)))
+        self.logger.info("********* Click register button *************")
         self.his_home_object.click_register_button()
 
-        ################## Wait to identify and click the confirmation ##################################
-        wait.until(
-            expected_conditions.visibility_of_element_located(
-                (By.XPATH, self.his_home_object.xpath_for_confirm_patient_details)))
+
+        self.logger.info("********* Patient Details *************")
         patient_details = self.driver.find_element(By.XPATH,
                                                    self.his_home_object.xpath_for_patient_details_in_confirm_patient_details)
-
         output_data.append(patient_details.text)
+        print(patient_details.text)
 
+        self.logger.info("********* Save Patient Details *************")
         self.his_home_object.confirmation_pop_up(yes_or_no)
         if yes_or_no:
-            output_data.append(f'Expected Response:{yes_or_no}')
+            yes_or_no_option = "Clicked yes or no button"
         else:
-            output_data.append(f'No option to click')
+            yes_or_no_option = "Failed to click yes or no button"
+        output_data.append(f'yes_or_no_option:{yes_or_no_option}')
 
-        ################## Wait to identify and click the confirmation ##################################
-        wait.until(
-            expected_conditions.visibility_of_element_located(
-                (By.XPATH, self.his_home_object.xpath_for_Registered_successfully)))
+        self.logger.info("********* Successful message *************")
         successful_message = self.driver.find_element(By.XPATH,
                                                       self.his_home_object.xpath_for_successful_message)
-
-        self.his_home_object.Registered_Successfully_pop_up(option_yes_or_no)
-        if yes_or_no:
-            output_data.append(f'Expected Response:{option_yes_or_no}')
-        else:
-            output_data.append(f'No option to click')
-
         output_data.append(successful_message.text)
+
+        self.logger.info("********* Registration Successful Pop up *************")
+        self.his_home_object.Registered_Successfully_pop_up(option_yes_or_no)
+        if option_yes_or_no:
+            yes_or_no_option = "Clicked either yes or no"
+        else:
+            yes_or_no_option = "failed to click either yes or no"
+
 
         time.sleep(10)
 
-        ###################### Writing the Results to a New Excel Sheet ###############################
 
-        data['Expected results'] = output_data
-        output_file_path = r'C:\Users\manikanta\PycharmProjects\PythonTesting\HIS_POM_Pytest_Hybrid_framework\TestData\Patient_Registration.xlsx'
-        data.to_excel(output_file_path, index=False, sheet_name='Front_Office')
-
-    # @pytest.mark.skip(reason='its an email automator')
-    ##### Automatic mail sender ###########
-    def test_email_sending(self, email_manager):
-        recipients = ["cheryshma.nadimpalli@aighospitals.com",
-                      "rajat.atri@aighospitals.com",
-                      "manikantha.ponduru@aighospitals.com", ]  # "gaurav.mojasia@aighospitals.com", "kinjal.saxena@aighospitals.com"
-        subject = "Automation Test Email of HIS-UAT"
-        body = "The Test Automation Team has executed the UAT HIS Test Automation, and this report details the outcomes."
-        attachment_path = r'C:\Users\10013887\PycharmProjects\Testing_Repo\TestData\Patient_Registration.xlsx'
-        # Test with attachment
-        email_manager(recipients, subject, body, attachment_path=attachment_path)
