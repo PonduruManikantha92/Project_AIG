@@ -40,11 +40,38 @@ class HIS_Indents:
 
         ################## Indent Approval #####################
         self.xpath_for_showmenu = "//a[@id='showmenu']"
-        self.xpath_for_indent_approval =  "//a[text()='Indent Approval']"
+        self.xpath_for_indent_items_tab = "//span[normalize-space()='Indent Items']"
+        self.xpath_for_indent_approval =  "//ul/li//a[text()='Indent Approval']"
         self.xpath_for_new_indent = "//label[text()='New Indent']"
         self.xpath_for_new_indent_pop_up =  "(//div[@id='popup900'])[1]"
         self.xpath_for_items_in_table = "(//table[@id='newitemreceipt']//tbody)[1]"
         self.xpath_for_approve_button = "//a[@id='btnApprove']"
+        self.xpath_for_approve_this_indent_pop_up = "(//div[@id='popup280'])[1]"
+        self.xpath_for_yes_button_in_approve_this_indent_pop_up = "//span//a[@id='btnyes']"
+        self.xpath_for_3_bars = "//img[@id='showmenuIcon']"
+        self.xpath_for_home_button_after_clicking_3_bars = "//a[normalize-space()='HOME']"
+        self.xpath_for_home_button = "//img[@id='showmenuIcon1']"
+
+        ################## Indent issue #####################
+        self.xpath_for_indent_issue_option = "//span[normalize-space()='Indent Issue']"
+        self.xpath_for_items_under_indent_issue = "//ul[@id='collapseMulti2']"
+        self.xpath_for_indent_issue_option_one = "//a[@href='/HisTraining/Inventory/IndentIssue']"
+        self.xpath_for_new_button = "//span[normalize-space() ='New']"
+        self.xpath_for_indent_issue_pop_up = "(//section[@class='popupBody'])[2]"
+        self.xpath_for_first_element_in_indent_issue_pop_up = "(//tr[@class='context-menu-IsUnlock'])[1]"
+        self.xpath_for_save_button_in_indent_issue = "//a[@id='btnSave']/i[@class='fa fa-save']"
+        self.xpath_for_save_pop_in_indent_issue = "(//div[@id='popup280'])[1]"
+        self.xpath_for_yes_button_in_indent_issue_save_pop_up = "//a[@id='btnYes']"
+        self.xpath_for_print_report_pop_up = "(//div[@id='popup280'])[1]"
+        self.xpath_for_yes_button_in_print_report_pop_up = "//a[@id='btnNo']"
+
+        ################## Indent Item Receipt #####################
+        self.xpath_for_indent_item_receipt = "//a[normalize-space()='Item Receipt']"
+        self.xpath_for_new_receipt = "//span//input[@id='radNewReceipt']"
+        self.xpath_for_new_receipt_pop_up_in_item_receipt = "//section[@class='popupBody pt-1']"
+        self.xpath_for_item_receipt_table_pop_up_item = "(//td[@onclick='HIS.ItemReceipt.bindfooterTable(97881,87815,201,7,1)'])[1]"
+        self.xpath_for_save_button_in_item_receipt = "//li//div[@id='userfunction']//a//i[@class='fa fa-save']"
+
 
 
     ################## Indent Items #####################
@@ -146,14 +173,119 @@ class HIS_Indents:
         show_menu_icon = self.driver.find_element(By.XPATH, self.xpath_for_showmenu)
         show_menu_icon.click()
 
-    def indent_approval(self, option_name_indent_approval):
-        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_indent_search)))
-        search_option = self.driver.find_element(By.XPATH, self.xpath_for_indent_search)
-        search_option.send_keys(option_name_indent_approval)
+    def indent_approval(self):
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_indent_items_tab)))
+        indent_items_tab = self.driver.find_element(By.XPATH, self.xpath_for_indent_items_tab)
+        indent_items_tab.click()
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_indent_approval)))
+        indent_approval = self.driver.find_element(By.XPATH, self.xpath_for_indent_approval)
+        self.driver.execute_script("arguments[0].click();", indent_approval)
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_new_indent)))
+        new_indent_option = self.driver.find_element(By.XPATH, self.xpath_for_new_indent)
+        new_indent_option.click()
+        new_indent_pop_up = self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_new_indent_pop_up)))
+        new_indent_pop_up.click()
+        # self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_items_in_table)))
+        # table_item = self.driver.find_element(By.XPATH, self.xpath_for_items_in_table)
+        # # table_item.click()
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_approve_button)))
+        approve_button = self.driver.find_element(By.XPATH, self.xpath_for_approve_button)
+        approve_button.click()
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_approve_this_indent_pop_up)))
+        yes_button_approve = self.driver.find_element(By.XPATH, self.xpath_for_yes_button_in_approve_this_indent_pop_up)
+        yes_button_approve.click()
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_home_button)))
+        home_button = self.driver.find_element(By.XPATH, self.xpath_for_home_button)
+        home_button.click()
 
+    ################## Indent Issue #####################
+    def indent_issue(self):
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_inventory_option)))
+        inventory_option = self.driver.find_element(By.XPATH, self.xpath_for_inventory_option)
+        inventory_option.click()
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_inventory_option_dropdown)))
+        inventory_dropdown_option = self.driver.find_element(By.XPATH, self.xpath_for_inventory_option_dropdown)
+        inventory_ops = Select(inventory_dropdown_option)
+        for i in inventory_ops.options:
+            if i.text.strip() == 'A-B1- PHARMACY MAIN STORE':
+                i.click()
+        self.wait.until(expected_conditions.visibility_of_element_located(
+            (By.XPATH, self.xpath_for_yes_button_in_inventory_pop_up)))
+        yes_Button = self.driver.find_element(By.XPATH, self.xpath_for_yes_button_in_inventory_pop_up)
+        yes_Button.click()
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_indent_issue_option)))
+        indent_issue = self.driver.find_element(By.XPATH, self.xpath_for_indent_issue_option)
+        indent_issue.click()
+        # Wait for submenu <ul> to appear
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, "//ul[@id='collapseMulti2']")))
 
+        # Click "Indent Issue" link
+        indent_issue_link = self.driver.find_element(By.XPATH, "//ul[@id='collapseMulti2']/li[1]/a")
+        indent_issue_link.click()
 
+        self.wait.until(
+            expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_new_button)))
+        new_button = self.driver.find_element(By.XPATH, self.xpath_for_new_button)
+        new_button.click()
 
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_indent_issue_pop_up)))
+        first_element = self.driver.find_element(By.XPATH, self.xpath_for_first_element_in_indent_issue_pop_up)
+        first_element.click()
+
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_save_button_in_indent_issue)))
+        save_button_in_indent_issue = self.driver.find_element(By.XPATH, self.xpath_for_save_button_in_indent_issue)
+        save_button_in_indent_issue.click()
+
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_save_pop_in_indent_issue)))
+        yes_button_indent_save_pop_up = self.driver.find_element(By.XPATH, self.xpath_for_yes_button_in_indent_issue_save_pop_up)
+        yes_button_indent_save_pop_up.click()
+
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_print_report_pop_up)))
+        yes_button_print_report_pop_up = self.driver.find_element(By.XPATH, self.xpath_for_yes_button_in_print_report_pop_up)
+        yes_button_print_report_pop_up.click()
+
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_3_bars)))
+        three_bars_indent_issue = self.driver.find_element(By.XPATH, self.xpath_for_3_bars)
+        three_bars_indent_issue.click()
+
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_home_button_after_clicking_3_bars)))
+        home_button_indent_issue = self.driver.find_element(By.XPATH, self.xpath_for_home_button_after_clicking_3_bars)
+        home_button_indent_issue.click()
+
+    def indent_item_receipt(self):
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_inventory_option)))
+        inventory_option = self.driver.find_element(By.XPATH, self.xpath_for_inventory_option)
+        inventory_option.click()
+        self.wait.until(
+            expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_inventory_option_dropdown)))
+        inventory_dropdown_option = self.driver.find_element(By.XPATH, self.xpath_for_inventory_option_dropdown)
+        inventory_ops = Select(inventory_dropdown_option)
+        for i in inventory_ops.options:
+            if i.text.strip() == 'A-3-HDU 1':
+                i.click()
+        self.wait.until(expected_conditions.visibility_of_element_located(
+            (By.XPATH, self.xpath_for_yes_button_in_inventory_pop_up)))
+        yes_Button = self.driver.find_element(By.XPATH, self.xpath_for_yes_button_in_inventory_pop_up)
+        yes_Button.click()
+
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_indent_items_tab)))
+        indent_items_tab = self.driver.find_element(By.XPATH, self.xpath_for_indent_items_tab)
+        indent_items_tab.click()
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_indent_item_receipt)))
+        item_receipt = self.driver.find_element(By.XPATH, self.xpath_for_indent_item_receipt)
+        self.driver.execute_script("arguments[0].click();", item_receipt)
+
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_new_receipt)))
+        new_receipt_in_item_receipt = self.driver.find_element(By.XPATH, self.xpath_for_new_receipt)
+        new_receipt_in_item_receipt.click()
+
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_new_receipt_pop_up_in_item_receipt)))
+        item_in_table = self.driver.find_element(By.XPATH, self.xpath_for_item_receipt_table_pop_up_item)
+        item_in_table.click()
+
+        self.wait.until(expected_conditions.visibility_of_element_located((By.XPATH, self.xpath_for_save_button_in_item_receipt)))
+        save_button_item_receipt = self.driver.find_element(By.XPATH, self.xpath_for_save_button_in_item_receipt)
+        save_button_item_receipt.click()
 
 
 

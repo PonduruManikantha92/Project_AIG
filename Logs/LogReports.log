@@ -3207,3 +3207,1748 @@
 2025-07-01 10:04:24,901 - root - INFO - ********search_and_click_indent_items********
 2025-07-01 10:04:58,338 - root - INFO - ********select_items_from_table2********
 2025-07-01 10:04:58,622 - root - INFO - ******save_indent_items******
+2025-07-16 12:33:35,786 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-16 12:33:36,288 - root - INFO - *********Logging and saving username status*************
+2025-07-16 12:33:36,915 - root - INFO - *********Logging and saving password status*************
+2025-07-16 12:33:37,407 - root - INFO - *********Clicking submit button*************
+2025-07-16 12:33:37,980 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-16 12:33:38,776 - root - INFO - *********Select the Facility*************
+2025-07-16 12:33:38,931 - root - INFO - *******Click Inventory Option********
+2025-07-16 12:33:39,175 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-16 12:33:50,338 - root - INFO - *******Indent_options_select*******
+2025-07-16 12:33:52,505 - root - INFO - *******select_facility_and_Department*******
+2025-07-16 12:33:56,433 - root - INFO - ********search_and_click_indent_items********
+2025-07-16 12:34:30,621 - root - INFO - ********select_items_from_table2********
+2025-07-16 12:34:31,274 - root - INFO - ******save_indent_items******
+2025-07-21 17:57:45,221 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-21 17:57:45,643 - root - INFO - *********Logging and saving username status*************
+2025-07-21 17:57:46,080 - root - INFO - *********Logging and saving password status*************
+2025-07-21 17:57:46,433 - root - INFO - *********Clicking submit button*************
+2025-07-21 17:57:46,861 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-21 17:57:47,608 - root - INFO - *********Select the Facility*************
+2025-07-21 17:57:47,752 - root - INFO - *******Click Inventory Option********
+2025-07-21 17:57:47,930 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-21 17:57:52,065 - root - INFO - *******Indent_options_select*******
+2025-07-21 17:57:53,512 - root - INFO - *******select_facility_and_Department*******
+2025-07-21 17:57:57,071 - root - INFO - ********search_and_click_indent_items********
+2025-07-21 17:58:28,034 - root - INFO - ********click the menu icon********
+2025-07-21 17:58:28,277 - root - INFO - ********click_indent_approval********
+2025-07-21 18:02:18,595 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-21 18:02:18,921 - root - INFO - *********Logging and saving username status*************
+2025-07-21 18:02:19,284 - root - INFO - *********Logging and saving password status*************
+2025-07-21 18:02:19,656 - root - INFO - *********Clicking submit button*************
+2025-07-21 18:02:20,029 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-21 18:02:20,858 - root - INFO - *********Select the Facility*************
+2025-07-21 18:02:21,044 - root - INFO - *******Click Inventory Option********
+2025-07-21 18:02:21,399 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-21 18:02:25,358 - root - INFO - *******Indent_options_select*******
+2025-07-21 18:02:26,727 - root - INFO - *******select_facility_and_Department*******
+2025-07-21 18:02:30,127 - root - INFO - ********search_and_click_indent_items********
+2025-07-21 18:03:03,754 - root - INFO - ********select_items_from_table2********
+2025-07-21 18:03:04,602 - root - INFO - ******save_indent_items******
+2025-07-21 18:03:04,962 - root - INFO - ********click the menu icon********
+2025-07-21 18:03:05,047 - root - INFO - ********click_indent_approval********
+2025-07-21 18:05:51,898 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-21 18:05:52,330 - root - INFO - *********Logging and saving username status*************
+2025-07-21 18:05:52,674 - root - INFO - *********Logging and saving password status*************
+2025-07-21 18:05:53,003 - root - INFO - *********Clicking submit button*************
+2025-07-21 18:05:53,389 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-21 18:05:54,079 - root - INFO - *********Select the Facility*************
+2025-07-21 18:05:54,276 - root - INFO - *******Click Inventory Option********
+2025-07-21 18:05:54,447 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-21 18:05:57,594 - root - INFO - *******Indent_options_select*******
+2025-07-21 18:05:59,024 - root - INFO - *******select_facility_and_Department*******
+2025-07-21 18:06:03,510 - root - INFO - ********search_and_click_indent_items********
+2025-07-21 18:06:37,267 - root - INFO - ********select_items_from_table2********
+2025-07-21 18:06:37,803 - root - INFO - ******save_indent_items******
+2025-07-21 18:06:38,126 - root - INFO - ********click the menu icon********
+2025-07-21 18:06:38,363 - root - INFO - ********click_indent_approval********
+2025-07-21 18:10:17,571 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-21 18:10:18,115 - root - INFO - *********Logging and saving username status*************
+2025-07-21 18:10:18,708 - root - INFO - *********Logging and saving password status*************
+2025-07-21 18:10:19,258 - root - INFO - *********Clicking submit button*************
+2025-07-21 18:10:19,704 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-21 18:10:20,415 - root - INFO - *********Select the Facility*************
+2025-07-21 18:10:20,598 - root - INFO - *******Click Inventory Option********
+2025-07-21 18:10:20,844 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-21 18:10:26,637 - root - INFO - *******Indent_options_select*******
+2025-07-21 18:10:28,076 - root - INFO - *******select_facility_and_Department*******
+2025-07-21 18:10:33,095 - root - INFO - ********search_and_click_indent_items********
+2025-07-21 18:10:33,746 - root - INFO - ********click the menu icon********
+2025-07-21 18:10:33,880 - root - INFO - ********click_indent_approval********
+2025-07-21 18:11:13,320 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-21 18:11:13,934 - root - INFO - *********Logging and saving username status*************
+2025-07-21 18:11:14,535 - root - INFO - *********Logging and saving password status*************
+2025-07-21 18:11:15,056 - root - INFO - *********Clicking submit button*************
+2025-07-21 18:11:15,507 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-21 18:11:16,187 - root - INFO - *********Select the Facility*************
+2025-07-21 18:11:16,350 - root - INFO - *******Click Inventory Option********
+2025-07-21 18:11:16,529 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-21 18:11:20,415 - root - INFO - *******Indent_options_select*******
+2025-07-21 18:11:24,552 - root - INFO - *******select_facility_and_Department*******
+2025-07-21 18:11:26,725 - root - INFO - ********search_and_click_indent_items********
+2025-07-21 18:11:27,803 - root - INFO - ********click the menu icon********
+2025-07-21 18:11:27,988 - root - INFO - ********click_indent_approval********
+2025-07-21 18:17:15,167 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-21 18:17:15,795 - root - INFO - *********Logging and saving username status*************
+2025-07-21 18:17:16,449 - root - INFO - *********Logging and saving password status*************
+2025-07-21 18:17:16,920 - root - INFO - *********Clicking submit button*************
+2025-07-21 18:17:17,474 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-21 18:17:18,339 - root - INFO - *********Select the Facility*************
+2025-07-21 18:17:18,576 - root - INFO - *******Click Inventory Option********
+2025-07-21 18:17:18,839 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-21 18:17:25,535 - root - INFO - *******Indent_options_select*******
+2025-07-21 18:17:29,092 - root - INFO - *******select_facility_and_Department*******
+2025-07-21 18:17:31,790 - root - INFO - ********search_and_click_indent_items********
+2025-07-21 18:18:06,188 - root - INFO - ********select_items_from_table2********
+2025-07-21 18:18:07,137 - root - INFO - ******save_indent_items******
+2025-07-21 18:18:07,699 - root - INFO - ********click the menu icon********
+2025-07-21 18:18:07,838 - root - INFO - ********click_indent_approval********
+2025-07-21 18:20:13,040 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-21 18:20:13,848 - root - INFO - *********Logging and saving username status*************
+2025-07-21 18:20:14,440 - root - INFO - *********Logging and saving password status*************
+2025-07-21 18:20:14,882 - root - INFO - *********Clicking submit button*************
+2025-07-21 18:20:15,368 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-21 18:20:16,160 - root - INFO - *********Select the Facility*************
+2025-07-21 18:20:16,341 - root - INFO - *******Click Inventory Option********
+2025-07-21 18:20:16,537 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-21 18:20:22,702 - root - INFO - *******Indent_options_select*******
+2025-07-21 18:20:24,907 - root - INFO - *******select_facility_and_Department*******
+2025-07-21 18:20:28,891 - root - INFO - ********search_and_click_indent_items********
+2025-07-21 18:21:02,883 - root - INFO - ********select_items_from_table2********
+2025-07-21 18:21:03,441 - root - INFO - ******save_indent_items******
+2025-07-21 18:21:03,757 - root - INFO - ********click the menu icon********
+2025-07-21 18:23:50,754 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-21 18:23:50,801 - root - INFO - *********Logging and saving username status*************
+2025-07-21 18:23:51,920 - root - INFO - *********Logging and saving password status*************
+2025-07-21 18:23:52,399 - root - INFO - *********Clicking submit button*************
+2025-07-21 18:23:52,931 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-21 18:23:53,679 - root - INFO - *********Select the Facility*************
+2025-07-21 18:23:53,835 - root - INFO - *******Click Inventory Option********
+2025-07-21 18:23:54,054 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-21 18:23:58,878 - root - INFO - *******Indent_options_select*******
+2025-07-21 18:24:01,476 - root - INFO - *******select_facility_and_Department*******
+2025-07-21 18:24:05,357 - root - INFO - ********search_and_click_indent_items********
+2025-07-21 18:24:39,119 - root - INFO - ********select_items_from_table2********
+2025-07-21 18:24:39,755 - root - INFO - ******save_indent_items******
+2025-07-21 18:24:40,122 - root - INFO - ********click the menu icon********
+2025-07-21 18:24:40,238 - root - INFO - ********click_indent_approval********
+2025-07-21 18:28:09,048 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-21 18:28:10,258 - root - INFO - *********Logging and saving username status*************
+2025-07-21 18:28:10,832 - root - INFO - *********Logging and saving password status*************
+2025-07-21 18:28:11,283 - root - INFO - *********Clicking submit button*************
+2025-07-21 18:28:11,695 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-21 18:28:12,399 - root - INFO - *********Select the Facility*************
+2025-07-21 18:28:12,651 - root - INFO - *******Click Inventory Option********
+2025-07-21 18:28:13,034 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-21 18:28:16,231 - root - INFO - *******Indent_options_select*******
+2025-07-21 18:28:18,807 - root - INFO - *******select_facility_and_Department*******
+2025-07-21 18:28:21,551 - root - INFO - ********search_and_click_indent_items********
+2025-07-21 18:28:55,374 - root - INFO - ********select_items_from_table2********
+2025-07-21 18:28:55,885 - root - INFO - ******save_indent_items******
+2025-07-21 18:28:56,180 - root - INFO - ********click the menu icon********
+2025-07-21 18:28:56,305 - root - INFO - ********click_indent_approval********
+2025-07-22 11:14:41,511 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-22 11:14:42,185 - root - INFO - *********Logging and saving username status*************
+2025-07-22 11:14:42,862 - root - INFO - *********Logging and saving password status*************
+2025-07-22 11:14:43,501 - root - INFO - *********Clicking submit button*************
+2025-07-22 11:14:43,968 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-22 11:14:44,813 - root - INFO - *********Select the Facility*************
+2025-07-22 11:14:45,046 - root - INFO - *******Click Inventory Option********
+2025-07-22 11:14:45,224 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-22 11:14:51,051 - root - INFO - *******Indent_options_select*******
+2025-07-22 11:14:52,577 - root - INFO - *******select_facility_and_Department*******
+2025-07-22 11:14:57,266 - root - INFO - ********search_and_click_indent_items********
+2025-07-22 11:15:31,537 - root - INFO - ********select_items_from_table2********
+2025-07-22 11:15:32,144 - root - INFO - ******save_indent_items******
+2025-07-22 11:15:32,485 - root - INFO - ********click the menu icon********
+2025-07-22 11:15:32,672 - root - INFO - ********click_indent_approval********
+2025-07-22 11:32:07,163 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-22 11:32:07,352 - root - INFO - *********Logging and saving username status*************
+2025-07-22 11:32:32,230 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B8A5C08B90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/03892817003a372ca622b10eebe428c2
+2025-07-22 11:32:36,312 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B8A5C0B890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/03892817003a372ca622b10eebe428c2
+2025-07-22 11:32:40,366 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B8A5C7CE90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/03892817003a372ca622b10eebe428c2
+2025-07-22 11:32:56,364 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-22 11:32:56,662 - root - INFO - *********Logging and saving username status*************
+2025-07-22 12:09:41,618 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-22 12:09:42,300 - root - INFO - *********Logging and saving username status*************
+2025-07-22 12:09:43,035 - root - INFO - *********Logging and saving password status*************
+2025-07-22 12:09:43,539 - root - INFO - *********Clicking submit button*************
+2025-07-22 12:09:44,473 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-22 12:09:50,555 - root - INFO - *********Select the Facility*************
+2025-07-22 12:09:50,788 - root - INFO - *******Click Inventory Option********
+2025-07-22 12:09:51,187 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-22 12:10:08,677 - root - INFO - *******Indent_options_select*******
+2025-07-22 12:10:14,401 - root - INFO - *******select_facility_and_Department*******
+2025-07-22 12:10:18,038 - root - INFO - ********search_and_click_indent_items********
+2025-07-22 12:10:52,372 - root - INFO - ********select_items_from_table2********
+2025-07-22 12:10:52,840 - root - INFO - ******save_indent_items******
+2025-07-22 12:10:53,143 - root - INFO - ********click the menu icon********
+2025-07-22 12:10:53,355 - root - INFO - ********click_indent_approval********
+2025-07-28 14:02:17,406 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-07-28 14:02:19,705 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-28 14:02:20,792 - root - INFO - *********Logging and saving username status*************
+2025-07-28 14:02:21,354 - root - INFO - *********Logging and saving password status*************
+2025-07-28 14:02:21,794 - root - INFO - *********Clicking submit button*************
+2025-07-28 14:02:22,284 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-28 14:02:23,771 - root - INFO - *********Select the Facility*************
+2025-07-28 14:02:23,967 - root - INFO - *******Click Inventory Option********
+2025-07-28 14:02:24,232 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-28 14:02:30,902 - root - INFO - *******Indent_options_select*******
+2025-07-28 14:02:36,060 - root - INFO - *******select_facility_and_Department*******
+2025-07-28 14:02:37,835 - root - INFO - ********search_and_click_indent_items********
+2025-07-28 14:03:12,127 - root - INFO - ********select_items_from_table2********
+2025-07-28 14:03:12,853 - root - INFO - ******save_indent_items******
+2025-07-28 14:03:13,222 - root - INFO - ********click the menu icon********
+2025-07-28 14:03:13,371 - root - INFO - ********click_indent_approval********
+2025-07-29 19:26:31,544 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-29 19:26:32,541 - root - INFO - *********Logging and saving username status*************
+2025-07-29 19:26:33,314 - root - INFO - *********Logging and saving password status*************
+2025-07-29 19:26:33,881 - root - INFO - *********Clicking submit button*************
+2025-07-29 19:26:34,363 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-29 19:26:34,875 - root - INFO - *********Select the Facility*************
+2025-07-29 19:26:38,599 - root - INFO - *******Click Inventory Option********
+2025-07-29 19:26:38,775 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-29 19:26:49,365 - root - INFO - *******Indent_options_select*******
+2025-07-29 19:26:51,583 - root - INFO - *******select_facility_and_Department*******
+2025-07-29 19:26:55,139 - root - INFO - ********search_and_click_indent_items********
+2025-07-29 19:27:28,576 - root - INFO - ********select_items_from_table2********
+2025-07-29 19:27:29,279 - root - INFO - ******save_indent_items******
+2025-07-29 19:27:29,625 - root - INFO - ********click the menu icon********
+2025-07-29 19:27:29,755 - root - INFO - ********click_indent_approval********
+2025-07-29 19:38:05,259 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-29 19:38:06,202 - root - INFO - *********Logging and saving username status*************
+2025-07-29 19:38:06,800 - root - INFO - *********Logging and saving password status*************
+2025-07-29 19:38:07,247 - root - INFO - *********Clicking submit button*************
+2025-07-29 19:38:07,709 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-29 19:38:08,174 - root - INFO - *********Select the Facility*************
+2025-07-29 19:38:12,195 - root - INFO - *******Click Inventory Option********
+2025-07-29 19:38:12,570 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-29 19:38:24,256 - root - INFO - *******Indent_options_select*******
+2025-07-29 19:38:26,790 - root - INFO - *******select_facility_and_Department*******
+2025-07-29 19:38:30,072 - root - INFO - ********search_and_click_indent_items********
+2025-07-29 19:39:03,938 - root - INFO - ********select_items_from_table2********
+2025-07-29 19:39:04,594 - root - INFO - ******save_indent_items******
+2025-07-29 19:39:06,514 - root - INFO - ********click the menu icon********
+2025-07-29 19:39:06,734 - root - INFO - ********click_indent_approval********
+2025-07-29 19:40:37,961 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-29 19:40:38,815 - root - INFO - *********Logging and saving username status*************
+2025-07-29 19:40:39,391 - root - INFO - *********Logging and saving password status*************
+2025-07-29 19:40:39,795 - root - INFO - *********Clicking submit button*************
+2025-07-29 19:40:40,314 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-29 19:40:40,705 - root - INFO - *********Select the Facility*************
+2025-07-29 19:40:45,752 - root - INFO - *******Click Inventory Option********
+2025-07-29 19:40:45,949 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-29 19:40:53,767 - root - INFO - *******Indent_options_select*******
+2025-07-29 19:40:56,308 - root - INFO - *******select_facility_and_Department*******
+2025-07-29 19:40:59,585 - root - INFO - ********search_and_click_indent_items********
+2025-07-29 19:41:33,456 - root - INFO - ********select_items_from_table2********
+2025-07-29 19:41:34,082 - root - INFO - ******save_indent_items******
+2025-07-29 19:41:34,456 - root - INFO - ********click the menu icon********
+2025-07-29 19:41:34,680 - root - INFO - ********click_indent_approval********
+2025-07-29 19:44:18,052 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-29 19:44:18,823 - root - INFO - *********Logging and saving username status*************
+2025-07-29 19:44:19,662 - root - INFO - *********Logging and saving password status*************
+2025-07-29 19:44:20,063 - root - INFO - *********Clicking submit button*************
+2025-07-29 19:44:20,638 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-29 19:44:21,085 - root - INFO - *********Select the Facility*************
+2025-07-29 19:44:31,569 - root - INFO - ********click the menu icon********
+2025-07-29 19:46:00,917 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-29 19:46:01,683 - root - INFO - *********Logging and saving username status*************
+2025-07-29 19:46:02,365 - root - INFO - *********Logging and saving password status*************
+2025-07-29 19:46:02,767 - root - INFO - *********Clicking submit button*************
+2025-07-29 19:46:03,189 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-29 19:46:03,599 - root - INFO - *********Select the Facility*************
+2025-07-29 19:46:07,401 - root - INFO - *******Click Inventory Option********
+2025-07-29 19:46:07,611 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-29 19:46:14,270 - root - INFO - *******Indent_options_select*******
+2025-07-29 19:46:19,172 - root - INFO - *******select_facility_and_Department*******
+2025-07-29 19:46:20,696 - root - INFO - ********search_and_click_indent_items********
+2025-07-29 19:46:54,992 - root - INFO - ********select_items_from_table2********
+2025-07-29 19:46:55,554 - root - INFO - ******save_indent_items******
+2025-07-29 19:46:55,924 - root - INFO - ********click the menu icon********
+2025-07-29 19:46:56,167 - root - INFO - ********click_indent_approval********
+2025-07-29 19:47:40,865 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-29 19:47:42,043 - root - INFO - *********Logging and saving username status*************
+2025-07-29 19:47:42,476 - root - INFO - *********Logging and saving password status*************
+2025-07-29 19:47:42,894 - root - INFO - *********Clicking submit button*************
+2025-07-29 19:47:43,349 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-29 19:47:43,824 - root - INFO - *********Select the Facility*************
+2025-07-29 19:47:48,087 - root - INFO - *******Click Inventory Option********
+2025-07-29 19:47:48,372 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-29 19:47:56,808 - root - INFO - *******Indent_options_select*******
+2025-07-29 19:47:59,259 - root - INFO - *******select_facility_and_Department*******
+2025-07-29 19:48:02,399 - root - INFO - ********search_and_click_indent_items********
+2025-07-29 19:48:36,254 - root - INFO - ********select_items_from_table2********
+2025-07-29 19:48:36,866 - root - INFO - ******save_indent_items******
+2025-07-29 19:48:37,247 - root - INFO - ********click the menu icon********
+2025-07-29 19:48:37,461 - root - INFO - ********click_indent_approval********
+2025-07-29 19:53:17,111 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-29 19:53:18,121 - root - INFO - *********Logging and saving username status*************
+2025-07-29 19:53:18,735 - root - INFO - *********Logging and saving password status*************
+2025-07-29 19:53:19,196 - root - INFO - *********Clicking submit button*************
+2025-07-29 19:53:19,692 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-29 19:53:20,105 - root - INFO - *********Select the Facility*************
+2025-07-29 19:53:23,324 - root - INFO - *******Click Inventory Option********
+2025-07-29 19:53:23,552 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-29 19:53:29,057 - root - INFO - *******Indent_options_select*******
+2025-07-29 19:53:33,819 - root - INFO - *******select_facility_and_Department*******
+2025-07-29 19:53:35,087 - root - INFO - ********search_and_click_indent_items********
+2025-07-29 19:54:08,750 - root - INFO - ********select_items_from_table2********
+2025-07-29 19:54:09,405 - root - INFO - ******save_indent_items******
+2025-07-29 19:54:09,773 - root - INFO - ********click the menu icon********
+2025-07-29 19:54:09,906 - root - INFO - ********click_indent_approval********
+2025-07-29 19:54:55,913 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-29 19:54:56,961 - root - INFO - *********Logging and saving username status*************
+2025-07-29 19:54:57,595 - root - INFO - *********Logging and saving password status*************
+2025-07-29 19:54:58,045 - root - INFO - *********Clicking submit button*************
+2025-07-29 19:54:58,474 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-29 19:54:58,889 - root - INFO - *********Select the Facility*************
+2025-07-29 19:55:03,440 - root - INFO - *******Click Inventory Option********
+2025-07-29 19:55:03,666 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-29 19:55:15,349 - root - INFO - *******Indent_options_select*******
+2025-07-29 19:55:20,162 - root - INFO - *******select_facility_and_Department*******
+2025-07-29 19:55:21,362 - root - INFO - ********search_and_click_indent_items********
+2025-07-29 19:55:54,659 - root - INFO - ********select_items_from_table2********
+2025-07-29 19:55:55,403 - root - INFO - ******save_indent_items******
+2025-07-29 19:55:57,046 - root - INFO - ********click the menu icon********
+2025-07-29 19:55:57,329 - root - INFO - ********click_indent_approval********
+2025-07-30 13:53:19,723 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-30 13:53:21,168 - root - INFO - *********Logging and saving username status*************
+2025-07-30 13:53:21,958 - root - INFO - *********Logging and saving password status*************
+2025-07-30 13:53:22,500 - root - INFO - *********Clicking submit button*************
+2025-07-30 13:53:22,978 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-30 13:53:23,447 - root - INFO - *********Select the Facility*************
+2025-07-30 13:53:27,097 - root - INFO - *******Click Inventory Option********
+2025-07-30 13:53:27,493 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-30 13:53:36,175 - root - INFO - *******Indent_options_select*******
+2025-07-30 13:53:39,563 - root - INFO - *******select_facility_and_Department*******
+2025-07-30 13:53:41,032 - root - INFO - ********search_and_click_indent_items********
+2025-07-30 13:54:15,191 - root - INFO - ********select_items_from_table2********
+2025-07-30 13:54:15,769 - root - INFO - ******save_indent_items******
+2025-07-30 13:54:16,094 - root - INFO - ********click the menu icon********
+2025-07-30 13:54:16,309 - root - INFO - ********click_indent_approval********
+2025-07-31 13:16:35,615 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-31 13:16:35,972 - root - INFO - *********Logging and saving username status*************
+2025-07-31 13:16:36,324 - root - INFO - *********Logging and saving password status*************
+2025-07-31 13:16:36,673 - root - INFO - *********Clicking submit button*************
+2025-07-31 13:16:37,064 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-31 13:16:37,382 - root - INFO - *********Select the Facility*************
+2025-07-31 13:16:45,735 - root - INFO - *******Click Inventory Option********
+2025-07-31 13:16:45,907 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-31 13:16:52,060 - root - INFO - *******Indent_options_select*******
+2025-07-31 13:16:53,545 - root - INFO - *******select_facility_and_Department*******
+2025-07-31 13:16:57,212 - root - INFO - ********search_and_click_indent_items********
+2025-07-31 13:17:30,777 - root - INFO - ********select_items_from_table2********
+2025-07-31 13:17:31,171 - root - INFO - ******save_indent_items******
+2025-07-31 13:17:31,456 - root - INFO - ********click the menu icon********
+2025-07-31 13:17:31,550 - root - INFO - ********click_indent_approval********
+2025-07-31 13:19:14,396 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-31 13:19:14,762 - root - INFO - *********Logging and saving username status*************
+2025-07-31 13:19:15,105 - root - INFO - *********Logging and saving password status*************
+2025-07-31 13:19:15,442 - root - INFO - *********Clicking submit button*************
+2025-07-31 13:19:15,793 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-31 13:19:16,111 - root - INFO - *********Select the Facility*************
+2025-07-31 13:19:24,268 - root - INFO - *******Click Inventory Option********
+2025-07-31 13:19:24,515 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-31 13:19:29,160 - root - INFO - *******Indent_options_select*******
+2025-07-31 13:19:30,988 - root - INFO - *******select_facility_and_Department*******
+2025-07-31 13:19:34,315 - root - INFO - ********search_and_click_indent_items********
+2025-07-31 13:20:07,622 - root - INFO - ********select_items_from_table2********
+2025-07-31 13:20:07,959 - root - INFO - ******save_indent_items******
+2025-07-31 13:20:08,230 - root - INFO - ********click the menu icon********
+2025-07-31 13:20:08,376 - root - INFO - ********click_indent_approval********
+2025-07-31 14:10:51,646 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-31 14:10:52,059 - root - INFO - *********Logging and saving username status*************
+2025-07-31 14:10:52,498 - root - INFO - *********Logging and saving password status*************
+2025-07-31 14:10:52,897 - root - INFO - *********Clicking submit button*************
+2025-07-31 14:10:53,271 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-31 14:10:53,591 - root - INFO - *********Select the Facility*************
+2025-07-31 14:10:57,717 - root - INFO - *******Click Inventory Option********
+2025-07-31 14:10:57,897 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-31 14:11:01,072 - root - INFO - *******Indent_options_select*******
+2025-07-31 14:11:06,320 - root - INFO - *******select_facility_and_Department*******
+2025-07-31 14:11:07,246 - root - INFO - ********search_and_click_indent_items********
+2025-07-31 14:11:40,397 - root - INFO - ********select_items_from_table2********
+2025-07-31 14:11:40,810 - root - INFO - ******save_indent_items******
+2025-07-31 14:11:41,065 - root - INFO - ********click the menu icon********
+2025-07-31 14:11:41,150 - root - INFO - ********click_indent_approval********
+2025-07-31 14:12:53,149 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-31 14:12:53,542 - root - INFO - *********Logging and saving username status*************
+2025-07-31 14:12:53,873 - root - INFO - *********Logging and saving password status*************
+2025-07-31 14:12:54,212 - root - INFO - *********Clicking submit button*************
+2025-07-31 14:12:54,550 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-31 14:12:54,892 - root - INFO - *********Select the Facility*************
+2025-07-31 14:12:56,573 - root - INFO - *******Click Inventory Option********
+2025-07-31 14:12:57,079 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-31 14:13:02,221 - root - INFO - *******Indent_options_select*******
+2025-07-31 14:13:06,104 - root - INFO - *******select_facility_and_Department*******
+2025-07-31 14:13:07,231 - root - INFO - ********search_and_click_indent_items********
+2025-07-31 14:13:40,470 - root - INFO - ********select_items_from_table2********
+2025-07-31 14:13:40,835 - root - INFO - ******save_indent_items******
+2025-07-31 14:13:41,101 - root - INFO - ********click the menu icon********
+2025-07-31 14:13:41,261 - root - INFO - ********click_indent_approval********
+2025-07-31 14:17:01,000 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-31 14:17:01,443 - root - INFO - *********Logging and saving username status*************
+2025-07-31 14:17:01,798 - root - INFO - *********Logging and saving password status*************
+2025-07-31 14:17:02,066 - root - INFO - *********Clicking submit button*************
+2025-07-31 14:17:02,406 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-31 14:17:02,758 - root - INFO - *********Select the Facility*************
+2025-07-31 14:17:07,602 - root - INFO - *******Click Inventory Option********
+2025-07-31 14:17:07,748 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-31 14:17:11,769 - root - INFO - *******Indent_options_select*******
+2025-07-31 14:17:16,751 - root - INFO - *******select_facility_and_Department*******
+2025-07-31 14:17:17,947 - root - INFO - ********search_and_click_indent_items********
+2025-07-31 14:17:51,360 - root - INFO - ********select_items_from_table2********
+2025-07-31 14:17:51,820 - root - INFO - ******save_indent_items******
+2025-07-31 14:17:52,109 - root - INFO - ********click the menu icon********
+2025-07-31 14:17:52,191 - root - INFO - ********click_indent_approval********
+2025-07-31 14:18:40,120 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-31 14:18:40,490 - root - INFO - *********Logging and saving username status*************
+2025-07-31 14:18:40,930 - root - INFO - *********Logging and saving password status*************
+2025-07-31 14:18:41,273 - root - INFO - *********Clicking submit button*************
+2025-07-31 14:18:41,577 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-31 14:18:41,880 - root - INFO - *********Select the Facility*************
+2025-07-31 14:18:52,445 - root - INFO - ********click the menu icon********
+2025-07-31 14:19:39,919 - root - INFO - *********URL is invoked in the Browser*************
+2025-07-31 14:19:40,237 - root - INFO - *********Logging and saving username status*************
+2025-07-31 14:19:40,668 - root - INFO - *********Logging and saving password status*************
+2025-07-31 14:19:41,029 - root - INFO - *********Clicking submit button*************
+2025-07-31 14:19:41,388 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-07-31 14:19:41,698 - root - INFO - *********Select the Facility*************
+2025-07-31 14:19:43,228 - root - INFO - *******Click Inventory Option********
+2025-07-31 14:19:43,345 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-07-31 14:19:46,425 - root - INFO - *******Indent_options_select*******
+2025-07-31 14:19:51,803 - root - INFO - *******select_facility_and_Department*******
+2025-07-31 14:19:52,612 - root - INFO - ********search_and_click_indent_items********
+2025-07-31 14:20:25,849 - root - INFO - ********select_items_from_table2********
+2025-07-31 14:20:26,253 - root - INFO - ******save_indent_items******
+2025-07-31 14:20:26,463 - root - INFO - ********click the menu icon********
+2025-07-31 14:20:26,603 - root - INFO - ********click_indent_approval********
+2025-08-01 11:51:49,018 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 11:51:49,621 - root - INFO - *********Logging and saving username status*************
+2025-08-01 11:51:50,167 - root - INFO - *********Logging and saving password status*************
+2025-08-01 11:51:50,778 - root - INFO - *********Clicking submit button*************
+2025-08-01 11:51:51,295 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 11:51:51,741 - root - INFO - *********Select the Facility*************
+2025-08-01 11:51:56,066 - root - INFO - *******Click Inventory Option********
+2025-08-01 11:51:56,245 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-01 11:52:00,390 - root - INFO - *******Indent_options_select*******
+2025-08-01 11:52:04,918 - root - INFO - *******select_facility_and_Department*******
+2025-08-01 11:52:06,141 - root - INFO - ********search_and_click_indent_items********
+2025-08-01 11:52:39,462 - root - INFO - ********select_items_from_table2********
+2025-08-01 11:52:40,097 - root - INFO - ******save_indent_items******
+2025-08-01 11:52:40,415 - root - INFO - ********click the menu icon********
+2025-08-01 11:52:40,546 - root - INFO - ********click_indent_approval********
+2025-08-01 11:54:51,384 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 11:54:51,950 - root - INFO - *********Logging and saving username status*************
+2025-08-01 11:54:52,486 - root - INFO - *********Logging and saving password status*************
+2025-08-01 11:54:53,000 - root - INFO - *********Clicking submit button*************
+2025-08-01 11:54:53,459 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 11:54:53,937 - root - INFO - *********Select the Facility*************
+2025-08-01 11:54:57,480 - root - INFO - *******Click Inventory Option********
+2025-08-01 11:54:57,741 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-01 11:55:01,819 - root - INFO - *******Indent_options_select*******
+2025-08-01 11:55:05,335 - root - INFO - *******select_facility_and_Department*******
+2025-08-01 11:55:07,165 - root - INFO - ********search_and_click_indent_items********
+2025-08-01 11:55:41,168 - root - INFO - ********select_items_from_table2********
+2025-08-01 11:55:41,881 - root - INFO - ******save_indent_items******
+2025-08-01 11:55:42,183 - root - INFO - ********click the menu icon********
+2025-08-01 11:55:42,301 - root - INFO - ********click_indent_approval********
+2025-08-01 12:04:25,208 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 12:04:25,883 - root - INFO - *********Logging and saving username status*************
+2025-08-01 12:04:26,415 - root - INFO - *********Logging and saving password status*************
+2025-08-01 12:04:26,989 - root - INFO - *********Clicking submit button*************
+2025-08-01 12:04:27,482 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 12:04:27,931 - root - INFO - *********Select the Facility*************
+2025-08-01 12:04:32,093 - root - INFO - *******Click Inventory Option********
+2025-08-01 12:04:32,527 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-01 12:04:36,706 - root - INFO - *******Indent_options_select*******
+2025-08-01 12:04:41,006 - root - INFO - *******select_facility_and_Department*******
+2025-08-01 12:04:42,087 - root - INFO - ********search_and_click_indent_items********
+2025-08-01 12:05:15,789 - root - INFO - ********select_items_from_table2********
+2025-08-01 12:05:16,293 - root - INFO - ******save_indent_items******
+2025-08-01 12:05:16,628 - root - INFO - ********click the menu icon********
+2025-08-01 12:05:16,844 - root - INFO - ********click_indent_approval********
+2025-08-01 12:32:46,618 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 12:32:47,363 - root - INFO - *********Logging and saving username status*************
+2025-08-01 12:32:47,970 - root - INFO - *********Logging and saving password status*************
+2025-08-01 12:32:48,587 - root - INFO - *********Clicking submit button*************
+2025-08-01 12:32:49,051 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 12:32:49,486 - root - INFO - *********Select the Facility*************
+2025-08-01 12:32:52,910 - root - INFO - *******Click Inventory Option********
+2025-08-01 12:32:53,221 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-01 12:32:57,785 - root - INFO - *******Indent_options_select*******
+2025-08-01 12:32:57,975 - root - INFO - *******select_facility_and_Department*******
+2025-08-01 12:33:29,371 - root - INFO - ********click the menu icon********
+2025-08-01 12:34:05,028 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 12:34:05,603 - root - INFO - *********Logging and saving username status*************
+2025-08-01 12:34:06,270 - root - INFO - *********Logging and saving password status*************
+2025-08-01 12:34:06,726 - root - INFO - *********Clicking submit button*************
+2025-08-01 12:34:07,179 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 12:34:07,600 - root - INFO - *********Select the Facility*************
+2025-08-01 12:34:10,786 - root - INFO - *******Click Inventory Option********
+2025-08-01 12:34:11,003 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-01 12:34:17,030 - root - INFO - *******Indent_options_select*******
+2025-08-01 12:34:22,599 - root - INFO - *******select_facility_and_Department*******
+2025-08-01 12:34:24,869 - root - INFO - ********search_and_click_indent_items********
+2025-08-01 12:34:58,401 - root - INFO - ********select_items_from_table2********
+2025-08-01 12:34:59,009 - root - INFO - ******save_indent_items******
+2025-08-01 12:34:59,338 - root - INFO - ********click the menu icon********
+2025-08-01 12:34:59,491 - root - INFO - ********click_indent_approval********
+2025-08-01 12:36:27,593 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 12:36:28,387 - root - INFO - *********Logging and saving username status*************
+2025-08-01 12:36:28,998 - root - INFO - *********Logging and saving password status*************
+2025-08-01 12:36:29,529 - root - INFO - *********Clicking submit button*************
+2025-08-01 12:36:30,060 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 12:36:30,559 - root - INFO - *********Select the Facility*************
+2025-08-01 12:36:35,314 - root - INFO - *******Click Inventory Option********
+2025-08-01 12:36:35,526 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-01 12:36:44,479 - root - INFO - *******Indent_options_select*******
+2025-08-01 12:36:47,995 - root - INFO - *******select_facility_and_Department*******
+2025-08-01 12:36:49,264 - root - INFO - ********search_and_click_indent_items********
+2025-08-01 12:37:23,038 - root - INFO - ********select_items_from_table2********
+2025-08-01 12:37:23,674 - root - INFO - ******save_indent_items******
+2025-08-01 12:37:23,987 - root - INFO - ********click the menu icon********
+2025-08-01 12:37:24,154 - root - INFO - ********click_indent_approval********
+2025-08-01 13:36:28,663 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 13:36:29,281 - root - INFO - *********Logging and saving username status*************
+2025-08-01 13:36:29,839 - root - INFO - *********Logging and saving password status*************
+2025-08-01 13:36:30,243 - root - INFO - *********Clicking submit button*************
+2025-08-01 13:36:30,664 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 13:36:31,048 - root - INFO - *********Select the Facility*************
+2025-08-01 13:36:39,721 - root - INFO - *******Click Inventory Option********
+2025-08-01 13:36:39,983 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-01 13:36:49,832 - root - INFO - *******Indent_options_select*******
+2025-08-01 13:36:55,071 - root - INFO - *******select_facility_and_Department*******
+2025-08-01 13:36:56,084 - root - INFO - ********search_and_click_indent_items********
+2025-08-01 13:37:30,034 - root - INFO - ********select_items_from_table2********
+2025-08-01 13:37:30,619 - root - INFO - ******save_indent_items******
+2025-08-01 13:37:31,010 - root - INFO - ********click the menu icon********
+2025-08-01 13:37:31,142 - root - INFO - ********click_indent_approval********
+2025-08-01 13:39:43,371 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 13:39:44,102 - root - INFO - *********Logging and saving username status*************
+2025-08-01 13:39:44,746 - root - INFO - *********Logging and saving password status*************
+2025-08-01 13:39:45,211 - root - INFO - *********Clicking submit button*************
+2025-08-01 13:39:45,669 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 13:39:46,212 - root - INFO - *********Select the Facility*************
+2025-08-01 13:39:54,198 - root - INFO - *******Click Inventory Option********
+2025-08-01 13:39:54,598 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-01 13:40:03,453 - root - INFO - *******Indent_options_select*******
+2025-08-01 13:40:05,486 - root - INFO - *******select_facility_and_Department*******
+2025-08-01 13:40:09,903 - root - INFO - ********search_and_click_indent_items********
+2025-08-01 13:40:43,910 - root - INFO - ********select_items_from_table2********
+2025-08-01 13:40:44,482 - root - INFO - ******save_indent_items******
+2025-08-01 13:40:44,782 - root - INFO - ********click the menu icon********
+2025-08-01 13:40:44,922 - root - INFO - ********click_indent_approval********
+2025-08-01 16:04:31,889 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-08-01 16:04:34,624 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 16:04:35,162 - root - INFO - *********Logging and saving username status*************
+2025-08-01 16:04:35,703 - root - INFO - *********Logging and saving password status*************
+2025-08-01 16:04:36,220 - root - INFO - *********Clicking submit button*************
+2025-08-01 16:04:36,620 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 16:04:37,080 - root - INFO - *********Select the Facility*************
+2025-08-01 16:04:41,049 - root - INFO - *******Click Inventory Option********
+2025-08-01 16:04:41,255 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-01 16:04:45,664 - root - INFO - *******Indent_options_select*******
+2025-08-01 16:04:49,296 - root - INFO - *******select_facility_and_Department*******
+2025-08-01 16:04:50,858 - root - INFO - ********search_and_click_indent_items********
+2025-08-01 16:05:25,307 - root - INFO - ********select_items_from_table2********
+2025-08-01 16:05:25,997 - root - INFO - ******save_indent_items******
+2025-08-01 16:05:26,297 - root - INFO - ********click the menu icon********
+2025-08-01 16:05:26,502 - root - INFO - ********click_indent_approval********
+2025-08-01 16:09:52,648 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 16:09:53,271 - root - INFO - *********Logging and saving username status*************
+2025-08-01 16:09:53,960 - root - INFO - *********Logging and saving password status*************
+2025-08-01 16:09:54,637 - root - INFO - *********Clicking submit button*************
+2025-08-01 16:09:55,226 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 16:09:55,777 - root - INFO - *********Select the Facility*************
+2025-08-01 16:09:59,643 - root - INFO - *******Click Inventory Option********
+2025-08-01 16:09:59,925 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-01 16:10:12,995 - root - INFO - *******Indent_options_select*******
+2025-08-01 16:10:14,615 - root - INFO - *******select_facility_and_Department*******
+2025-08-01 16:10:17,949 - root - INFO - ********search_and_click_indent_items********
+2025-08-01 16:10:52,127 - root - INFO - ********select_items_from_table2********
+2025-08-01 16:10:52,942 - root - INFO - ******save_indent_items******
+2025-08-01 16:10:53,492 - root - INFO - ********click the menu icon********
+2025-08-01 16:10:53,751 - root - INFO - ********click_indent_approval********
+2025-08-01 18:07:08,166 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-08-01 18:07:11,126 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 18:07:11,568 - root - INFO - *********Logging and saving username status*************
+2025-08-01 18:07:11,942 - root - INFO - *********Logging and saving password status*************
+2025-08-01 18:07:12,290 - root - INFO - *********Clicking submit button*************
+2025-08-01 18:07:12,685 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 18:07:13,071 - root - INFO - *********Select the Facility*************
+2025-08-01 18:07:15,176 - root - INFO - *******Click Inventory Option********
+2025-08-01 18:07:15,302 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-01 18:07:21,053 - root - INFO - *******Indent_options_select*******
+2025-08-01 18:07:25,667 - root - INFO - *******select_facility_and_Department*******
+2025-08-01 18:07:26,671 - root - INFO - ********search_and_click_indent_items********
+2025-08-01 18:08:00,609 - root - INFO - ********select_items_from_table2********
+2025-08-01 18:08:01,396 - root - INFO - ******save_indent_items******
+2025-08-01 18:08:01,827 - root - INFO - ********click the menu icon********
+2025-08-01 18:08:01,977 - root - INFO - ********click_indent_approval********
+2025-08-01 18:08:08,657 - root - INFO - *******indent_issue*******
+2025-08-01 18:16:02,954 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 18:16:03,459 - root - INFO - *********Logging and saving username status*************
+2025-08-01 18:16:03,791 - root - INFO - *********Logging and saving password status*************
+2025-08-01 18:16:04,177 - root - INFO - *********Clicking submit button*************
+2025-08-01 18:16:04,575 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 18:16:04,928 - root - INFO - *********Select the Facility*************
+2025-08-01 18:16:08,016 - root - INFO - *******Click Inventory Option********
+2025-08-01 18:16:08,234 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-01 18:16:11,422 - root - INFO - *******Indent_options_select*******
+2025-08-01 18:16:13,436 - root - INFO - *******select_facility_and_Department*******
+2025-08-01 18:16:17,546 - root - INFO - ********search_and_click_indent_items********
+2025-08-01 18:16:50,958 - root - INFO - ********select_items_from_table2********
+2025-08-01 18:16:51,281 - root - INFO - ******save_indent_items******
+2025-08-01 18:16:51,513 - root - INFO - ********click the menu icon********
+2025-08-01 18:16:51,588 - root - INFO - ********click_indent_approval********
+2025-08-01 18:16:58,143 - root - INFO - *******indent_issue*******
+2025-08-01 18:24:18,403 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 18:24:18,437 - root - INFO - *********Logging and saving username status*************
+2025-08-01 18:24:19,261 - root - INFO - *********Logging and saving password status*************
+2025-08-01 18:24:19,618 - root - INFO - *********Clicking submit button*************
+2025-08-01 18:24:19,960 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 18:24:20,268 - root - INFO - *********Select the Facility*************
+2025-08-01 18:24:22,060 - root - INFO - *******Click Inventory Option********
+2025-08-01 18:24:22,206 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-01 18:24:25,785 - root - INFO - *******Indent_options_select*******
+2025-08-01 18:24:27,832 - root - INFO - *******select_facility_and_Department*******
+2025-08-01 18:24:30,685 - root - INFO - ********search_and_click_indent_items********
+2025-08-01 18:25:04,108 - root - INFO - ********select_items_from_table2********
+2025-08-01 18:25:04,948 - root - INFO - ******save_indent_items******
+2025-08-01 18:25:05,265 - root - INFO - ********click the menu icon********
+2025-08-01 18:25:05,443 - root - INFO - ********click_indent_approval********
+2025-08-01 18:25:11,339 - root - INFO - *******indent_issue*******
+2025-08-01 18:28:02,226 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 18:28:02,622 - root - INFO - *********Logging and saving username status*************
+2025-08-01 18:28:02,979 - root - INFO - *********Logging and saving password status*************
+2025-08-01 18:28:03,408 - root - INFO - *********Clicking submit button*************
+2025-08-01 18:28:03,837 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 18:28:04,183 - root - INFO - *********Select the Facility*************
+2025-08-01 18:28:07,172 - root - INFO - *******Click Inventory Option********
+2025-08-01 18:28:07,355 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-01 18:28:10,978 - root - INFO - *******Indent_options_select*******
+2025-08-01 18:28:12,378 - root - INFO - *******select_facility_and_Department*******
+2025-08-01 18:28:16,446 - root - INFO - ********search_and_click_indent_items********
+2025-08-01 18:28:49,978 - root - INFO - ********select_items_from_table2********
+2025-08-01 18:28:50,512 - root - INFO - ******save_indent_items******
+2025-08-01 18:28:50,880 - root - INFO - ********click the menu icon********
+2025-08-01 18:28:51,022 - root - INFO - ********click_indent_approval********
+2025-08-01 18:28:57,651 - root - INFO - *******indent_issue*******
+2025-08-01 18:48:55,615 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 18:48:56,139 - root - INFO - *********Logging and saving username status*************
+2025-08-01 18:48:56,878 - root - INFO - *********Logging and saving password status*************
+2025-08-01 18:48:57,495 - root - INFO - *********Clicking submit button*************
+2025-08-01 18:48:57,913 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 19:13:14,062 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-08-01 19:13:16,690 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 19:13:17,551 - root - INFO - *********Logging and saving username status*************
+2025-08-01 19:13:18,194 - root - INFO - *********Logging and saving password status*************
+2025-08-01 19:13:18,696 - root - INFO - *********Clicking submit button*************
+2025-08-01 19:13:19,142 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 19:13:19,507 - root - INFO - *********Select the Facility*************
+2025-08-01 19:13:23,320 - root - INFO - *******Click Inventory Option********
+2025-08-01 19:13:23,712 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-01 19:13:28,901 - root - INFO - *******Indent_options_select*******
+2025-08-01 19:13:33,110 - root - INFO - *******select_facility_and_Department*******
+2025-08-01 19:13:34,261 - root - INFO - ********search_and_click_indent_items********
+2025-08-01 19:13:34,733 - root - INFO - ********click the menu icon********
+2025-08-01 19:13:34,822 - root - INFO - ********click_indent_approval********
+2025-08-01 19:13:40,705 - root - INFO - *******indent_issue*******
+2025-08-01 19:22:05,635 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 19:22:06,240 - root - INFO - *********Logging and saving username status*************
+2025-08-01 19:22:06,876 - root - INFO - *********Logging and saving password status*************
+2025-08-01 19:22:07,451 - root - INFO - *********Clicking submit button*************
+2025-08-01 19:22:07,966 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 19:22:08,370 - root - INFO - *********Select the Facility*************
+2025-08-01 19:22:17,655 - root - INFO - *******Click Inventory Option********
+2025-08-01 19:22:17,958 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-01 19:22:26,183 - root - INFO - *******Indent_options_select*******
+2025-08-01 19:22:29,974 - root - INFO - *******select_facility_and_Department*******
+2025-08-01 19:22:31,017 - root - INFO - ********search_and_click_indent_items********
+2025-08-01 19:23:04,920 - root - INFO - ********select_items_from_table2********
+2025-08-01 19:23:06,994 - root - INFO - ******save_indent_items******
+2025-08-01 19:23:07,427 - root - INFO - ********click the menu icon********
+2025-08-01 19:23:07,550 - root - INFO - ********click_indent_approval********
+2025-08-01 19:38:59,035 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-01 19:38:59,844 - root - INFO - *********Logging and saving username status*************
+2025-08-01 19:39:00,369 - root - INFO - *********Logging and saving password status*************
+2025-08-01 19:39:00,825 - root - INFO - *********Clicking submit button*************
+2025-08-01 19:39:01,330 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-01 19:39:01,759 - root - INFO - *********Select the Facility*************
+2025-08-01 19:39:05,044 - root - INFO - *******Click Inventory Option********
+2025-08-01 19:39:05,212 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-01 19:39:10,282 - root - INFO - *******Indent_options_select*******
+2025-08-01 19:39:14,759 - root - INFO - *******select_facility_and_Department*******
+2025-08-01 19:39:16,672 - root - INFO - ********search_and_click_indent_items********
+2025-08-01 19:39:50,368 - root - INFO - ********select_items_from_table2********
+2025-08-01 19:39:51,131 - root - INFO - ******save_indent_items******
+2025-08-01 19:39:51,458 - root - INFO - ********click the menu icon********
+2025-08-01 19:39:51,586 - root - INFO - ********click_indent_approval********
+2025-08-01 19:39:58,305 - root - INFO - *******indent_issue*******
+2025-08-02 09:57:42,020 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 09:57:42,393 - root - INFO - *********Logging and saving username status*************
+2025-08-02 09:57:43,067 - root - INFO - *********Logging and saving password status*************
+2025-08-02 09:57:43,392 - root - INFO - *********Clicking submit button*************
+2025-08-02 09:57:43,740 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 09:57:44,044 - root - INFO - *********Select the Facility*************
+2025-08-02 09:57:47,024 - root - INFO - *******Click Inventory Option********
+2025-08-02 09:57:47,208 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 09:57:51,435 - root - INFO - *******Indent_options_select*******
+2025-08-02 09:57:55,914 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 09:57:56,719 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 09:58:30,562 - root - INFO - ********select_items_from_table2********
+2025-08-02 09:58:30,892 - root - INFO - ******save_indent_items******
+2025-08-02 09:58:31,132 - root - INFO - ********click the menu icon********
+2025-08-02 09:58:31,225 - root - INFO - ********click_indent_approval********
+2025-08-02 09:58:36,978 - root - INFO - *******indent_issue*******
+2025-08-02 10:19:32,066 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 10:19:32,767 - root - INFO - *********Logging and saving username status*************
+2025-08-02 10:19:33,132 - root - INFO - *********Logging and saving password status*************
+2025-08-02 10:19:33,438 - root - INFO - *********Clicking submit button*************
+2025-08-02 10:19:33,783 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 10:19:34,098 - root - INFO - *********Select the Facility*************
+2025-08-02 10:19:38,472 - root - INFO - *******Click Inventory Option********
+2025-08-02 10:19:38,630 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 10:19:41,646 - root - INFO - *******Indent_options_select*******
+2025-08-02 10:19:45,052 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 10:19:46,318 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 10:20:19,379 - root - INFO - ********select_items_from_table2********
+2025-08-02 10:20:19,679 - root - INFO - ******save_indent_items******
+2025-08-02 10:20:19,915 - root - INFO - ********click the menu icon********
+2025-08-02 10:20:19,983 - root - INFO - ********click_indent_approval********
+2025-08-02 10:20:25,550 - root - INFO - *******indent_issue*******
+2025-08-02 10:21:44,668 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 10:21:45,167 - root - INFO - *********Logging and saving username status*************
+2025-08-02 10:21:45,696 - root - INFO - *********Logging and saving password status*************
+2025-08-02 10:21:46,013 - root - INFO - *********Clicking submit button*************
+2025-08-02 10:21:46,357 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 10:21:46,668 - root - INFO - *********Select the Facility*************
+2025-08-02 10:21:51,116 - root - INFO - *******Click Inventory Option********
+2025-08-02 10:21:51,248 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 10:21:54,276 - root - INFO - *******Indent_options_select*******
+2025-08-02 10:21:58,596 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 10:21:59,314 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 10:22:32,364 - root - INFO - ********select_items_from_table2********
+2025-08-02 10:22:32,685 - root - INFO - ******save_indent_items******
+2025-08-02 10:22:32,918 - root - INFO - ********click the menu icon********
+2025-08-02 10:22:32,989 - root - INFO - ********click_indent_approval********
+2025-08-02 10:22:38,542 - root - INFO - *******indent_issue*******
+2025-08-02 10:40:37,507 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 10:40:39,405 - root - INFO - *********Logging and saving username status*************
+2025-08-02 10:40:39,914 - root - INFO - *********Logging and saving password status*************
+2025-08-02 10:40:40,334 - root - INFO - *********Clicking submit button*************
+2025-08-02 10:40:40,811 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 10:40:41,179 - root - INFO - *********Select the Facility*************
+2025-08-02 10:40:43,478 - root - INFO - *******Click Inventory Option********
+2025-08-02 10:40:43,696 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 10:40:47,820 - root - INFO - *******Indent_options_select*******
+2025-08-02 10:40:50,278 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 10:40:54,641 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 10:41:28,291 - root - INFO - ********select_items_from_table2********
+2025-08-02 10:41:28,845 - root - INFO - ******save_indent_items******
+2025-08-02 10:41:29,117 - root - INFO - ********click the menu icon********
+2025-08-02 10:41:29,562 - root - INFO - ********click_indent_approval********
+2025-08-02 10:41:35,501 - root - INFO - *******indent_issue*******
+2025-08-02 11:05:33,503 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 11:05:34,021 - root - INFO - *********Logging and saving username status*************
+2025-08-02 11:05:34,584 - root - INFO - *********Logging and saving password status*************
+2025-08-02 11:05:35,027 - root - INFO - *********Clicking submit button*************
+2025-08-02 11:05:35,488 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 11:05:35,876 - root - INFO - *********Select the Facility*************
+2025-08-02 11:05:38,030 - root - INFO - *******Click Inventory Option********
+2025-08-02 11:05:38,213 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 11:05:43,700 - root - INFO - *******Indent_options_select*******
+2025-08-02 11:05:48,922 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 11:05:49,879 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 11:06:24,512 - root - INFO - ********select_items_from_table2********
+2025-08-02 11:06:25,270 - root - INFO - ******save_indent_items******
+2025-08-02 11:06:25,610 - root - INFO - ********click the menu icon********
+2025-08-02 11:06:25,862 - root - INFO - ********click_indent_approval********
+2025-08-02 11:06:32,337 - root - INFO - *******indent_issue*******
+2025-08-02 11:48:40,213 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 11:48:41,423 - root - INFO - *********Logging and saving username status*************
+2025-08-02 11:48:42,231 - root - INFO - *********Logging and saving password status*************
+2025-08-02 11:48:42,803 - root - INFO - *********Clicking submit button*************
+2025-08-02 11:48:43,257 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 11:48:43,671 - root - INFO - *********Select the Facility*************
+2025-08-02 11:48:48,128 - root - INFO - *******Click Inventory Option********
+2025-08-02 11:48:48,521 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 11:48:54,384 - root - INFO - *******Indent_options_select*******
+2025-08-02 11:48:59,020 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 11:49:00,437 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 11:49:34,219 - root - INFO - ********select_items_from_table2********
+2025-08-02 11:49:34,877 - root - INFO - ******save_indent_items******
+2025-08-02 11:49:35,237 - root - INFO - ********click the menu icon********
+2025-08-02 11:49:35,382 - root - INFO - ********click_indent_approval********
+2025-08-02 11:49:41,881 - root - INFO - *******indent_issue*******
+2025-08-02 12:46:38,435 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-08-02 12:46:40,409 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 12:46:42,432 - root - INFO - *********Logging and saving username status*************
+2025-08-02 12:46:43,010 - root - INFO - *********Logging and saving password status*************
+2025-08-02 12:46:43,505 - root - INFO - *********Clicking submit button*************
+2025-08-02 12:46:43,933 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 12:46:44,446 - root - INFO - *********Select the Facility*************
+2025-08-02 12:46:46,441 - root - INFO - *******Click Inventory Option********
+2025-08-02 12:46:46,645 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 12:46:51,039 - root - INFO - *******Indent_options_select*******
+2025-08-02 12:46:55,441 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 12:46:57,451 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 12:47:30,983 - root - INFO - ********select_items_from_table2********
+2025-08-02 12:47:31,525 - root - INFO - ******save_indent_items******
+2025-08-02 12:47:31,880 - root - INFO - ********click the menu icon********
+2025-08-02 12:47:31,991 - root - INFO - ********click_indent_approval********
+2025-08-02 12:47:37,777 - root - INFO - *******indent_issue*******
+2025-08-02 13:03:36,334 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 13:03:37,647 - root - INFO - *********Logging and saving username status*************
+2025-08-02 13:03:38,332 - root - INFO - *********Logging and saving password status*************
+2025-08-02 13:03:38,824 - root - INFO - *********Clicking submit button*************
+2025-08-02 13:03:39,293 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 13:03:39,658 - root - INFO - *********Select the Facility*************
+2025-08-02 13:03:43,159 - root - INFO - *******Click Inventory Option********
+2025-08-02 13:03:43,347 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 13:03:47,561 - root - INFO - *******Indent_options_select*******
+2025-08-02 13:03:51,490 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 13:03:53,416 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 13:04:26,831 - root - INFO - ********select_items_from_table2********
+2025-08-02 13:04:27,325 - root - INFO - ******save_indent_items******
+2025-08-02 13:04:27,612 - root - INFO - ********click the menu icon********
+2025-08-02 13:04:27,772 - root - INFO - ********click_indent_approval********
+2025-08-02 13:04:34,586 - root - INFO - *******indent_issue*******
+2025-08-02 13:09:22,134 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 13:09:22,493 - root - INFO - *********Logging and saving username status*************
+2025-08-02 13:09:23,810 - root - INFO - *********Logging and saving password status*************
+2025-08-02 13:09:24,336 - root - INFO - *********Clicking submit button*************
+2025-08-02 13:09:24,878 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 13:09:25,311 - root - INFO - *********Select the Facility*************
+2025-08-02 13:09:28,510 - root - INFO - *******Click Inventory Option********
+2025-08-02 13:09:28,864 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 13:09:34,163 - root - INFO - *******Indent_options_select*******
+2025-08-02 13:09:37,228 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 13:09:39,159 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 13:10:12,522 - root - INFO - ********select_items_from_table2********
+2025-08-02 13:10:13,203 - root - INFO - ******save_indent_items******
+2025-08-02 13:10:13,575 - root - INFO - ********click the menu icon********
+2025-08-02 13:10:13,779 - root - INFO - ********click_indent_approval********
+2025-08-02 13:10:21,798 - root - INFO - *******indent_issue*******
+2025-08-02 13:13:30,603 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 13:13:30,854 - root - INFO - *********Logging and saving username status*************
+2025-08-02 13:13:32,465 - root - INFO - *********Logging and saving password status*************
+2025-08-02 13:13:33,126 - root - INFO - *********Clicking submit button*************
+2025-08-02 13:13:33,787 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 13:13:34,252 - root - INFO - *********Select the Facility*************
+2025-08-02 13:13:44,677 - root - INFO - ********click the menu icon********
+2025-08-02 13:14:15,777 - root - INFO - *******indent_issue*******
+2025-08-02 13:15:15,361 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 13:15:15,800 - root - INFO - *********Logging and saving username status*************
+2025-08-02 13:15:17,607 - root - INFO - *********Logging and saving password status*************
+2025-08-02 13:15:18,104 - root - INFO - *********Clicking submit button*************
+2025-08-02 13:15:18,668 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 13:15:19,163 - root - INFO - *********Select the Facility*************
+2025-08-02 13:15:20,938 - root - INFO - *******Click Inventory Option********
+2025-08-02 13:15:21,190 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 13:15:25,836 - root - INFO - *******Indent_options_select*******
+2025-08-02 13:15:30,065 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 13:15:32,200 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 13:16:06,060 - root - INFO - ********select_items_from_table2********
+2025-08-02 13:16:06,647 - root - INFO - ******save_indent_items******
+2025-08-02 13:16:06,953 - root - INFO - ********click the menu icon********
+2025-08-02 13:16:07,104 - root - INFO - ********click_indent_approval********
+2025-08-02 13:16:13,351 - root - INFO - *******indent_issue*******
+2025-08-02 13:18:57,239 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 13:18:57,936 - root - INFO - *********Logging and saving username status*************
+2025-08-02 13:18:58,619 - root - INFO - *********Logging and saving password status*************
+2025-08-02 13:18:59,084 - root - INFO - *********Clicking submit button*************
+2025-08-02 13:18:59,585 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 13:19:00,003 - root - INFO - *********Select the Facility*************
+2025-08-02 13:19:02,583 - root - INFO - *******Click Inventory Option********
+2025-08-02 13:19:02,812 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 13:19:07,525 - root - INFO - *******Indent_options_select*******
+2025-08-02 13:19:12,762 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 13:19:13,874 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 13:19:47,672 - root - INFO - ********select_items_from_table2********
+2025-08-02 13:19:48,258 - root - INFO - ******save_indent_items******
+2025-08-02 13:19:48,592 - root - INFO - ********click the menu icon********
+2025-08-02 13:19:48,739 - root - INFO - ********click_indent_approval********
+2025-08-02 13:19:55,386 - root - INFO - *******indent_issue*******
+2025-08-02 13:25:59,413 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 13:26:01,236 - root - INFO - *********Logging and saving username status*************
+2025-08-02 13:26:01,885 - root - INFO - *********Logging and saving password status*************
+2025-08-02 13:26:02,303 - root - INFO - *********Clicking submit button*************
+2025-08-02 13:26:02,768 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 13:26:03,180 - root - INFO - *********Select the Facility*************
+2025-08-02 13:26:06,545 - root - INFO - *******Click Inventory Option********
+2025-08-02 13:26:06,749 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 13:26:11,634 - root - INFO - *******Indent_options_select*******
+2025-08-02 13:26:16,223 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 13:26:17,421 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 13:26:51,084 - root - INFO - ********select_items_from_table2********
+2025-08-02 13:26:51,715 - root - INFO - ******save_indent_items******
+2025-08-02 13:26:52,128 - root - INFO - ********click the menu icon********
+2025-08-02 13:26:52,263 - root - INFO - ********click_indent_approval********
+2025-08-02 13:26:58,754 - root - INFO - *******indent_issue*******
+2025-08-02 13:31:41,578 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 13:31:42,978 - root - INFO - *********Logging and saving username status*************
+2025-08-02 13:31:43,664 - root - INFO - *********Logging and saving password status*************
+2025-08-02 13:31:44,157 - root - INFO - *********Clicking submit button*************
+2025-08-02 13:31:44,626 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 13:31:45,030 - root - INFO - *********Select the Facility*************
+2025-08-02 13:31:48,003 - root - INFO - *******Click Inventory Option********
+2025-08-02 13:31:48,252 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 13:31:52,264 - root - INFO - *******Indent_options_select*******
+2025-08-02 13:31:57,399 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 13:32:00,404 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 13:32:34,530 - root - INFO - ********select_items_from_table2********
+2025-08-02 13:32:35,191 - root - INFO - ******save_indent_items******
+2025-08-02 13:32:35,526 - root - INFO - ********click the menu icon********
+2025-08-02 13:32:35,675 - root - INFO - ********click_indent_approval********
+2025-08-02 13:32:42,107 - root - INFO - *******indent_issue*******
+2025-08-02 13:37:44,619 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 13:37:45,063 - root - INFO - *********Logging and saving username status*************
+2025-08-02 13:37:46,173 - root - INFO - *********Logging and saving password status*************
+2025-08-02 13:37:46,554 - root - INFO - *********Clicking submit button*************
+2025-08-02 13:37:47,027 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 13:37:47,459 - root - INFO - *********Select the Facility*************
+2025-08-02 13:37:50,659 - root - INFO - *******Click Inventory Option********
+2025-08-02 13:37:50,955 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 13:37:58,004 - root - INFO - *******Indent_options_select*******
+2025-08-02 13:38:02,050 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 13:38:03,482 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 13:38:37,134 - root - INFO - ********select_items_from_table2********
+2025-08-02 13:38:37,723 - root - INFO - ******save_indent_items******
+2025-08-02 13:38:38,029 - root - INFO - ********click the menu icon********
+2025-08-02 13:38:38,214 - root - INFO - ********click_indent_approval********
+2025-08-02 13:38:44,605 - root - INFO - *******indent_issue*******
+2025-08-02 13:54:00,470 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-08-02 13:54:02,373 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 13:54:04,448 - root - INFO - *********Logging and saving username status*************
+2025-08-02 13:54:04,999 - root - INFO - *********Logging and saving password status*************
+2025-08-02 13:54:05,413 - root - INFO - *********Clicking submit button*************
+2025-08-02 13:54:05,851 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 13:54:06,341 - root - INFO - *********Select the Facility*************
+2025-08-02 13:54:10,602 - root - INFO - *******Click Inventory Option********
+2025-08-02 13:54:10,774 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 13:54:17,162 - root - INFO - *******Indent_options_select*******
+2025-08-02 13:54:22,977 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 13:54:24,055 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 13:54:57,713 - root - INFO - ********select_items_from_table2********
+2025-08-02 13:54:58,321 - root - INFO - ******save_indent_items******
+2025-08-02 13:54:58,673 - root - INFO - ********click the menu icon********
+2025-08-02 13:54:58,797 - root - INFO - ********click_indent_approval********
+2025-08-02 13:55:05,065 - root - INFO - *******indent_issue*******
+2025-08-02 13:57:03,564 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 13:57:04,754 - root - INFO - *********Logging and saving username status*************
+2025-08-02 13:57:05,338 - root - INFO - *********Logging and saving password status*************
+2025-08-02 13:57:05,806 - root - INFO - *********Clicking submit button*************
+2025-08-02 13:57:06,310 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 13:57:06,752 - root - INFO - *********Select the Facility*************
+2025-08-02 13:57:10,348 - root - INFO - *******Click Inventory Option********
+2025-08-02 13:57:10,642 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 13:57:15,927 - root - INFO - *******Indent_options_select*******
+2025-08-02 13:57:20,678 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 13:57:21,845 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 13:57:55,164 - root - INFO - ********select_items_from_table2********
+2025-08-02 13:57:55,686 - root - INFO - ******save_indent_items******
+2025-08-02 13:57:56,006 - root - INFO - ********click the menu icon********
+2025-08-02 13:57:56,138 - root - INFO - ********click_indent_approval********
+2025-08-02 13:58:01,619 - root - INFO - *******indent_issue*******
+2025-08-02 14:05:39,009 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 14:05:40,707 - root - INFO - *********Logging and saving username status*************
+2025-08-02 14:05:41,318 - root - INFO - *********Logging and saving password status*************
+2025-08-02 14:05:41,714 - root - INFO - *********Clicking submit button*************
+2025-08-02 14:05:42,179 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 14:05:42,596 - root - INFO - *********Select the Facility*************
+2025-08-02 14:05:44,477 - root - INFO - *******Click Inventory Option********
+2025-08-02 14:05:44,754 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 14:05:49,019 - root - INFO - *******Indent_options_select*******
+2025-08-02 14:05:51,099 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 14:05:55,806 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 14:06:29,561 - root - INFO - ********select_items_from_table2********
+2025-08-02 14:06:30,190 - root - INFO - ******save_indent_items******
+2025-08-02 14:06:30,519 - root - INFO - ********click the menu icon********
+2025-08-02 14:06:30,640 - root - INFO - ********click_indent_approval********
+2025-08-02 14:06:37,368 - root - INFO - *******indent_issue*******
+2025-08-02 14:26:37,665 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 14:26:39,150 - root - INFO - *********Logging and saving username status*************
+2025-08-02 14:26:39,809 - root - INFO - *********Logging and saving password status*************
+2025-08-02 14:26:40,312 - root - INFO - *********Clicking submit button*************
+2025-08-02 14:26:40,817 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 14:26:41,222 - root - INFO - *********Select the Facility*************
+2025-08-02 14:26:43,688 - root - INFO - *******Click Inventory Option********
+2025-08-02 14:26:43,859 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 14:26:48,583 - root - INFO - *******Indent_options_select*******
+2025-08-02 14:26:52,034 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 14:26:55,315 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 14:27:28,641 - root - INFO - ********select_items_from_table2********
+2025-08-02 14:27:29,134 - root - INFO - ******save_indent_items******
+2025-08-02 14:27:29,460 - root - INFO - ********click the menu icon********
+2025-08-02 14:27:29,615 - root - INFO - ********click_indent_approval********
+2025-08-02 14:27:35,973 - root - INFO - *******indent_issue*******
+2025-08-02 14:30:28,442 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 14:30:30,185 - root - INFO - *********Logging and saving username status*************
+2025-08-02 14:30:30,872 - root - INFO - *********Logging and saving password status*************
+2025-08-02 14:30:31,325 - root - INFO - *********Clicking submit button*************
+2025-08-02 14:30:31,782 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 14:30:32,258 - root - INFO - *********Select the Facility*************
+2025-08-02 14:30:34,987 - root - INFO - *******Click Inventory Option********
+2025-08-02 14:30:35,151 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 14:30:39,949 - root - INFO - *******Indent_options_select*******
+2025-08-02 14:30:43,821 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 14:30:45,810 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 14:31:19,570 - root - INFO - ********select_items_from_table2********
+2025-08-02 14:31:20,000 - root - INFO - ******save_indent_items******
+2025-08-02 14:31:20,302 - root - INFO - ********click the menu icon********
+2025-08-02 14:31:20,415 - root - INFO - ********click_indent_approval********
+2025-08-02 14:31:27,012 - root - INFO - *******indent_issue*******
+2025-08-02 14:34:19,353 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 14:34:19,993 - root - INFO - *********Logging and saving username status*************
+2025-08-02 14:34:20,580 - root - INFO - *********Logging and saving password status*************
+2025-08-02 14:34:21,079 - root - INFO - *********Clicking submit button*************
+2025-08-02 14:34:21,588 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 14:34:21,988 - root - INFO - *********Select the Facility*************
+2025-08-02 14:34:23,641 - root - INFO - *******Click Inventory Option********
+2025-08-02 14:34:23,897 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 14:34:28,546 - root - INFO - *******Indent_options_select*******
+2025-08-02 14:34:30,931 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 14:34:34,224 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 14:35:07,510 - root - INFO - ********select_items_from_table2********
+2025-08-02 14:35:08,148 - root - INFO - ******save_indent_items******
+2025-08-02 14:35:08,477 - root - INFO - ********click the menu icon********
+2025-08-02 14:35:08,589 - root - INFO - ********click_indent_approval********
+2025-08-02 14:35:44,506 - root - INFO - *******indent_issue*******
+2025-08-02 14:41:26,605 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 14:41:27,662 - root - INFO - *********Logging and saving username status*************
+2025-08-02 14:41:28,581 - root - INFO - *********Logging and saving password status*************
+2025-08-02 14:41:29,448 - root - INFO - *********Clicking submit button*************
+2025-08-02 14:41:30,172 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 14:41:30,832 - root - INFO - *********Select the Facility*************
+2025-08-02 14:41:32,175 - root - INFO - *******Click Inventory Option********
+2025-08-02 14:41:32,520 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 14:41:41,853 - root - INFO - *******Indent_options_select*******
+2025-08-02 14:41:46,108 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 14:41:47,430 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 14:42:20,998 - root - INFO - ********select_items_from_table2********
+2025-08-02 14:42:21,746 - root - INFO - ******save_indent_items******
+2025-08-02 14:42:22,024 - root - INFO - ********click the menu icon********
+2025-08-02 14:42:22,205 - root - INFO - ********click_indent_approval********
+2025-08-02 14:42:28,239 - root - INFO - *******indent_issue*******
+2025-08-02 15:13:18,028 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-08-02 15:13:20,113 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 15:13:20,200 - root - INFO - *********Logging and saving username status*************
+2025-08-02 15:13:22,105 - root - INFO - *********Logging and saving password status*************
+2025-08-02 15:13:22,572 - root - INFO - *********Clicking submit button*************
+2025-08-02 15:13:23,165 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 15:13:23,687 - root - INFO - *********Select the Facility*************
+2025-08-02 15:13:26,742 - root - INFO - *******Click Inventory Option********
+2025-08-02 15:13:26,922 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 15:13:32,303 - root - INFO - *******Indent_options_select*******
+2025-08-02 15:13:35,784 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 15:13:38,178 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 15:14:12,171 - root - INFO - ********select_items_from_table2********
+2025-08-02 15:14:12,812 - root - INFO - ******save_indent_items******
+2025-08-02 15:14:13,133 - root - INFO - ********click the menu icon********
+2025-08-02 15:14:13,275 - root - INFO - ********click_indent_approval********
+2025-08-02 15:14:19,981 - root - INFO - *******indent_issue*******
+2025-08-02 15:14:36,015 - root - INFO - *******indent_item_receipt*******
+2025-08-02 18:08:30,701 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 18:08:31,368 - root - INFO - *********Logging and saving username status*************
+2025-08-02 18:08:32,089 - root - INFO - *********Logging and saving password status*************
+2025-08-02 18:08:32,586 - root - INFO - *********Clicking submit button*************
+2025-08-02 18:08:32,984 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 18:08:33,391 - root - INFO - *********Select the Facility*************
+2025-08-02 18:08:35,716 - root - INFO - *******Click Inventory Option********
+2025-08-02 18:08:35,953 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 18:08:42,616 - root - INFO - *******Indent_options_select*******
+2025-08-02 18:08:44,779 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 18:08:48,055 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 18:09:30,199 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-02 18:09:31,237 - root - INFO - *********Logging and saving username status*************
+2025-08-02 18:09:31,904 - root - INFO - *********Logging and saving password status*************
+2025-08-02 18:09:32,333 - root - INFO - *********Clicking submit button*************
+2025-08-02 18:09:32,855 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-02 18:09:33,425 - root - INFO - *********Select the Facility*************
+2025-08-02 18:09:36,347 - root - INFO - *******Click Inventory Option********
+2025-08-02 18:09:36,529 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-02 18:09:41,477 - root - INFO - *******Indent_options_select*******
+2025-08-02 18:09:43,562 - root - INFO - *******select_facility_and_Department*******
+2025-08-02 18:09:47,432 - root - INFO - ********search_and_click_indent_items********
+2025-08-02 18:10:21,589 - root - INFO - ********select_items_from_table2********
+2025-08-02 18:10:22,279 - root - INFO - ******save_indent_items******
+2025-08-02 18:10:22,601 - root - INFO - ********click the menu icon********
+2025-08-02 18:10:22,746 - root - INFO - ********click_indent_approval********
+2025-08-02 18:10:29,235 - root - INFO - *******indent_issue*******
+2025-08-02 18:10:38,284 - root - INFO - *******indent_item_receipt*******
+2025-08-04 13:21:59,429 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 13:22:01,094 - root - INFO - *********Logging and saving username status*************
+2025-08-04 13:22:01,616 - root - INFO - *********Logging and saving password status*************
+2025-08-04 13:22:02,340 - root - INFO - *********Clicking submit button*************
+2025-08-04 13:22:02,962 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 13:24:25,343 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 13:24:26,052 - root - INFO - *********Logging and saving username status*************
+2025-08-04 13:24:26,506 - root - INFO - *********Logging and saving password status*************
+2025-08-04 13:24:26,865 - root - INFO - *********Clicking submit button*************
+2025-08-04 13:24:27,327 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 13:43:53,389 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 13:43:54,053 - root - INFO - *********Logging and saving username status*************
+2025-08-04 13:43:54,657 - root - INFO - *********Logging and saving password status*************
+2025-08-04 13:43:55,110 - root - INFO - *********Clicking submit button*************
+2025-08-04 13:43:55,551 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 13:44:16,857 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 13:44:17,794 - root - INFO - *********Logging and saving username status*************
+2025-08-04 13:44:18,300 - root - INFO - *********Logging and saving password status*************
+2025-08-04 13:44:18,740 - root - INFO - *********Clicking submit button*************
+2025-08-04 13:44:19,249 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 15:00:40,294 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 15:00:40,680 - root - INFO - *********Logging and saving username status*************
+2025-08-04 15:00:41,157 - root - INFO - *********Logging and saving password status*************
+2025-08-04 15:00:41,726 - root - INFO - *********Clicking submit button*************
+2025-08-04 15:00:42,289 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 15:00:55,350 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 15:00:55,718 - root - INFO - *********Logging and saving username status*************
+2025-08-04 15:00:56,090 - root - INFO - *********Logging and saving password status*************
+2025-08-04 15:00:56,523 - root - INFO - *********Clicking submit button*************
+2025-08-04 15:00:56,947 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 15:06:39,685 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 15:06:40,069 - root - INFO - *********Logging and saving username status*************
+2025-08-04 15:06:40,416 - root - INFO - *********Logging and saving password status*************
+2025-08-04 15:06:40,745 - root - INFO - *********Clicking submit button*************
+2025-08-04 15:06:41,132 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 15:06:41,424 - root - INFO - *********Select the Facility*************
+2025-08-04 15:11:29,018 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 15:11:29,451 - root - INFO - *********Logging and saving username status*************
+2025-08-04 15:11:29,795 - root - INFO - *********Logging and saving password status*************
+2025-08-04 15:11:30,099 - root - INFO - *********Clicking submit button*************
+2025-08-04 15:11:30,471 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 15:11:30,790 - root - INFO - *********Select the Facility*************
+2025-08-04 15:11:43,018 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 15:11:43,292 - root - INFO - *********Logging and saving username status*************
+2025-08-04 15:11:43,622 - root - INFO - *********Logging and saving password status*************
+2025-08-04 15:11:44,007 - root - INFO - *********Clicking submit button*************
+2025-08-04 15:11:44,332 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 15:11:44,621 - root - INFO - *********Select the Facility*************
+2025-08-04 15:12:54,071 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 15:12:54,631 - root - INFO - *********Logging and saving username status*************
+2025-08-04 15:12:55,058 - root - INFO - *********Logging and saving password status*************
+2025-08-04 15:12:55,428 - root - INFO - *********Clicking submit button*************
+2025-08-04 15:12:55,904 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 15:13:36,280 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 15:13:36,827 - root - INFO - *********Logging and saving username status*************
+2025-08-04 15:13:37,352 - root - INFO - *********Logging and saving password status*************
+2025-08-04 15:13:37,821 - root - INFO - *********Clicking submit button*************
+2025-08-04 15:13:38,267 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 15:13:38,600 - root - INFO - *********Select the Facility*************
+2025-08-04 15:15:03,193 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 15:15:03,577 - root - INFO - *********Logging and saving username status*************
+2025-08-04 15:15:03,911 - root - INFO - *********Logging and saving password status*************
+2025-08-04 15:15:04,257 - root - INFO - *********Clicking submit button*************
+2025-08-04 15:15:04,571 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 15:15:04,882 - root - INFO - *********Select the Facility*************
+2025-08-04 15:15:06,875 - root - INFO - *******Click Inventory Option********
+2025-08-04 15:15:06,996 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-04 15:27:52,930 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 15:27:53,334 - root - INFO - *********Logging and saving username status*************
+2025-08-04 15:27:53,805 - root - INFO - *********Logging and saving password status*************
+2025-08-04 15:27:54,096 - root - INFO - *********Clicking submit button*************
+2025-08-04 15:27:54,414 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 15:27:54,711 - root - INFO - *********Select the Facility*************
+2025-08-04 15:27:57,608 - root - INFO - *******Click Inventory Option********
+2025-08-04 15:27:57,772 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-04 16:14:51,085 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-08-04 16:14:53,794 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 16:14:54,521 - root - INFO - *********Logging and saving username status*************
+2025-08-04 16:14:55,074 - root - INFO - *********Logging and saving password status*************
+2025-08-04 16:14:55,582 - root - INFO - *********Clicking submit button*************
+2025-08-04 16:14:56,168 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 16:14:56,583 - root - INFO - *********Select the Facility*************
+2025-08-04 16:14:59,107 - root - INFO - *******Click Inventory Option********
+2025-08-04 16:14:59,546 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-04 16:18:26,532 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 16:18:27,762 - root - INFO - *********Logging and saving username status*************
+2025-08-04 16:18:28,287 - root - INFO - *********Logging and saving password status*************
+2025-08-04 16:18:28,666 - root - INFO - *********Clicking submit button*************
+2025-08-04 16:18:29,103 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 16:18:29,607 - root - INFO - *********Select the Facility*************
+2025-08-04 16:18:35,416 - root - INFO - *******Click Inventory Option********
+2025-08-04 16:18:35,704 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-04 16:18:46,638 - root - INFO - *******Item_store_mapping*******
+2025-08-04 16:25:35,128 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 16:25:36,041 - root - INFO - *********Logging and saving username status*************
+2025-08-04 16:25:36,541 - root - INFO - *********Logging and saving password status*************
+2025-08-04 16:25:36,950 - root - INFO - *********Clicking submit button*************
+2025-08-04 16:25:37,398 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 16:25:37,831 - root - INFO - *********Select the Facility*************
+2025-08-04 16:25:40,212 - root - INFO - *******Click Inventory Option********
+2025-08-04 16:25:40,449 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-04 16:25:45,141 - root - INFO - *******item adjustment*******
+2025-08-04 16:26:24,822 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 16:26:26,774 - root - INFO - *********Logging and saving username status*************
+2025-08-04 16:26:27,190 - root - INFO - *********Logging and saving password status*************
+2025-08-04 16:26:27,827 - root - INFO - *********Clicking submit button*************
+2025-08-04 16:26:28,380 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 16:26:28,900 - root - INFO - *********Select the Facility*************
+2025-08-04 16:26:29,959 - root - INFO - *******Click Inventory Option********
+2025-08-04 16:26:30,108 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-04 16:26:34,492 - root - INFO - *******item adjustment*******
+2025-08-04 16:30:30,316 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 16:30:31,075 - root - INFO - *********Logging and saving username status*************
+2025-08-04 16:30:31,601 - root - INFO - *********Logging and saving password status*************
+2025-08-04 16:30:32,033 - root - INFO - *********Clicking submit button*************
+2025-08-04 16:30:32,466 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 16:30:32,897 - root - INFO - *********Select the Facility*************
+2025-08-04 16:30:35,045 - root - INFO - *******Click Inventory Option********
+2025-08-04 16:30:35,244 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-04 16:30:39,125 - root - INFO - *******item adjustment*******
+2025-08-04 16:33:33,518 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 16:33:33,551 - root - INFO - *********Logging and saving username status*************
+2025-08-04 16:33:34,834 - root - INFO - *********Logging and saving password status*************
+2025-08-04 16:33:35,496 - root - INFO - *********Clicking submit button*************
+2025-08-04 16:33:36,102 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 16:33:36,596 - root - INFO - *********Select the Facility*************
+2025-08-04 16:33:38,252 - root - INFO - *******Click Inventory Option********
+2025-08-04 16:33:38,555 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-04 16:33:43,502 - root - INFO - *******item adjustment*******
+2025-08-04 18:14:22,013 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-08-04 18:14:24,970 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 18:14:25,569 - root - INFO - *********Logging and saving username status*************
+2025-08-04 18:14:26,070 - root - INFO - *********Logging and saving password status*************
+2025-08-04 18:14:26,436 - root - INFO - *********Clicking submit button*************
+2025-08-04 18:14:26,851 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 18:14:27,288 - root - INFO - *********Select the Facility*************
+2025-08-04 18:14:31,803 - root - INFO - *******Click Inventory Option********
+2025-08-04 18:14:32,020 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-04 18:14:36,936 - root - INFO - *******item adjustment*******
+2025-08-04 18:15:25,692 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 18:15:26,243 - root - INFO - *********Logging and saving username status*************
+2025-08-04 18:15:26,933 - root - INFO - *********Logging and saving password status*************
+2025-08-04 18:15:27,322 - root - INFO - *********Clicking submit button*************
+2025-08-04 18:15:27,777 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 18:15:28,152 - root - INFO - *********Select the Facility*************
+2025-08-04 18:15:32,559 - root - INFO - *******Click Inventory Option********
+2025-08-04 18:15:32,787 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-04 18:15:37,306 - root - INFO - *******item adjustment*******
+2025-08-04 18:20:10,047 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 18:20:10,849 - root - INFO - *********Logging and saving username status*************
+2025-08-04 18:20:11,322 - root - INFO - *********Logging and saving password status*************
+2025-08-04 18:20:11,766 - root - INFO - *********Clicking submit button*************
+2025-08-04 18:20:12,250 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 18:20:12,693 - root - INFO - *********Select the Facility*************
+2025-08-04 18:20:14,469 - root - INFO - *******Click Inventory Option********
+2025-08-04 18:20:14,645 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-04 18:20:20,296 - root - INFO - *******item adjustment*******
+2025-08-04 18:32:35,126 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 18:32:35,176 - root - INFO - *********Logging and saving username status*************
+2025-08-04 18:32:36,391 - root - INFO - *********Logging and saving password status*************
+2025-08-04 18:32:36,789 - root - INFO - *********Clicking submit button*************
+2025-08-04 18:32:37,236 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 18:32:37,646 - root - INFO - *********Select the Facility*************
+2025-08-04 18:32:39,831 - root - INFO - *******Click Inventory Option********
+2025-08-04 18:32:40,053 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-04 18:32:44,790 - root - INFO - *******item adjustment*******
+2025-08-04 18:35:17,986 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 18:35:19,352 - root - INFO - *********Logging and saving username status*************
+2025-08-04 18:35:19,852 - root - INFO - *********Logging and saving password status*************
+2025-08-04 18:35:20,323 - root - INFO - *********Clicking submit button*************
+2025-08-04 18:35:20,871 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 18:35:21,457 - root - INFO - *********Select the Facility*************
+2025-08-04 18:35:23,107 - root - INFO - *******Click Inventory Option********
+2025-08-04 18:35:23,343 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-04 18:35:28,074 - root - INFO - *******item adjustment*******
+2025-08-04 18:45:25,301 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-04 18:45:25,355 - root - INFO - *********Logging and saving username status*************
+2025-08-04 18:45:26,467 - root - INFO - *********Logging and saving password status*************
+2025-08-04 18:45:26,864 - root - INFO - *********Clicking submit button*************
+2025-08-04 18:45:27,317 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-04 18:45:27,769 - root - INFO - *********Select the Facility*************
+2025-08-04 18:45:29,867 - root - INFO - *******Click Inventory Option********
+2025-08-04 18:45:30,079 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-04 18:45:34,153 - root - INFO - *******item adjustment*******
+2025-08-05 10:21:31,279 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 10:21:31,919 - root - INFO - *********Logging and saving username status*************
+2025-08-05 10:21:32,799 - root - INFO - *********Logging and saving password status*************
+2025-08-05 10:21:33,550 - root - INFO - *********Clicking submit button*************
+2025-08-05 10:21:34,058 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 10:21:34,478 - root - INFO - *********Select the Facility*************
+2025-08-05 10:21:35,882 - root - INFO - *******Click Inventory Option********
+2025-08-05 10:21:36,080 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 10:21:41,861 - root - INFO - *******item adjustment*******
+2025-08-05 10:35:02,393 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 10:35:02,904 - root - INFO - *********Logging and saving username status*************
+2025-08-05 10:35:03,355 - root - INFO - *********Logging and saving password status*************
+2025-08-05 10:35:03,780 - root - INFO - *********Clicking submit button*************
+2025-08-05 10:35:04,260 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 10:35:04,747 - root - INFO - *********Select the Facility*************
+2025-08-05 10:35:06,464 - root - INFO - *******Click Inventory Option********
+2025-08-05 10:35:06,698 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 10:35:10,654 - root - INFO - *******item adjustment*******
+2025-08-05 10:39:58,317 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 10:39:58,366 - root - INFO - *********Logging and saving username status*************
+2025-08-05 10:39:59,590 - root - INFO - *********Logging and saving password status*************
+2025-08-05 10:40:00,059 - root - INFO - *********Clicking submit button*************
+2025-08-05 10:40:00,671 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 10:40:01,168 - root - INFO - *********Select the Facility*************
+2025-08-05 10:40:03,682 - root - INFO - *******Click Inventory Option********
+2025-08-05 10:40:03,847 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 10:40:10,095 - root - INFO - *******item adjustment*******
+2025-08-05 11:01:14,611 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 11:01:15,505 - root - INFO - *********Logging and saving username status*************
+2025-08-05 11:01:16,045 - root - INFO - *********Logging and saving password status*************
+2025-08-05 11:01:16,451 - root - INFO - *********Clicking submit button*************
+2025-08-05 11:01:16,921 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 11:01:18,350 - root - INFO - *********Select the Facility*************
+2025-08-05 11:01:18,811 - root - INFO - *******Click Inventory Option********
+2025-08-05 11:01:19,065 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 11:01:23,336 - root - INFO - *******item adjustment*******
+2025-08-05 15:04:10,880 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-08-05 15:04:14,076 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 15:04:14,777 - root - INFO - *********Logging and saving username status*************
+2025-08-05 15:04:15,319 - root - INFO - *********Logging and saving password status*************
+2025-08-05 15:04:15,740 - root - INFO - *********Clicking submit button*************
+2025-08-05 15:04:16,219 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 15:04:17,326 - root - INFO - *********Select the Facility*************
+2025-08-05 15:04:17,573 - root - INFO - *******Click Inventory Option********
+2025-08-05 15:04:18,204 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 15:04:32,303 - root - INFO - *******item adjustment*******
+2025-08-05 15:05:18,426 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 15:05:18,895 - root - INFO - *********Logging and saving username status*************
+2025-08-05 15:05:19,551 - root - INFO - *********Logging and saving password status*************
+2025-08-05 15:05:20,030 - root - INFO - *********Clicking submit button*************
+2025-08-05 15:05:20,579 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 15:05:21,886 - root - INFO - *********Select the Facility*************
+2025-08-05 15:05:22,098 - root - INFO - *******Click Inventory Option********
+2025-08-05 15:05:22,287 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 15:05:28,359 - root - INFO - *******item adjustment*******
+2025-08-05 15:07:55,973 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 15:07:56,563 - root - INFO - *********Logging and saving username status*************
+2025-08-05 15:07:57,308 - root - INFO - *********Logging and saving password status*************
+2025-08-05 15:07:57,833 - root - INFO - *********Clicking submit button*************
+2025-08-05 15:07:58,352 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 15:08:00,162 - root - INFO - *********Select the Facility*************
+2025-08-05 15:08:00,351 - root - INFO - *******Click Inventory Option********
+2025-08-05 15:08:00,562 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 15:08:05,358 - root - INFO - *******item adjustment*******
+2025-08-05 15:50:12,237 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 15:50:12,702 - root - INFO - *********Logging and saving username status*************
+2025-08-05 15:50:13,352 - root - INFO - *********Logging and saving password status*************
+2025-08-05 15:50:13,807 - root - INFO - *********Clicking submit button*************
+2025-08-05 15:50:14,299 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 15:50:15,800 - root - INFO - *********Select the Facility*************
+2025-08-05 15:50:16,275 - root - INFO - *******Click Inventory Option********
+2025-08-05 15:50:16,497 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 15:50:21,027 - root - INFO - *******item adjustment*******
+2025-08-05 15:51:42,400 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 15:51:43,870 - root - INFO - *********Logging and saving username status*************
+2025-08-05 15:51:44,365 - root - INFO - *********Logging and saving password status*************
+2025-08-05 15:51:44,782 - root - INFO - *********Clicking submit button*************
+2025-08-05 15:51:45,209 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 15:51:46,890 - root - INFO - *********Select the Facility*************
+2025-08-05 15:51:47,051 - root - INFO - *******Click Inventory Option********
+2025-08-05 15:51:47,235 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 15:51:54,323 - root - INFO - *******item adjustment*******
+2025-08-05 15:53:20,750 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 15:53:21,485 - root - INFO - *********Logging and saving username status*************
+2025-08-05 15:53:22,045 - root - INFO - *********Logging and saving password status*************
+2025-08-05 15:53:22,451 - root - INFO - *********Clicking submit button*************
+2025-08-05 15:53:22,917 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 15:53:24,216 - root - INFO - *********Select the Facility*************
+2025-08-05 15:53:24,421 - root - INFO - *******Click Inventory Option********
+2025-08-05 15:53:24,721 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 15:53:29,513 - root - INFO - *******item adjustment*******
+2025-08-05 15:56:25,362 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 15:56:25,914 - root - INFO - *********Logging and saving username status*************
+2025-08-05 15:56:26,569 - root - INFO - *********Logging and saving password status*************
+2025-08-05 15:56:27,019 - root - INFO - *********Clicking submit button*************
+2025-08-05 15:56:27,569 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 15:56:29,065 - root - INFO - *********Select the Facility*************
+2025-08-05 15:56:29,294 - root - INFO - *******Click Inventory Option********
+2025-08-05 15:56:29,742 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 15:56:35,867 - root - INFO - *******item adjustment*******
+2025-08-05 16:04:34,257 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-08-05 16:04:36,721 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 16:04:36,760 - root - INFO - *********Logging and saving username status*************
+2025-08-05 16:04:37,842 - root - INFO - *********Logging and saving password status*************
+2025-08-05 16:04:38,300 - root - INFO - *********Clicking submit button*************
+2025-08-05 16:04:38,797 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 16:04:40,639 - root - INFO - *********Select the Facility*************
+2025-08-05 16:04:40,874 - root - INFO - *******Click Inventory Option********
+2025-08-05 16:04:41,086 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 16:04:45,797 - root - INFO - *******item adjustment*******
+2025-08-05 16:13:14,068 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 16:13:15,922 - root - INFO - *********Logging and saving username status*************
+2025-08-05 16:13:16,401 - root - INFO - *********Logging and saving password status*************
+2025-08-05 16:13:16,848 - root - INFO - *********Clicking submit button*************
+2025-08-05 16:13:17,319 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 16:13:18,988 - root - INFO - *********Select the Facility*************
+2025-08-05 16:13:19,161 - root - INFO - *******Click Inventory Option********
+2025-08-05 16:13:19,331 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 16:13:24,781 - root - INFO - *******item adjustment*******
+2025-08-05 16:14:18,413 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 16:14:19,406 - root - INFO - *********Logging and saving username status*************
+2025-08-05 16:14:19,782 - root - INFO - *********Logging and saving password status*************
+2025-08-05 16:14:20,136 - root - INFO - *********Clicking submit button*************
+2025-08-05 16:14:20,643 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 16:14:22,351 - root - INFO - *********Select the Facility*************
+2025-08-05 16:14:22,582 - root - INFO - *******Click Inventory Option********
+2025-08-05 16:14:22,905 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 16:14:27,839 - root - INFO - *******item adjustment*******
+2025-08-05 16:18:22,977 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 16:18:23,960 - root - INFO - *********Logging and saving username status*************
+2025-08-05 16:18:24,381 - root - INFO - *********Logging and saving password status*************
+2025-08-05 16:18:24,821 - root - INFO - *********Clicking submit button*************
+2025-08-05 16:18:25,365 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 16:18:27,035 - root - INFO - *********Select the Facility*************
+2025-08-05 16:18:27,278 - root - INFO - *******Click Inventory Option********
+2025-08-05 16:18:27,571 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 16:18:33,247 - root - INFO - *******item adjustment*******
+2025-08-05 16:20:25,309 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 16:20:27,557 - root - INFO - *********Logging and saving username status*************
+2025-08-05 16:20:27,968 - root - INFO - *********Logging and saving password status*************
+2025-08-05 16:20:28,348 - root - INFO - *********Clicking submit button*************
+2025-08-05 16:20:29,215 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 16:20:31,303 - root - INFO - *********Select the Facility*************
+2025-08-05 16:20:31,479 - root - INFO - *******Click Inventory Option********
+2025-08-05 16:20:31,656 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 16:20:39,054 - root - INFO - *******item adjustment*******
+2025-08-05 18:35:42,837 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-08-05 18:35:45,768 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 18:35:46,346 - root - INFO - *********Logging and saving username status*************
+2025-08-05 18:35:46,982 - root - INFO - *********Logging and saving password status*************
+2025-08-05 18:35:47,427 - root - INFO - *********Clicking submit button*************
+2025-08-05 18:35:47,866 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 18:35:48,830 - root - INFO - *********Select the Facility*************
+2025-08-05 18:35:49,039 - root - INFO - *******Click Inventory Option********
+2025-08-05 18:35:49,630 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 18:35:56,003 - root - INFO - *******item adjustment*******
+2025-08-05 18:37:14,823 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 18:37:15,392 - root - INFO - *********Logging and saving username status*************
+2025-08-05 18:37:15,900 - root - INFO - *********Logging and saving password status*************
+2025-08-05 18:37:16,301 - root - INFO - *********Clicking submit button*************
+2025-08-05 18:37:16,729 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 18:37:18,036 - root - INFO - *********Select the Facility*************
+2025-08-05 18:37:18,221 - root - INFO - *******Click Inventory Option********
+2025-08-05 18:37:18,508 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 18:37:23,951 - root - INFO - *******item adjustment*******
+2025-08-05 18:39:52,408 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 18:39:53,023 - root - INFO - *********Logging and saving username status*************
+2025-08-05 18:39:53,571 - root - INFO - *********Logging and saving password status*************
+2025-08-05 18:39:54,023 - root - INFO - *********Clicking submit button*************
+2025-08-05 18:39:54,441 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 18:39:55,829 - root - INFO - *********Select the Facility*************
+2025-08-05 18:39:56,010 - root - INFO - *******Click Inventory Option********
+2025-08-05 18:39:56,250 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 18:40:02,174 - root - INFO - *******item adjustment*******
+2025-08-05 18:41:09,389 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 18:41:09,846 - root - INFO - *********Logging and saving username status*************
+2025-08-05 18:41:10,356 - root - INFO - *********Logging and saving password status*************
+2025-08-05 18:41:10,724 - root - INFO - *********Clicking submit button*************
+2025-08-05 18:41:11,154 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 18:41:12,504 - root - INFO - *********Select the Facility*************
+2025-08-05 18:41:12,647 - root - INFO - *******Click Inventory Option********
+2025-08-05 18:41:12,896 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 18:41:18,697 - root - INFO - *******item adjustment*******
+2025-08-05 19:08:31,407 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 19:08:32,658 - root - INFO - *********Logging and saving username status*************
+2025-08-05 19:08:34,339 - root - INFO - *********Logging and saving password status*************
+2025-08-05 19:08:34,878 - root - INFO - *********Clicking submit button*************
+2025-08-05 19:08:35,487 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 19:08:37,088 - root - INFO - *********Select the Facility*************
+2025-08-05 19:08:37,258 - root - INFO - *******Click Inventory Option********
+2025-08-05 19:08:37,580 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 19:08:45,672 - root - INFO - *******item adjustment*******
+2025-08-05 19:10:00,349 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 19:10:00,975 - root - INFO - *********Logging and saving username status*************
+2025-08-05 19:10:01,516 - root - INFO - *********Logging and saving password status*************
+2025-08-05 19:10:02,058 - root - INFO - *********Clicking submit button*************
+2025-08-05 19:10:02,538 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 19:10:04,105 - root - INFO - *********Select the Facility*************
+2025-08-05 19:10:04,540 - root - INFO - *******Click Inventory Option********
+2025-08-05 19:10:04,789 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 19:10:10,483 - root - INFO - *******item adjustment*******
+2025-08-05 19:16:32,684 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-05 19:16:34,151 - root - INFO - *********Logging and saving username status*************
+2025-08-05 19:16:34,612 - root - INFO - *********Logging and saving password status*************
+2025-08-05 19:16:35,023 - root - INFO - *********Clicking submit button*************
+2025-08-05 19:16:35,451 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-05 19:16:37,140 - root - INFO - *********Select the Facility*************
+2025-08-05 19:16:37,464 - root - INFO - *******Click Inventory Option********
+2025-08-05 19:16:37,689 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-05 19:16:42,659 - root - INFO - *******item adjustment*******
+2025-08-06 10:22:33,711 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-06 10:22:33,750 - root - INFO - *********Logging and saving username status*************
+2025-08-06 10:22:35,029 - root - INFO - *********Logging and saving password status*************
+2025-08-06 10:22:35,550 - root - INFO - *********Clicking submit button*************
+2025-08-06 10:22:36,034 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-06 10:22:37,652 - root - INFO - *********Select the Facility*************
+2025-08-06 10:22:37,927 - root - INFO - *******Click Inventory Option********
+2025-08-06 10:22:38,260 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-06 10:22:43,167 - root - INFO - *******item adjustment*******
+2025-08-06 10:24:07,997 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-06 10:24:08,453 - root - INFO - *********Logging and saving username status*************
+2025-08-06 10:24:08,999 - root - INFO - *********Logging and saving password status*************
+2025-08-06 10:24:09,414 - root - INFO - *********Clicking submit button*************
+2025-08-06 10:24:09,930 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-06 10:24:11,404 - root - INFO - *********Select the Facility*************
+2025-08-06 10:24:11,591 - root - INFO - *******Click Inventory Option********
+2025-08-06 10:24:11,785 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-06 10:24:16,868 - root - INFO - *******item adjustment*******
+2025-08-06 10:26:50,273 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-06 10:26:51,848 - root - INFO - *********Logging and saving username status*************
+2025-08-06 10:26:52,268 - root - INFO - *********Logging and saving password status*************
+2025-08-06 10:26:52,649 - root - INFO - *********Clicking submit button*************
+2025-08-06 10:26:53,133 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-06 10:26:54,980 - root - INFO - *********Select the Facility*************
+2025-08-06 10:26:55,181 - root - INFO - *******Click Inventory Option********
+2025-08-06 10:26:55,371 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-06 10:27:00,869 - root - INFO - *******item adjustment*******
+2025-08-06 10:40:39,979 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-06 10:40:40,023 - root - INFO - *********Logging and saving username status*************
+2025-08-06 10:40:41,192 - root - INFO - *********Logging and saving password status*************
+2025-08-06 10:40:41,620 - root - INFO - *********Clicking submit button*************
+2025-08-06 10:40:42,069 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-06 10:40:43,506 - root - INFO - *********Select the Facility*************
+2025-08-06 10:40:43,721 - root - INFO - *******Click Inventory Option********
+2025-08-06 10:40:44,013 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-06 10:40:48,822 - root - INFO - *******item adjustment*******
+2025-08-06 10:47:09,231 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-06 10:47:10,188 - root - INFO - *********Logging and saving username status*************
+2025-08-06 10:47:10,707 - root - INFO - *********Logging and saving password status*************
+2025-08-06 10:47:11,153 - root - INFO - *********Clicking submit button*************
+2025-08-06 10:47:11,633 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-06 10:47:13,424 - root - INFO - *********Select the Facility*************
+2025-08-06 10:47:13,586 - root - INFO - *******Click Inventory Option********
+2025-08-06 10:47:13,770 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-06 10:47:21,252 - root - INFO - *******item adjustment*******
+2025-08-06 13:11:29,055 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-06 13:11:29,452 - root - INFO - *********Logging and saving username status*************
+2025-08-06 13:11:29,906 - root - INFO - *********Logging and saving password status*************
+2025-08-06 13:11:30,252 - root - INFO - *********Clicking submit button*************
+2025-08-06 13:11:30,624 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-06 13:11:31,914 - root - INFO - *********Select the Facility*************
+2025-08-06 13:11:32,024 - root - INFO - *******Click Inventory Option********
+2025-08-06 13:11:32,219 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-06 13:11:36,970 - root - INFO - *******item adjustment*******
+2025-08-06 13:14:58,477 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-06 13:14:58,849 - root - INFO - *********Logging and saving username status*************
+2025-08-06 13:14:59,254 - root - INFO - *********Logging and saving password status*************
+2025-08-06 13:14:59,588 - root - INFO - *********Clicking submit button*************
+2025-08-06 13:15:00,204 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-06 13:15:01,886 - root - INFO - *********Select the Facility*************
+2025-08-06 13:15:02,005 - root - INFO - *******Click Inventory Option********
+2025-08-06 13:15:02,144 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-06 13:15:06,129 - root - INFO - *******item adjustment*******
+2025-08-06 14:35:54,027 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-08-06 14:35:56,680 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-06 14:35:57,344 - root - INFO - *********Logging and saving username status*************
+2025-08-06 14:35:57,905 - root - INFO - *********Logging and saving password status*************
+2025-08-06 14:35:58,366 - root - INFO - *********Clicking submit button*************
+2025-08-06 14:35:58,857 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-06 14:36:00,326 - root - INFO - *********Select the Facility*************
+2025-08-06 14:36:00,812 - root - INFO - *******Click Inventory Option********
+2025-08-06 14:36:01,140 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-06 14:36:06,712 - root - INFO - *******item adjustment*******
+2025-08-06 14:39:56,174 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-06 14:39:57,082 - root - INFO - *********Logging and saving username status*************
+2025-08-06 14:39:57,640 - root - INFO - *********Logging and saving password status*************
+2025-08-06 14:39:58,161 - root - INFO - *********Clicking submit button*************
+2025-08-06 14:39:58,735 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-06 14:40:00,599 - root - INFO - *********Select the Facility*************
+2025-08-06 14:40:00,915 - root - INFO - *******Click Inventory Option********
+2025-08-06 14:40:01,137 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-06 14:40:06,035 - root - INFO - *******item adjustment*******
+2025-08-06 14:41:54,903 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-06 14:41:56,818 - root - INFO - *********Logging and saving username status*************
+2025-08-06 14:41:57,235 - root - INFO - *********Logging and saving password status*************
+2025-08-06 14:41:57,706 - root - INFO - *********Clicking submit button*************
+2025-08-06 14:41:58,171 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-06 14:41:59,839 - root - INFO - *********Select the Facility*************
+2025-08-06 14:41:59,998 - root - INFO - *******Click Inventory Option********
+2025-08-06 14:42:00,202 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-06 14:42:05,602 - root - INFO - *******item adjustment*******
+2025-08-06 14:52:32,290 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-06 14:52:32,875 - root - INFO - *********Logging and saving username status*************
+2025-08-06 14:52:33,540 - root - INFO - *********Logging and saving password status*************
+2025-08-06 14:52:34,010 - root - INFO - *********Clicking submit button*************
+2025-08-06 14:52:34,494 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-06 14:52:36,059 - root - INFO - *********Select the Facility*************
+2025-08-06 14:52:36,216 - root - INFO - *******Click Inventory Option********
+2025-08-06 14:52:36,408 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-06 14:52:42,378 - root - INFO - *******item adjustment*******
+2025-08-06 15:23:49,728 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-06 15:23:50,375 - root - INFO - *********Logging and saving username status*************
+2025-08-06 15:23:51,003 - root - INFO - *********Logging and saving password status*************
+2025-08-06 15:23:51,517 - root - INFO - *********Clicking submit button*************
+2025-08-06 15:23:52,037 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-06 15:23:53,842 - root - INFO - *********Select the Facility*************
+2025-08-06 15:23:54,092 - root - INFO - *******Click Inventory Option********
+2025-08-06 15:23:54,289 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-06 15:23:59,245 - root - INFO - *******item adjustment*******
+2025-08-06 15:46:55,101 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-06 15:46:55,702 - root - INFO - *********Logging and saving username status*************
+2025-08-06 15:46:56,392 - root - INFO - *********Logging and saving password status*************
+2025-08-06 15:46:56,882 - root - INFO - *********Clicking submit button*************
+2025-08-06 15:46:57,400 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-06 15:46:58,898 - root - INFO - *********Select the Facility*************
+2025-08-06 15:46:59,095 - root - INFO - *******Click Inventory Option********
+2025-08-06 15:46:59,515 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-06 15:47:05,365 - root - INFO - *******item adjustment*******
+2025-08-06 15:51:57,005 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-06 15:51:57,558 - root - INFO - *********Logging and saving username status*************
+2025-08-06 15:51:58,120 - root - INFO - *********Logging and saving password status*************
+2025-08-06 15:51:58,550 - root - INFO - *********Clicking submit button*************
+2025-08-06 15:51:59,121 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-06 15:52:01,115 - root - INFO - *********Select the Facility*************
+2025-08-06 15:52:01,301 - root - INFO - *******Click Inventory Option********
+2025-08-06 15:52:01,473 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-06 15:52:05,887 - root - INFO - *******item adjustment*******
+2025-08-06 15:55:25,716 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-06 15:55:26,729 - root - INFO - *********Logging and saving username status*************
+2025-08-06 15:55:27,215 - root - INFO - *********Logging and saving password status*************
+2025-08-06 15:55:27,615 - root - INFO - *********Clicking submit button*************
+2025-08-06 15:55:28,291 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-06 15:55:30,252 - root - INFO - *********Select the Facility*************
+2025-08-06 15:55:30,411 - root - INFO - *******Click Inventory Option********
+2025-08-06 15:55:30,596 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-06 15:55:36,146 - root - INFO - *******item adjustment*******
+2025-08-06 15:56:43,637 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-06 15:56:44,191 - root - INFO - *********Logging and saving username status*************
+2025-08-06 15:56:44,837 - root - INFO - *********Logging and saving password status*************
+2025-08-06 15:56:45,349 - root - INFO - *********Clicking submit button*************
+2025-08-06 15:56:45,937 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-06 15:56:47,327 - root - INFO - *********Select the Facility*************
+2025-08-06 15:56:47,629 - root - INFO - *******Click Inventory Option********
+2025-08-06 15:56:48,029 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-06 15:56:53,268 - root - INFO - *******item adjustment*******
+2025-08-11 12:56:04,495 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-11 12:56:05,296 - root - INFO - *********Logging and saving username status*************
+2025-08-11 12:56:05,804 - root - INFO - *********Logging and saving password status*************
+2025-08-11 12:56:06,262 - root - INFO - *********Clicking submit button*************
+2025-08-11 12:56:06,684 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-11 12:56:07,118 - root - INFO - *********Select the Facility*************
+2025-08-11 12:56:09,556 - root - INFO - *******Click Inventory Option********
+2025-08-11 12:56:09,756 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-11 12:56:15,033 - root - INFO - *******item adjustment*******
+2025-08-11 13:02:47,137 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-11 13:02:47,899 - root - INFO - *********Logging and saving username status*************
+2025-08-11 13:02:48,412 - root - INFO - *********Logging and saving password status*************
+2025-08-11 13:02:48,836 - root - INFO - *********Clicking submit button*************
+2025-08-11 13:02:49,286 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-11 13:02:49,751 - root - INFO - *********Select the Facility*************
+2025-08-11 13:03:17,865 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-11 13:03:18,478 - root - INFO - *********Logging and saving username status*************
+2025-08-11 13:03:19,007 - root - INFO - *********Logging and saving password status*************
+2025-08-11 13:03:19,572 - root - INFO - *********Clicking submit button*************
+2025-08-11 13:03:20,052 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-11 13:03:20,548 - root - INFO - *********Select the Facility*************
+2025-08-11 13:03:21,671 - root - INFO - *******Click Inventory Option********
+2025-08-11 13:03:22,097 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-11 13:03:26,487 - root - INFO - *******item adjustment*******
+2025-08-11 13:06:08,810 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-11 13:06:10,054 - root - INFO - *********Logging and saving username status*************
+2025-08-11 13:06:10,620 - root - INFO - *********Logging and saving password status*************
+2025-08-11 13:06:11,057 - root - INFO - *********Clicking submit button*************
+2025-08-11 13:06:11,562 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-11 13:06:12,031 - root - INFO - *********Select the Facility*************
+2025-08-11 13:06:15,244 - root - INFO - *******Click Inventory Option********
+2025-08-11 13:06:15,433 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-11 13:06:20,002 - root - INFO - *******item adjustment*******
+2025-08-11 14:00:13,374 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-11 14:00:14,356 - root - INFO - *********Logging and saving username status*************
+2025-08-11 14:00:15,000 - root - INFO - *********Logging and saving password status*************
+2025-08-11 14:00:15,634 - root - INFO - *********Clicking submit button*************
+2025-08-11 14:00:16,188 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-11 14:00:16,701 - root - INFO - *********Select the Facility*************
+2025-08-11 14:00:18,848 - root - INFO - *******Click Inventory Option********
+2025-08-11 14:00:19,046 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-11 14:00:23,673 - root - INFO - *******item adjustment*******
+2025-08-11 14:10:38,057 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-11 14:10:38,891 - root - INFO - *********Logging and saving username status*************
+2025-08-11 14:10:39,482 - root - INFO - *********Logging and saving password status*************
+2025-08-11 14:10:39,970 - root - INFO - *********Clicking submit button*************
+2025-08-11 14:10:40,535 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-11 14:10:41,048 - root - INFO - *********Select the Facility*************
+2025-08-11 14:10:46,468 - root - INFO - *******Click Inventory Option********
+2025-08-11 14:10:46,765 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-11 14:10:52,851 - root - INFO - *******item adjustment*******
+2025-08-11 14:48:47,211 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-11 14:48:47,635 - root - INFO - *********Logging and saving username status*************
+2025-08-11 14:48:47,980 - root - INFO - *********Logging and saving password status*************
+2025-08-11 14:48:48,290 - root - INFO - *********Clicking submit button*************
+2025-08-11 14:48:48,669 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-11 14:48:49,066 - root - INFO - *********Select the Facility*************
+2025-08-11 14:48:55,052 - root - INFO - *******Click Inventory Option********
+2025-08-11 14:48:55,287 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-11 14:48:59,461 - root - INFO - *******item adjustment*******
+2025-08-11 14:51:17,486 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-11 14:51:18,080 - root - INFO - *********Logging and saving username status*************
+2025-08-11 14:51:18,494 - root - INFO - *********Logging and saving password status*************
+2025-08-11 14:51:18,879 - root - INFO - *********Clicking submit button*************
+2025-08-11 14:51:19,272 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-11 14:51:19,632 - root - INFO - *********Select the Facility*************
+2025-08-11 14:51:21,548 - root - INFO - *******Click Inventory Option********
+2025-08-11 14:51:21,728 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-11 14:51:25,628 - root - INFO - *******item adjustment*******
+2025-08-11 14:52:24,371 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-11 14:52:24,392 - root - INFO - *********Logging and saving username status*************
+2025-08-11 14:52:25,260 - root - INFO - *********Logging and saving password status*************
+2025-08-11 14:52:25,628 - root - INFO - *********Clicking submit button*************
+2025-08-11 14:52:26,088 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-11 14:52:26,452 - root - INFO - *********Select the Facility*************
+2025-08-11 14:52:29,596 - root - INFO - *******Click Inventory Option********
+2025-08-11 14:52:29,788 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-11 14:52:33,270 - root - INFO - *******item adjustment*******
+2025-08-11 16:45:03,203 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-11 16:45:03,242 - root - INFO - *********Logging and saving username status*************
+2025-08-11 16:45:04,126 - root - INFO - *********Logging and saving password status*************
+2025-08-11 16:45:04,557 - root - INFO - *********Clicking submit button*************
+2025-08-11 16:45:04,959 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-11 16:45:05,359 - root - INFO - *********Select the Facility*************
+2025-08-11 16:45:07,895 - root - INFO - *******Click Inventory Option********
+2025-08-11 16:45:08,044 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-11 16:45:11,156 - root - INFO - *******item adjustment*******
+2025-08-11 19:31:01,506 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-08-11 19:31:04,621 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-11 19:31:07,083 - root - INFO - *********Logging and saving username status*************
+2025-08-11 19:31:07,481 - root - INFO - *********Logging and saving password status*************
+2025-08-11 19:31:07,912 - root - INFO - *********Clicking submit button*************
+2025-08-11 19:31:08,566 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-11 19:31:09,363 - root - INFO - *********Select the Facility*************
+2025-08-11 19:31:12,200 - root - INFO - *******Click Inventory Option********
+2025-08-11 19:31:12,484 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-11 19:31:18,624 - root - INFO - *******item adjustment*******
+2025-08-11 19:37:07,407 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-11 19:37:08,403 - root - INFO - *********Logging and saving username status*************
+2025-08-11 19:37:08,883 - root - INFO - *********Logging and saving password status*************
+2025-08-11 19:37:09,288 - root - INFO - *********Clicking submit button*************
+2025-08-11 19:37:09,687 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-11 19:37:10,129 - root - INFO - *********Select the Facility*************
+2025-08-11 19:37:12,228 - root - INFO - *******Click Inventory Option********
+2025-08-11 19:37:12,591 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-11 19:37:17,853 - root - INFO - *******item adjustment*******
+2025-08-11 19:41:22,261 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-11 19:41:22,843 - root - INFO - *********Logging and saving username status*************
+2025-08-11 19:41:23,565 - root - INFO - *********Logging and saving password status*************
+2025-08-11 19:41:24,108 - root - INFO - *********Clicking submit button*************
+2025-08-11 19:41:24,616 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-11 19:41:25,113 - root - INFO - *********Select the Facility*************
+2025-08-11 19:41:26,746 - root - INFO - *******Click Inventory Option********
+2025-08-11 19:41:27,009 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-11 19:41:32,309 - root - INFO - *******item adjustment*******
+2025-08-12 18:46:05,375 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-12 18:46:05,930 - root - INFO - *********Logging and saving username status*************
+2025-08-12 18:46:06,577 - root - INFO - *********Logging and saving password status*************
+2025-08-12 18:46:07,046 - root - INFO - *********Clicking submit button*************
+2025-08-12 18:46:07,523 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-12 18:46:08,029 - root - INFO - *********Select the Facility*************
+2025-08-12 18:46:10,631 - root - INFO - *******Click Inventory Option********
+2025-08-12 18:46:10,884 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-12 18:46:24,548 - root - INFO - *******item adjustment*******
+2025-08-12 19:27:29,964 - root - INFO - *********URL is invoked in the Browser*************
+2025-08-12 19:27:30,939 - root - INFO - *********Logging and saving username status*************
+2025-08-12 19:27:31,776 - root - INFO - *********Logging and saving password status*************
+2025-08-12 19:27:32,586 - root - INFO - *********Clicking submit button*************
+2025-08-12 19:27:33,472 - root - INFO - *************Click Yes Button in the POP UP*******************
+2025-08-12 19:27:34,693 - root - INFO - *********Select the Facility*************
+2025-08-12 19:27:36,991 - root - INFO - *******Click Inventory Option********
+2025-08-12 19:27:37,356 - root - INFO - *******Select_options_from_inventory_dropdown*******
+2025-08-12 19:28:26,538 - root - INFO - *******item adjustment*******
